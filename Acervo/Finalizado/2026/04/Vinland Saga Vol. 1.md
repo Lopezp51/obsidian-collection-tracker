@@ -1,20 +1,22 @@
 ---
-Processado em: {{VALUE:dataFinal}}
-Situação: {{VALUE:situacao}}
-Data de Entrega: 
-Chegou: {{VALUE:chegouFinal}}
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: {{VALUE:Páginas}}
-valor: {{VALUE:valorFinal}}
+Processado em: null
+Situação: Finalizado
+Data de Entrega: null
+Chegou: false
+Status de Leitura: Lido
+Vezes que Li: 1
+Páginas: 222
+valor: 0.0
 Favorito: false
-Avaliação: 0
-imagem: "{{VALUE:imagemFinal}}"
-Tipo: Manga
-Última Leitura: 
-Data de Publicação: 
+Avaliação: 4.5
+imagem: Banco de Imagens/HQ's/Vinland Saga Vol. 1.webp
+Nexo:
+- Manga
+Última Leitura: 2026-04-05
+Data de Publicação: 2014-02-05
 Universo: Manga
-Planejo pegar em:
+Planejo pegar em: null
+Emprestado: true
 ---
 
 > [!bookbox]
@@ -23,11 +25,11 @@ Planejo pegar em:
 > ```
 > <div class="book-metadata">
 >
-> **Avaliação:** `$= const r = dv.current()?.Avaliação || 0; let s = "<div class='rating-wrapper'>"; for (let i = 1; i <= 5; i++) { if (i <= Math.floor(r)) { s += "<span class='rating-star star-full'>" + obsidian.getIcon("star").outerHTML + "</span>"; } else if (i === Math.ceil(r) && r % 1 >= 0.5) { s += "<span class='rating-star star-half'>" + obsidian.getIcon("star-half").outerHTML + "</span>"; } else { s += "<span class='rating-star star-empty'>" + obsidian.getIcon("star").outerHTML + "</span>"; } } s += "</div>"; dv.span(s)`
+> **Avaliação:** `$= const r = dv.current().Avaliação || 0; let s = "<div class='rating-wrapper'>"; for (let i = 1; i <= 5; i++) { if (i <= Math.floor(r)) { s += "<span class='rating-star star-full'>" + obsidian.getIcon("star").outerHTML + "</span>"; } else if (i === Math.ceil(r) && r % 1 >= 0.5) { s += "<span class='rating-star star-half'>" + obsidian.getIcon("star-half").outerHTML + "</span>"; } else { s += "<span class='rating-star star-empty'>" + obsidian.getIcon("star").outerHTML + "</span>"; } } s += "</div>"; dv.span(s)`
 > ```dataviewjs
-> const total = dv.current()?.["Páginas"] || 1;
-> const listas = dv.current()?.file?.lists || [];
-> const progresso = listas.where ? listas.where(i => i.pagina != null).map(i => Number(i.pagina)) : [];
+> const total = dv.current()["Páginas"] || 1;
+> const listaItens = dv.current().file.lists;
+> const progresso = listaItens.where(i => i.pagina != null).map(i => Number(i.pagina));
 > let atual = 0;
 > if (progresso.length > 0) { atual = Math.max(...progresso); }
 > const pct = Math.min(100, Math.round((atual / total) * 100));

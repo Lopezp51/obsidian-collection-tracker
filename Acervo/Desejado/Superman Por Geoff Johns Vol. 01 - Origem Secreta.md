@@ -1,20 +1,24 @@
 ---
-Processado em: {{VALUE:dataFinal}}
-Situação: {{VALUE:situacao}}
+Processado em: 2026-04-18
+Situação: Desejado
 Data de Entrega: 
-Chegou: {{VALUE:chegouFinal}}
+Chegou: false
 Status de Leitura: Não Iniciado
 Vezes que Li: 0
-Páginas: {{VALUE:Páginas}}
-valor: {{VALUE:valorFinal}}
+Páginas: 224
+valor: 122.9
 Favorito: false
 Avaliação: 0
-imagem: "{{VALUE:imagemFinal}}"
-Tipo: Manga
+imagem: "Banco de Imagens/HQ's/Superman Por Geoff Johns Vol. 01 - Origem Secreta.jpg"
+Tipo: Quadrinho
 Última Leitura: 
-Data de Publicação: 
-Universo: Manga
-Planejo pegar em:
+Data de Publicação: 2026-05-01
+Universo: DC
+Planejo pegar em: 
+Nexo:
+  - Quadrinho
+  - Panini
+  - Superman
 ---
 
 > [!bookbox]

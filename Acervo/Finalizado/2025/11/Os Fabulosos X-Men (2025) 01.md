@@ -1,20 +1,24 @@
 ---
-Processado em: {{VALUE:dataFinal}}
-Situação: {{VALUE:situacao}}
-Data de Entrega: 
-Chegou: {{VALUE:chegouFinal}}
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: {{VALUE:Páginas}}
-valor: {{VALUE:valorFinal}}
+Processado em: 2025-11-12
+Situação: Finalizado
+Data de Entrega: null
+Chegou: true
+Status de Leitura: Lido
+Vezes que Li: 1
+Páginas: 48
+valor: 11.18
 Favorito: false
-Avaliação: 0
-imagem: "{{VALUE:imagemFinal}}"
-Tipo: Manga
-Última Leitura: 
-Data de Publicação: 
-Universo: Manga
-Planejo pegar em:
+Avaliação: 3
+imagem: Banco de Imagens/HQ's/Os Fabulosos X-Men (2025) Vol. 1.jpg
+Tipo: Quadrinho
+Última Leitura: 2025-12-13
+Data de Publicação: 2025-07-01
+Universo: Marvel
+Nexo:
+- Quadrinho
+- Sem Limites
+- X-Men
+- Panini
 ---
 
 > [!bookbox]
@@ -23,11 +27,11 @@ Planejo pegar em:
 > ```
 > <div class="book-metadata">
 >
-> **Avaliação:** `$= const r = dv.current()?.Avaliação || 0; let s = "<div class='rating-wrapper'>"; for (let i = 1; i <= 5; i++) { if (i <= Math.floor(r)) { s += "<span class='rating-star star-full'>" + obsidian.getIcon("star").outerHTML + "</span>"; } else if (i === Math.ceil(r) && r % 1 >= 0.5) { s += "<span class='rating-star star-half'>" + obsidian.getIcon("star-half").outerHTML + "</span>"; } else { s += "<span class='rating-star star-empty'>" + obsidian.getIcon("star").outerHTML + "</span>"; } } s += "</div>"; dv.span(s)`
+> **Avaliação:** `$= const r = dv.current().Avaliação || 0; let s = "<div class='rating-wrapper'>"; for (let i = 1; i <= 5; i++) { if (i <= Math.floor(r)) { s += "<span class='rating-star star-full'>" + obsidian.getIcon("star").outerHTML + "</span>"; } else if (i === Math.ceil(r) && r % 1 >= 0.5) { s += "<span class='rating-star star-half'>" + obsidian.getIcon("star-half").outerHTML + "</span>"; } else { s += "<span class='rating-star star-empty'>" + obsidian.getIcon("star").outerHTML + "</span>"; } } s += "</div>"; dv.span(s)`
 > ```dataviewjs
-> const total = dv.current()?.["Páginas"] || 1;
-> const listas = dv.current()?.file?.lists || [];
-> const progresso = listas.where ? listas.where(i => i.pagina != null).map(i => Number(i.pagina)) : [];
+> const total = dv.current()["Páginas"] || 1;
+> const listaItens = dv.current().file.lists;
+> const progresso = listaItens.where(i => i.pagina != null).map(i => Number(i.pagina));
 > let atual = 0;
 > if (progresso.length > 0) { atual = Math.max(...progresso); }
 > const pct = Math.min(100, Math.round((atual / total) * 100));
@@ -66,3 +70,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2025-12-13] | [pagina:: 48] | [obs:: Primeira mensal da marvel que li, começo ta okay.]

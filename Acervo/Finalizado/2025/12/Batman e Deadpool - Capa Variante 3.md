@@ -1,20 +1,23 @@
 ---
-Processado em: {{VALUE:dataFinal}}
-Situação: {{VALUE:situacao}}
-Data de Entrega: 
-Chegou: {{VALUE:chegouFinal}}
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: {{VALUE:Páginas}}
-valor: {{VALUE:valorFinal}}
+Processado em: 2025-12-23
+Situação: Finalizado
+Data de Entrega: 2025-12-26
+Chegou: true
+Status de Leitura: Lido
+Vezes que Li: 1
+Páginas: 64
+valor: 23.12
 Favorito: false
-Avaliação: 0
-imagem: "{{VALUE:imagemFinal}}"
-Tipo: Manga
-Última Leitura: 
-Data de Publicação: 
-Universo: Manga
-Planejo pegar em:
+Avaliação: 4
+imagem: Banco de Imagens/HQ's/Batman e Deadpool - Capa Variante 3.webp
+Tipo: Quadrinho
+Última Leitura: 2026-01-01
+Data de Publicação: 2025-12-01
+Universo: DC
+Nexo:
+- Quadrinho
+- Batman
+- Panini
 ---
 
 > [!bookbox]
@@ -23,11 +26,11 @@ Planejo pegar em:
 > ```
 > <div class="book-metadata">
 >
-> **Avaliação:** `$= const r = dv.current()?.Avaliação || 0; let s = "<div class='rating-wrapper'>"; for (let i = 1; i <= 5; i++) { if (i <= Math.floor(r)) { s += "<span class='rating-star star-full'>" + obsidian.getIcon("star").outerHTML + "</span>"; } else if (i === Math.ceil(r) && r % 1 >= 0.5) { s += "<span class='rating-star star-half'>" + obsidian.getIcon("star-half").outerHTML + "</span>"; } else { s += "<span class='rating-star star-empty'>" + obsidian.getIcon("star").outerHTML + "</span>"; } } s += "</div>"; dv.span(s)`
+> **Avaliação:** `$= const r = dv.current().Avaliação || 0; let s = "<div class='rating-wrapper'>"; for (let i = 1; i <= 5; i++) { if (i <= Math.floor(r)) { s += "<span class='rating-star star-full'>" + obsidian.getIcon("star").outerHTML + "</span>"; } else if (i === Math.ceil(r) && r % 1 >= 0.5) { s += "<span class='rating-star star-half'>" + obsidian.getIcon("star-half").outerHTML + "</span>"; } else { s += "<span class='rating-star star-empty'>" + obsidian.getIcon("star").outerHTML + "</span>"; } } s += "</div>"; dv.span(s)`
 > ```dataviewjs
-> const total = dv.current()?.["Páginas"] || 1;
-> const listas = dv.current()?.file?.lists || [];
-> const progresso = listas.where ? listas.where(i => i.pagina != null).map(i => Number(i.pagina)) : [];
+> const total = dv.current()["Páginas"] || 1;
+> const listaItens = dv.current().file.lists;
+> const progresso = listaItens.where(i => i.pagina != null).map(i => Number(i.pagina));
 > let atual = 0;
 > if (progresso.length > 0) { atual = Math.max(...progresso); }
 > const pct = Math.min(100, Math.round((atual / total) * 100));
@@ -66,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-01-01] | [pagina:: 64] | [obs:: Curti bastante também, a parte principal do batman e deadpool eu achei que funcionou melhor do que a versão da marvel, e a história da Wolverine com o Asa Noturna foi bem daora.]

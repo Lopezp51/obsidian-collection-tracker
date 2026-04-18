@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - note["Autore(s)"].isEmpty()
+        - file.ext == "md"
+    sort:
+      - property: file.name
+        direction: ASC
