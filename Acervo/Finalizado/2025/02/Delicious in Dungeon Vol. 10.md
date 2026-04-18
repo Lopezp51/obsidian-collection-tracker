@@ -13,7 +13,7 @@ imagem: Banco de Imagens/Mangas/Delicious In Dungeon Vol. 10.webp
 Nexo:
   - Manga
   - Delicious in Dungeon
-Autore(s): Ryoko Kui
+Equipe Criativa Geral: Ryoko Kui
 Última Leitura: 2025-03-09
 Data de Publicação: 2025-01-16
 Universo: Manga

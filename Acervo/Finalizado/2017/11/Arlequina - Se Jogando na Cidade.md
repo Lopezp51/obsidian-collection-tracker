@@ -14,7 +14,7 @@ Tipo: Quadrinho
 Última Leitura: 2017-12-15
 Data de Publicação: 2017-09-01
 Universo: DC
-Autore(s):
+Equipe Criativa Geral:
 - Amanda Conner (Roteiro)
 - Jimmy Palmiotti (Roteiro)
 - Chad Hardin (Arte)

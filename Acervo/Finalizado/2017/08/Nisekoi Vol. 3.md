@@ -18,7 +18,7 @@ Nexo:
 - Manga
 - Nisekoi
 - Panini
-Autore(s):
+Equipe Criativa Geral:
 - Naoshi Komi (Criador)
 ---
 

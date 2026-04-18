@@ -18,7 +18,7 @@ Nexo:
 - Manga
 - Santo Guerreiro - Roma Invicta
 - Panini
-Autore(s):
+Equipe Criativa Geral:
 - Eduardo Spohr (Autor)
 ---
 

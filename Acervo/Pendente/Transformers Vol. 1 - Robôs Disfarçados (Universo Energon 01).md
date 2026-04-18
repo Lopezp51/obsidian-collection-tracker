@@ -20,7 +20,7 @@ Nexo:
 - Transformers
 - Panini
 - Universo Energon
-Autore(s):
+Equipe Criativa Geral:
 - Daniel Warren Johnson (Roteiro)
 - Daniel Warren Johnson (Arte)
 - Mike Spicer (Arte)

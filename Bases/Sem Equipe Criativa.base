@@ -3,7 +3,7 @@ views:
     name: Tabela
     filters:
       and:
-        - note["Autore(s)"].isEmpty()
+        - note["Equipe Criativa Geral"].isEmpty()
         - file.ext == "md"
     sort:
       - property: file.name

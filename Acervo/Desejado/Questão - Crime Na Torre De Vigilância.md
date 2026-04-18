@@ -19,7 +19,7 @@ Nexo:
 Data de Publicação: 2026-05-25
 Universo: DC
 Planejo pegar em: null
-Autore(s):
+Equipe Criativa Geral:
 - Alex Segura (Roteiro)
 - Cian Tormey (Arte)
 ---

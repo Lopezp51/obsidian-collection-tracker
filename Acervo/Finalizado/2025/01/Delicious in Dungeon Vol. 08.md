@@ -13,7 +13,7 @@ imagem: Banco de Imagens/Mangas/Delicious In Dungeon Vol. 08.jpeg
 Nexo:
   - Manga
   - Delicious in Dungeon
-Autore(s): Ryoko Kui
+Equipe Criativa Geral: Ryoko Kui
 Última Leitura: 2025-02-10
 Data de Publicação: 2024-10-24
 Universo: Manga

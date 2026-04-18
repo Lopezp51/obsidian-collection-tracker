@@ -15,7 +15,7 @@ Tipo: Livro
 Data de Publicação: 2025-12-01
 Universo: Indie
 Planejo pegar em: null
-Autore(s):
+Equipe Criativa Geral:
 - Premeet Sidhu (Autor)
 - Marcus Carter (Autor)
 - José P. Zagal (Autor)

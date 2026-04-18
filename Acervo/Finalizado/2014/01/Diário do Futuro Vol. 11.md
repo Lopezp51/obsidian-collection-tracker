@@ -18,7 +18,7 @@ Nexo:
 - Manga
 - Diário do Futuro
 - Panini
-Autore(s):
+Equipe Criativa Geral:
 - Sakae Esuno (Criador)
 ---
 

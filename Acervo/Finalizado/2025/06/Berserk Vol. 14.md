@@ -17,7 +17,7 @@ Nexo:
 Última Leitura: 2025-09-23
 Data de Publicação: 2016-10-01
 Universo: Manga
-Autore(s):
+Equipe Criativa Geral:
 - Kentaro Miura (Criador)
 ---
 

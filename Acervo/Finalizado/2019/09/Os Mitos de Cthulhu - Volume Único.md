@@ -16,7 +16,7 @@ Data de Publicação: 2019-06-01
 Universo: Marvel
 Nexo:
 - Manga
-Autore(s):
+Equipe Criativa Geral:
 - Esteban Maroto (Roteiro)
 - Esteban Maroto (Arte)
 ---

@@ -19,7 +19,7 @@ Nexo:
 Última Leitura: 2025-12-26
 Data de Publicação: 2025-11-01
 Universo: DC
-Autore(s):
+Equipe Criativa Geral:
 - Jason Aaron (Roteiro)
 - Rafa Sandoval (Arte)
 ---
