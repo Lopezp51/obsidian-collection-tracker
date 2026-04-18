@@ -1,0 +1,9 @@
+/* Remove o nome do campo "Stars" nos cards para um visual minimalista */
+
+/* Pinta o preenchimento e a borda das estrelas */
+svg.lucide-star, 
+svg.lucide-star-half {
+  fill: #FFD700; /* Amarelo */
+  stroke: #FF8C00; /* Laranja para o contorno */
+  stroke-width: 1.5px;
+}

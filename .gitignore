@@ -1,0 +1,29 @@
+# Ambientes Virtuais e Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.env
+.venv/
+venv/
+ENV/
+
+# Arquivos locais e de cache
+.obsidian/workspace
+.obsidian/workspace.json
+.vscode/
+
+# Imagens
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+*.svg
+*.ico
+
+# Descartáveis do Google Drive ou SO
+.DS_Store
+Thumbs.db
+ desktop.ini

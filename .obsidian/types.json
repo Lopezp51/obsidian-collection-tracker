@@ -1,0 +1,25 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Chegou": "checkbox",
+    "data_faturamento": "date",
+    "Processado em": "date",
+    "Situação": "text",
+    "Data de Entrega": "date",
+    "Mês de Aquisição": "date",
+    "Vezes que Li": "number",
+    "Páginas": "number",
+    "Favorito": "checkbox",
+    "Avaliação": "number",
+    "Última Leitura": "date",
+    "Data de Publicação": "date",
+    "valor": "number",
+    "Emprestado": "checkbox",
+    "Planejo pegar em": "date",
+    "teste": "multitext",
+    "Colocado no saquinho": "date",
+    "Nexo": "multitext"
+  }
+}

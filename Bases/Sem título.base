@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - Nexo.isEmpty()
+        - file.ext == "md"
+    sort:
+      - property: file.name
+        direction: ASC

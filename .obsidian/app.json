@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "livePreview": true,
+  "propertiesInDocument": "hidden",
+  "tabSize": 4,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Gestão de Compras",
+  "showInlineTitle": true,
+  "readableLineLength": false,
+  "defaultViewMode": "preview"
+}

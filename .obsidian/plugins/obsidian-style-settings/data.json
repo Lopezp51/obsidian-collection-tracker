@@ -1,0 +1,18 @@
+{
+  "retroma-obsidian-theme@@theme-color-scheme-selection": "cs-triadic-colors-reversed",
+  "retroma-obsidian-theme@@theme-variant": "Groovy",
+  "retroma-obsidian-theme@@window-border-radius": "6px",
+  "shiba-theme-settings@@shiba-colors-theme-light": "default-light-theme",
+  "shiba-theme-settings@@shiba-accent-colors": "accent-turquoise",
+  "retroma-obsidian-theme@@button-border-radius": "8px",
+  "ITS@@accent-color": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@its-d": false,
+  "ITS@@notion": true,
+  "ITS@@mini": false,
+  "ITS@@nord": false,
+  "ITS@@drwn": false,
+  "ITS@@t-d": false,
+  "ITS@@s-d": false,
+  "ITS@@slrvb-g": false
+}

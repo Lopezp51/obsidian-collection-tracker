@@ -1,0 +1,80 @@
+filters:
+  and:
+    - file.ext == "md"
+formulas:
+  Dias aguardando: |-
+    if(note["Processado em"], 
+       if(note["Data de Entrega"], 
+          note["Data de Entrega"] - note["Processado em"], 
+          today() - note["Processado em"]
+       ), 
+       "Sem processamento"
+    )
+  Sem título: note["Data de Publicação"] <= date(now())
+properties:
+  file.name:
+    displayName: Título
+  formula.Sem título:
+    displayName: Já  lançou
+views:
+  - type: cards
+    name: Lançados até agora
+    filters:
+      and:
+        - Situação == "Desejado"
+        - formula["Sem título"] == true
+    order:
+      - file.name
+      - Data de Publicação
+    sort:
+      - property: Data de Publicação
+        direction: ASC
+      - property: Chegou
+        direction: ASC
+    columnSize:
+      file.name: 439
+      note.Data de Entrega: 138
+      note.Chegou: 134
+    image: note.imagem
+    imageAspectRatio: 1.45
+  - type: cards
+    name: Planejamento
+    filters:
+      and:
+        - Situação == "Desejado"
+    groupBy:
+      property: Planejo pegar em
+      direction: ASC
+    order:
+      - file.name
+      - Data de Publicação
+    sort:
+      - property: Data de Publicação
+        direction: ASC
+      - property: Chegou
+        direction: ASC
+    columnSize:
+      file.name: 439
+      note.Data de Entrega: 138
+      note.Chegou: 134
+    image: note.imagem
+    imageAspectRatio: 1.45
+  - type: cards
+    name: Todos
+    filters:
+      and:
+        - Situação == "Desejado"
+    order:
+      - file.name
+      - Data de Publicação
+    sort:
+      - property: Data de Publicação
+        direction: ASC
+      - property: Chegou
+        direction: ASC
+    columnSize:
+      file.name: 439
+      note.Data de Entrega: 138
+      note.Chegou: 134
+    image: note.imagem
+    imageAspectRatio: 1.45

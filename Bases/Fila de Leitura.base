@@ -1,0 +1,41 @@
+filters:
+  and:
+    - file.ext == "md"
+formulas:
+  Dias aguardando: |-
+    if(note["Processado em"], 
+       if(note["Data de Entrega"], 
+          note["Data de Entrega"] - note["Processado em"], 
+          today() - note["Processado em"]
+       ), 
+       "Sem processamento"
+    )
+  fullstars: if(Avaliação>=0, ["11111".split("").slice(0, number(Avaliação).floor()).map(icon("star"))], "")
+  halfstars: '[if(number(Avaliação) - number(Avaliação).floor() >= 0.5, icon("star-half"), "")]'
+  Avalição: "[formula.fullstars, formula.halfstars].flat()"
+properties:
+  file.name:
+    displayName: Título
+views:
+  - type: cards
+    name: Tabela
+    filters:
+      and:
+        - Chegou == true
+        - note["Status de Leitura"].containsAny("Não Iniciado", "Lendo", "Próximo")
+    groupBy:
+      property: Status de Leitura
+      direction: DESC
+    order:
+      - file.name
+      - Última Leitura
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 439
+      note.Data de Entrega: 138
+      note.Chegou: 134
+    image: note.imagem
+    imageAspectRatio: 1.5
+    cardSize: 190

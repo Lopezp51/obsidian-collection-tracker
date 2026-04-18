@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "1fe75a1136e13c20",
+    "type": "split",
+    "children": [
+      {
+        "id": "8324544704e5b291",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c54705978ede6975",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Bases/Rastreio.base",
+                "viewName": "Tabela"
+              },
+              "icon": "lucide-table",
+              "title": "Rastreio"
+            }
+          },
+          {
+            "id": "f91e45110fe4333f",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Bases/Data de Publicação.base",
+                "viewName": "Mobile"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Data de Publicação"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27d31960f6ae10fe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5247c1fd62614e5a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "5f16313529d88de4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "7b1905cdfd0a67b0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d3fb9bdcaf844c84",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "283497dac773bd6b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cf3c387607272920",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3c63a38454e71446",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Bases/Histórico de Leitura.base",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "ddd569245c2c169c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Bases/Wishlist.base",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "87facd1740dff763",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Bases/Wishlist.base",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f91e45110fe4333f",
+  "lastOpenFiles": [
+    "Bases/Histórico de Leitura.base",
+    "Bases/Data de Publicação.base",
+    "Bases/Estante.base",
+    "Gestão de Compras/Finalizado/2025/11/DC Sem Limites Especial.md",
+    "Gestão de Compras/Finalizado/2025/11/Batman Asilo Arkham (DC De Bolso).md",
+    "Gestão de Compras/Finalizado/2025/11/Jojo's Bizarre Adventure - Parte 7 - Steel Ball Run Vol. 3.md",
+    "Bases/Wishlist.base",
+    "Gestão de Compras/Finalizado/2025/11/Zatanna Quebrando Tudo.md",
+    "Gestão de Compras/Desejado/Um mundo Sob Destino 01.md",
+    "Bases/Rastreio.base",
+    "Gestão de Compras/Faturado/Batman Deadpool - Capa Variante 3.md",
+    "Banco de Imagens/HQ's/A Sensacional Mulher-Hulk (2025) Vol. 1.jpg",
+    "Gestão de Compras/Finalizado/2025/11/Watchmen (DC de Bolso).md",
+    "Gestão de Compras/Pré Venda/Frieren E A Jornada Para O Além Vol. 13.md"
+  ]
+}

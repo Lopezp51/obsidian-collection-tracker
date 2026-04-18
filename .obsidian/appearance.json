@@ -1,0 +1,12 @@
+{
+  "nativeMenus": false,
+  "cssTheme": "Retroma",
+  "theme": "moonstone",
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "rating",
+    "book_effect",
+    "bookbox"
+  ],
+  "accentColor": ""
+}

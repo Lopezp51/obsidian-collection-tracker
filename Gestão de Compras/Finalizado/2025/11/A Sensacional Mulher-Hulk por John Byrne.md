@@ -1,0 +1,81 @@
+---
+Processado em: 2025-11-29
+Situação: Finalizado
+Data de Entrega:
+Chegou: true
+Status de Leitura: Lido
+Vezes que Li: 0
+Páginas: 752
+valor: 650
+Favorito: true
+Avaliação: 5
+imagem: Banco de Imagens/HQ's/Mulher-Hulk por John Byrne.jpg
+Nexo:
+  - Quadrinho
+  - Marvel
+  - Mulher-Hulk
+  - Omnibus
+  - Panini
+Última Leitura: 2026-01-27
+Data de Publicação: 2023-10-01
+Universo: Marvel
+---
+
+> [!bookbox]
+> ```meta-bind
+> INPUT[imageSuggester(optionQuery("")):imagem]
+> ```
+> <div class="book-metadata">
+>
+> **Avaliação:** `$= const r = dv.current().Avaliação || 0; let s = "<div class='rating-wrapper'>"; for (let i = 1; i <= 5; i++) { if (i <= Math.floor(r)) { s += "<span class='rating-star star-full'>" + obsidian.getIcon("star").outerHTML + "</span>"; } else if (i === Math.ceil(r) && r % 1 >= 0.5) { s += "<span class='rating-star star-half'>" + obsidian.getIcon("star-half").outerHTML + "</span>"; } else { s += "<span class='rating-star star-empty'>" + obsidian.getIcon("star").outerHTML + "</span>"; } } s += "</div>"; dv.span(s)`
+> ```dataviewjs
+> const total = dv.current()["Páginas"] || 1;
+> const listaItens = dv.current().file.lists;
+> const progresso = listaItens.where(i => i.pagina != null).map(i => Number(i.pagina));
+> let atual = 0;
+> if (progresso.length > 0) { atual = Math.max(...progresso); }
+> const pct = Math.min(100, Math.round((atual / total) * 100));
+> 
+> const htmlBar = `
+> <div style="width: 100%; background-color: var(--background-modifier-border); border-radius: 10px; height: 18px; margin-top: 5px; overflow: hidden; position: relative; border: 1px solid rgba(0,0,0,0.1);">
+>     <div style="width: ${pct}%; background: linear-gradient(90deg, #8e44ad, #a29bfe); height: 100%; transition: width 0.5s ease;"></div>
+>     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; font-size: 11px; font-weight: bold; color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">
+>         ${pct}%
+>     </div>
+> </div>
+> <div style="text-align: center; font-size: 0.85em; margin-top: 4px; color: var(--text-muted);">
+>     Lidos <b>${atual}</b> de <b>${total}</b> páginas
+> </div>
+> `;
+> 
+> dv.span(htmlBar);
+> ```
+> 
+> </div>
+
+### **🗓️ Histórico de leitura**
+
+```dataview
+TABLE WITHOUT ID 
+    item.data AS "Data", 
+    item.pagina AS "Página", 
+    item.obs AS "Observação"
+FROM ""
+FLATTEN file.lists AS item
+WHERE file.path = this.file.path 
+  AND item.data != null
+SORT item.data DESC
+```
+
+### Páginas lidas
+
+> [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-01-12] | [pagina:: 80] | [obs:: Li a primeira história e teve uma parte que não achei nada okay, que insinuou uma coisa bem pesada. A arte é muito linda, manusear o omnibus é complicado que é pesado, vamos ver como vai ser as próximas]
+> - [data:: 2026-01-13] | [pagina:: 114] | [obs:: ]
+> - [data:: 2026-01-14] | [pagina:: 160] | [obs:: Ultima história foi daora, foi bem humorada e a participação do miranha foi legal de ver, tava lindo as cores dele]
+> - [data:: 2026-01-15] | [pagina:: 249] | [obs:: Fico bobo com a qualidade da arte e algumas sacadas da 4 parede tão muito engraçadas, ta bem divertido]
+> - [data:: 2026-01-16] | [pagina:: 342] | [obs:: ]
+> - [data:: 2026-01-21] | [pagina:: 434] | [obs:: Segue ainda muito divertido, a quebra da quarta parede ta ótima]
+> - [data:: 2026-01-22] | [pagina:: 550] | [obs:: Arte incrível mano pelo amor de deus, a cabeleira da Jen é sensacional, incrível o estilo de desenho da época]
+> - [data:: 2026-01-26] | [pagina:: 645] | [obs:: Triste ver que estamos chegano no fim, teve um edição que apareceu a fenix negra e achei muito daora, vontade de pegar x-men agora.....]
+> - [data:: 2026-01-27] | [pagina:: 752] | [obs:: Cara que pena que acabou, que leitura divertida foi, triste que a última história me deixou meio mhe, a última versão que mostraram antes da do John me deixou com um gosto amargo, mas não atrapalhou a leitura inteira, amei de mais.]

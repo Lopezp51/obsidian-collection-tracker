@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Obsidian Comic Dashboard</title>
+    <link rel="stylesheet" href="/static/styles.css?v=2">
+    <!-- Ionicons for some quick icons -->
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</head>
+<body>
+
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar">
+        <div class="sidebar-header">
+            <ion-icon name="library-outline"></ion-icon>
+            Collections
+        </div>
+        <ul class="nav-links">
+            <li class="nav-item active" data-tab="visao-completa">
+                <ion-icon name="grid-outline" class="nav-icon"></ion-icon> Visão Completa
+            </li>
+            <li class="nav-item" data-tab="estante">
+                <ion-icon name="albums-outline" class="nav-icon"></ion-icon> Estante
+            </li>
+            <li class="nav-item" data-tab="fila-leitura">
+                <ion-icon name="book-outline" class="nav-icon"></ion-icon> Fila de Leitura
+            </li>
+            <li class="nav-item" data-tab="wishlist">
+                <ion-icon name="star-outline" class="nav-icon"></ion-icon> Wishlist
+            </li>
+            <li class="nav-item" data-tab="historico-compra">
+                <ion-icon name="cart-outline" class="nav-icon"></ion-icon> Histórico de Compra
+            </li>
+            <li class="nav-item" data-tab="historico-leitura">
+                <ion-icon name="checkmark-done-outline" class="nav-icon"></ion-icon> Histórico de Leitura
+            </li>
+            <li class="nav-item" data-tab="rastreio">
+                <ion-icon name="airplane-outline" class="nav-icon"></ion-icon> Rastreio
+            </li>
+        </ul>
+        <div class="sidebar-footer">
+            <button class="btn-primary" style="width: 100%; justify-content: center;" id="open-modal-btn">
+                <ion-icon name="add-circle-outline"></ion-icon> Pesquisar
+            </button>
+        </div>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+        <header class="topbar">
+            <div class="page-title" id="page-title">Visão Completa</div>
+            <div class="topbar-actions">
+                <div style="color: var(--text-muted); font-size: 0.9rem;" id="item-count">0 items</div>
+            </div>
+        </header>
+
+        <section class="collection-view" id="collection-view">
+            <div class="comic-grid" id="comic-grid">
+                <!-- Cards dynamically injected here by app.js -->
+            </div>
+        </section>
+    </main>
+
+    <!-- Add/Search Modal (Legacy form integration) -->
+    <div class="modal-overlay" id="add-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Pesquisar e Adicionar</h2>
+                <button class="modal-close" id="close-modal-btn">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="O que você procura? (ex: Demon Slayer Vol 5)">
+                    
+                    <div class="search-results" id="search-results">
+                        <!-- Autocomplete items -->
+                    </div>
+                </div>
+
+                <div class="cart-list" id="cart-list">
+                    <div class="empty-state" id="empty-state">
+                        <ion-icon name="search-outline" style="font-size: 2rem;"></ion-icon>
+                        Nenhum item adicionado ainda. Pesquise e clique neles!
+                    </div>
+                </div>
+                
+                <div class="progress-container" id="progress-container">
+                    <div class="progress-bar" id="progress-bar"></div>
+                </div>
+                <div class="progress-text" id="progress-text">Processando...</div>
+
+                <div style="margin-top: 20px; text-align: right;">
+                    <button class="btn-primary" id="add-btn" disabled>Sincronizar com Obsidian</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/app.js?v=3"></script>
+</body>
+</html>
