@@ -265,6 +265,8 @@ addBtn.addEventListener("click", async () => {
     progressText.classList.add("active");
     progressBar.style.width = "0%";
     
+    const selectedFolder = document.getElementById("folder-selector").value;
+    
     let successCount = 0;
     const total = cart.length;
     
@@ -273,10 +275,13 @@ addBtn.addEventListener("click", async () => {
         progressText.innerText = `Processando: ${item.title} (${i+1}/${total})`;
         
         try {
+            // Adiciona a pasta destino na estrutura de dados enviada ao backend
+            const payload = { ...item, folder_flag: selectedFolder };
+
             const response = await fetch("/api/add_item", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
-                body: JSON.stringify(item)
+                body: JSON.stringify(payload)
             });
             
             const data = await response.json();
@@ -295,7 +300,7 @@ addBtn.addEventListener("click", async () => {
     progressContainer.classList.remove("active");
     progressText.classList.remove("active");
     
-    alert(`Sucesso! ${successCount} notas criadas no Obsidian em antigravity/obsidian-skills/Notas.`);
+    alert(`Sucesso! ${successCount} notas enviadas para o seu Obsidian em Gestão de Compras/${selectedFolder}!`);
     cart = [];
     renderCart();
 

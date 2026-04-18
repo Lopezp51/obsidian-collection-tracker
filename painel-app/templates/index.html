@@ -91,6 +91,17 @@
                 </div>
                 <div class="progress-text" id="progress-text">Processando...</div>
 
+                <div class="folder-selection" style="margin-top: 15px; display: flex; align-items: center; justify-content: flex-end; gap: 10px;">
+                    <label for="folder-selector" style="font-weight: 500;">Pasta/Situação:</label>
+                    <select id="folder-selector" style="padding: 8px; border-radius: 4px; border: 1px solid var(--border-color); background: var(--bg-hover); color: var(--text-color);">
+                        <option value="Desejado" style="background: #1a1a24; color: #fff;">Desejado</option>
+                        <option value="Faturado" style="background: #1a1a24; color: #fff;">Faturado</option>
+                        <option value="Pré Venda" style="background: #1a1a24; color: #fff;">Pré Venda</option>
+                        <option value="Pendente" style="background: #1a1a24; color: #fff;">Pendente</option>
+                        <option value="Finalizado" style="background: #1a1a24; color: #fff;">Finalizado</option>
+                    </select>
+                </div>
+
                 <div style="margin-top: 20px; text-align: right;">
                     <button class="btn-primary" id="add-btn" disabled>Sincronizar com Obsidian</button>
                 </div>

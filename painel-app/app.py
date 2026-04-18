@@ -127,7 +127,7 @@ def get_product_details(url: str, title: str):
                 
         return {"high_res_img": img_url, "release_date_iso": release_date_iso, "paginas": pages}
 
-def create_obsidian_note(product_data, details_data):
+def create_obsidian_note(product_data, details_data, folder_flag="Desejado"):
     title = product_data["title"]
     price = product_data["price"]
     url = product_data["url"]
@@ -211,7 +211,7 @@ def create_obsidian_note(product_data, details_data):
     
     new_yaml = f"""---
 Processado em: {today_iso}
-Situação: Finalizado
+Situação: {folder_flag}
 Data de Entrega: 
 Chegou: true
 Status de Leitura: Não Iniciado
@@ -232,7 +232,9 @@ Data de Publicação: {release_date_iso}
     else:
         final_note = new_yaml + "\n\n" + template_content
 
-    note_path = os.path.join(ANTIGRAVITY_DIR, "obsidian-skills", "Notas", f"{safe_title}.md")
+    target_folder_path = os.path.join(BASE_DIR, "Gestão de Compras", folder_flag)
+    os.makedirs(target_folder_path, exist_ok=True)
+    note_path = os.path.join(target_folder_path, f"{safe_title}.md")
     
     with open(note_path, "w", encoding="utf-8") as f:
         f.write(final_note)
@@ -245,6 +247,7 @@ class AddItemRequest(BaseModel):
     title: str
     url: str
     price: str
+    folder_flag: str = "Desejado"
 
 @app.post("/api/add_item")
 def api_add_item(req: AddItemRequest):
@@ -253,7 +256,7 @@ def api_add_item(req: AddItemRequest):
     
     item = {"title": req.title, "url": req.url, "price": req.price}
     details = get_product_details(req.url, req.title)
-    res = create_obsidian_note(item, details)
+    res = create_obsidian_note(item, details, req.folder_flag)
     return JSONResponse(content=res)
 
 @app.get("/api/collection")
