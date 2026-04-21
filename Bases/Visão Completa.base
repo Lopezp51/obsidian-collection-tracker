@@ -26,9 +26,7 @@ views:
       - property: file.ctime
         direction: DESC
     columnSize:
-      file.name: 439
-      note.Data de Entrega: 138
-      note.Chegou: 134
+      file.name: 292
     image: note.imagem
     imageAspectRatio: 1.5
     markers: bullet

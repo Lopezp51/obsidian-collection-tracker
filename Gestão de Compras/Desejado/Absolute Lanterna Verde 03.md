@@ -1,28 +1,27 @@
 ---
-Processado em: null
+Processado em:
 Situação: Desejado
-Data de Entrega: null
+Data de Entrega:
 Chegou: false
 Status de Leitura: Não Iniciado
 Vezes que Li: 0
-Páginas: 136
-valor: 0.0
+Páginas: 48
+valor: 24.9
 Favorito: false
 Avaliação: 0
-imagem: Banco de Imagens/HQ's/Questão - Crime Na Torre De Vigilância.webp
+imagem: Banco de Imagens/HQ's/Absolute Lanterna Verde 03.jpg
+Última Leitura:
+Data de Publicação: 2026-06-26
 Nexo:
-- Quadrinho
-- DC
-- Panini
-- Sem Limites
-Última Leitura: null
-Data de Publicação: 2026-05-25
-Universo: DC
-Planejo pegar em: null
-Equipe Criativa Geral:
-- Alex Segura (Roteiro)
-- Cian Tormey (Arte)
+  - Quadrinho
+  - Absolute
+  - Panini
+  - DC
+  - Lanterna Verde
 ---
+
+
+
 
 > [!bookbox]
 > ```meta-bind
@@ -30,11 +29,11 @@ Equipe Criativa Geral:
 > ```
 > <div class="book-metadata">
 >
-> **Avaliação:** `$= const r = dv.current().Avaliação || 0; let s = "<div class='rating-wrapper'>"; for (let i = 1; i <= 5; i++) { if (i <= Math.floor(r)) { s += "<span class='rating-star star-full'>" + obsidian.getIcon("star").outerHTML + "</span>"; } else if (i === Math.ceil(r) && r % 1 >= 0.5) { s += "<span class='rating-star star-half'>" + obsidian.getIcon("star-half").outerHTML + "</span>"; } else { s += "<span class='rating-star star-empty'>" + obsidian.getIcon("star").outerHTML + "</span>"; } } s += "</div>"; dv.span(s)`
+> **Avaliação:** `$= const r = dv.current()?.Avaliação || 0; let s = "<div class='rating-wrapper'>"; for (let i = 1; i <= 5; i++) { if (i <= Math.floor(r)) { s += "<span class='rating-star star-full'>" + obsidian.getIcon("star").outerHTML + "</span>"; } else if (i === Math.ceil(r) && r % 1 >= 0.5) { s += "<span class='rating-star star-half'>" + obsidian.getIcon("star-half").outerHTML + "</span>"; } else { s += "<span class='rating-star star-empty'>" + obsidian.getIcon("star").outerHTML + "</span>"; } } s += "</div>"; dv.span(s)`
 > ```dataviewjs
-> const total = dv.current()["Páginas"] || 1;
-> const listaItens = dv.current().file.lists;
-> const progresso = listaItens.where(i => i.pagina != null).map(i => Number(i.pagina));
+> const total = dv.current()?.["Páginas"] || 1;
+> const listas = dv.current()?.file?.lists || [];
+> const progresso = listas.where ? listas.where(i => i.pagina != null).map(i => Number(i.pagina)) : [];
 > let atual = 0;
 > if (progresso.length > 0) { atual = Math.max(...progresso); }
 > const pct = Math.min(100, Math.round((atual / total) * 100));

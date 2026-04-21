@@ -37,6 +37,7 @@ views:
       note.Chegou: 134
     image: note.imagem
     imageAspectRatio: 1.45
+    cardSize: 140
   - type: cards
     name: Planejamento
     filters:

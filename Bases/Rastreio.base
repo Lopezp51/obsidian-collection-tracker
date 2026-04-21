@@ -21,9 +21,9 @@ views:
         - Situação != "Desejado"
         - Chegou != true
         - or:
-            - file.folder == "Gestão de Compras/Faturado"
-            - file.folder == "Gestão de Compras/Pré Venda"
-            - file.folder == "Gestão de Compras/Pendente"
+            - file.folder == "Acervo/Faturado"
+            - file.folder == "Acervo/Pré Venda"
+            - file.folder == "Acervo/Pendente"
     order:
       - file.name
       - Processado em
@@ -43,29 +43,3 @@ views:
       note.Data de Entrega: 138
       note.Chegou: 134
     image: note.imagem
-  - type: cards
-    name: Tabela 2
-    filters:
-      and:
-        - Situação != "Desejado"
-        - Chegou != true
-        - or:
-            - file.folder == "Gestão de Compras/Faturado"
-            - file.folder == "Gestão de Compras/Pré Venda"
-            - file.folder == "Gestão de Compras/Pendente"
-    order:
-      - file.name
-      - Situação
-    sort:
-      - property: file.name
-        direction: ASC
-      - property: Processado em
-        direction: ASC
-      - property: Situação
-        direction: DESC
-    columnSize:
-      file.name: 439
-      note.Data de Entrega: 138
-      note.Chegou: 134
-    image: note.imagem
-    imageAspectRatio: 1.55

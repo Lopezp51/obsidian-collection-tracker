@@ -1,30 +1,24 @@
 ---
-Processado em: 2026-03-17
-Situação: Faturado
-Data de Entrega: null
+Processado em:
+Situação: Desejado
+Data de Entrega:
 Chegou: false
 Status de Leitura: Não Iniciado
-Vezes que Li: null
-Páginas: 156
-valor: 24.91
+Vezes que Li: 0
+Páginas: 72
+valor: 109.9
 Favorito: false
-Avaliação: null
-imagem: Banco de Imagens/HQ's/Transformers Vol 1 - Robôs Disfarçados (Universo Energon
-  01).webp
-Tipo: Quadrinho
-Última Leitura: null
-Data de Publicação: 2026-03-17
-Universo: Energon
+Avaliação: 0
+imagem: Banco de Imagens/HQ's/Batman Guerra Ao Crime.jpg
+Última Leitura:
+Data de Publicação: 2026-06-26
 Nexo:
-- Manga
-- Transformers
-- Panini
-- Universo Energon
-Equipe Criativa Geral:
-- Daniel Warren Johnson (Roteiro)
-- Daniel Warren Johnson (Arte)
-- Mike Spicer (Arte)
+  - Quadrinho
+  - Batman
+  - Panini
+  - DC
 ---
+
 
 > [!bookbox]
 > ```meta-bind
@@ -32,11 +26,11 @@ Equipe Criativa Geral:
 > ```
 > <div class="book-metadata">
 >
-> **Avaliação:** `$= const r = dv.current().Avaliação || 0; let s = "<div class='rating-wrapper'>"; for (let i = 1; i <= 5; i++) { if (i <= Math.floor(r)) { s += "<span class='rating-star star-full'>" + obsidian.getIcon("star").outerHTML + "</span>"; } else if (i === Math.ceil(r) && r % 1 >= 0.5) { s += "<span class='rating-star star-half'>" + obsidian.getIcon("star-half").outerHTML + "</span>"; } else { s += "<span class='rating-star star-empty'>" + obsidian.getIcon("star").outerHTML + "</span>"; } } s += "</div>"; dv.span(s)`
+> **Avaliação:** `$= const r = dv.current()?.Avaliação || 0; let s = "<div class='rating-wrapper'>"; for (let i = 1; i <= 5; i++) { if (i <= Math.floor(r)) { s += "<span class='rating-star star-full'>" + obsidian.getIcon("star").outerHTML + "</span>"; } else if (i === Math.ceil(r) && r % 1 >= 0.5) { s += "<span class='rating-star star-half'>" + obsidian.getIcon("star-half").outerHTML + "</span>"; } else { s += "<span class='rating-star star-empty'>" + obsidian.getIcon("star").outerHTML + "</span>"; } } s += "</div>"; dv.span(s)`
 > ```dataviewjs
-> const total = dv.current()["Páginas"] || 1;
-> const listaItens = dv.current().file.lists;
-> const progresso = listaItens.where(i => i.pagina != null).map(i => Number(i.pagina));
+> const total = dv.current()?.["Páginas"] || 1;
+> const listas = dv.current()?.file?.lists || [];
+> const progresso = listas.where ? listas.where(i => i.pagina != null).map(i => Number(i.pagina)) : [];
 > let atual = 0;
 > if (progresso.length > 0) { atual = Math.max(...progresso); }
 > const pct = Math.min(100, Math.round((atual / total) * 100));

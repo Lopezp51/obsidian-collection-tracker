@@ -1,23 +1,28 @@
 ---
-Processado em: 2026-04-20
-Situação: Faturado
-Data de Entrega:
-Chegou: false
+Processado em: 2026-03-17
+Situação: Finalizado
+Data de Entrega: 2026-04-16
+Chegou: true
 Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 160
-valor: 20.6
+Vezes que Li:
+Páginas: 156
+valor: 24.91
 Favorito: false
-Avaliação: 0
-imagem: Banco de Imagens/HQ's/Aves De Rapina Vol. 1.webp
-Nexo:
-  - Quadrinho
-  - Panini
-  - Aurora da DC
-  - DC
+Avaliação:
+imagem: Banco de Imagens/HQ's/Transformers Vol 1 - Robôs Disfarçados (Universo Energon 01).webp
+Tipo: Quadrinho
 Última Leitura:
-Data de Publicação: 2025-04-09
-Universo: DC
+Data de Publicação: 2026-03-17
+Universo: Energon
+Nexo:
+  - Manga
+  - Transformers
+  - Panini
+  - Universo Energon
+Equipe Criativa Geral:
+  - Daniel Warren Johnson (Roteiro)
+  - Daniel Warren Johnson (Arte)
+  - Mike Spicer (Arte)
 ---
 
 > [!bookbox]

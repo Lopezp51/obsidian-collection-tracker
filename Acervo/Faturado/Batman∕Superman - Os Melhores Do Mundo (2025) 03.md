@@ -1,7 +1,7 @@
 ---
-Processado em: 2026-04-14
+Processado em: 2026-04-20
 Situação: Faturado
-Data de Entrega: null
+Data de Entrega:
 Chegou: false
 Status de Leitura: Não Iniciado
 Vezes que Li: 0
@@ -11,15 +11,15 @@ Favorito: false
 Avaliação: 0
 imagem: Banco de Imagens/HQ's/Batman∕Superman - Os Melhores Do Mundo (2025) 03.webp
 Tipo: Quadrinho
-Última Leitura: null
+Última Leitura:
 Data de Publicação: 2026-02-01
 Universo: DC
-Planejo pegar em: null
+Planejo pegar em:
 Nexo:
-- Quadrinho
-- Sem Limites
-- Batman
-- Panini
+  - Quadrinho
+  - Sem Limites
+  - Batman
+  - Panini
 ---
 
 > [!bookbox]

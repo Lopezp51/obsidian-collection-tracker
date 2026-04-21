@@ -1,7 +1,7 @@
 ---
-Processado em: 2026-04-14
+Processado em: 2026-04-20
 Situação: Faturado
-Data de Entrega: 
+Data de Entrega:
 Chegou: false
 Status de Leitura: Não Iniciado
 Vezes que Li: 0
@@ -16,8 +16,8 @@ Nexo:
   - DC
   - Panini
   - Lanterna Verde
-Última Leitura: 
-Data de Publicação: 
+Última Leitura:
+Data de Publicação:
 Universo: DC
 Planejo pegar em:
 ---

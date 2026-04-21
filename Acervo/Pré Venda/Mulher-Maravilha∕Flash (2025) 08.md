@@ -1,7 +1,7 @@
 ---
-Processado em: null
+Processado em:
 Situação: Pré Venda
-Data de Entrega: null
+Data de Entrega:
 Chegou: false
 Status de Leitura: Não Iniciado
 Vezes que Li: 0
@@ -9,17 +9,17 @@ Páginas: 48
 valor: 15.23
 Favorito: false
 Avaliação: 0
-imagem: null
+imagem: Banco de Imagens/HQ's/Mulher-Maravilha∕Flash (2025) 08.webp
 Tipo: Quadrinho
-Última Leitura: null
+Última Leitura:
 Data de Publicação: 2026-04-27
 Universo: DC
-Planejo pegar em: null
+Planejo pegar em:
 Nexo:
-- Quadrinho
-- Sem Limites
-- Mulher-Maravilha
-- Panini
+  - Quadrinho
+  - Sem Limites
+  - Mulher-Maravilha
+  - Panini
 ---
 
 > [!bookbox]

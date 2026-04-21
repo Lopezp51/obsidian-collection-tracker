@@ -1,23 +1,26 @@
 ---
-Processado em: 2026-04-20
-Situação: Faturado
-Data de Entrega:
-Chegou: false
+Processado em: 2026-04-18
+Situação: Finalizado
+Data de Entrega: 2026-04-20
+Chegou: true
 Status de Leitura: Não Iniciado
 Vezes que Li: 0
-Páginas: 160
-valor: 20.6
+Páginas: 48
+valor: 15.22
 Favorito: false
 Avaliação: 0
-imagem: Banco de Imagens/HQ's/Aves De Rapina Vol. 1.webp
+imagem: Banco de Imagens/HQ's/Mulher-Maravilha∕Flash (2025) 07.webp
+Tipo: Quadrinho
+Última Leitura:
+Data de Publicação: 2026-03-26
+Universo: DC
+Planejo pegar em:
 Nexo:
   - Quadrinho
+  - Sem Limites
+  - Mulher-Maravilha
   - Panini
-  - Aurora da DC
-  - DC
-Última Leitura:
-Data de Publicação: 2025-04-09
-Universo: DC
+  - Flash
 ---
 
 > [!bookbox]

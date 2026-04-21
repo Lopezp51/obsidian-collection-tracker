@@ -41,7 +41,7 @@ views:
       note.Chegou: 134
     image: note.imagem
     imageAspectRatio: 1.5
-    cardSize: 170
+    cardSize: 140
   - type: cards
     name: Estante HQ's
     filters:

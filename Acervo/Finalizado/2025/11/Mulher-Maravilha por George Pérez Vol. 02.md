@@ -16,7 +16,7 @@ Nexo:
   - Omnibus
   - Panini
   - DC
-Última Leitura: 2026-04-15
+Última Leitura: 2026-04-19
 Data de Publicação: 2024-05-01
 Universo: DC
 ---
@@ -76,3 +76,5 @@ SORT item.data DESC
 > - [data:: 2026-04-11] | [pagina:: 172] | [obs:: Cara essa parte inteira da Barbara, das amazonas do egito e a Diana sendo forçada a ser mais violenta foi irado demais, me empolguei muito igual no Ares.]
 > - [data:: 2026-04-14] | [pagina:: 195] | [obs:: Dam, começou meio morno mas parece que o próximo foco vai ser as amazonas do egito, hype demais]
 > - [data:: 2026-04-15] | [pagina:: 218] | [obs:: Caramba plot ta daora ainda, espero que leve um tempo esse arco dessas amazonas ]
+> - [data:: 2026-04-19] | [pagina:: 263] | [obs:: Finalizamos o arco das amazonas do egito, gostei muito no geral, foi muito bom, estou curioso se vamos ver mais da Shim'tar, porque ela pareceu ser identica a Diana, então talvez seja um clone ou algo do tipo, mas deve aparecer mais pra frente ainda.]
+> - [data:: 2026-04-21] | [pagina:: 316] | [obs:: O anual foi muito melhor que o último, focar em como o mundo reagia a Diana foi bem legal, mas em espefico o mundo do marketing que a Mynde criou]
