@@ -1,20 +1,26 @@
 ---
-Processado em: {{VALUE:dataFinal}}
 Situação: {{VALUE:situacao}}
-Data de Entrega: 
-Chegou: {{VALUE:chegouFinal}}
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: {{VALUE:Páginas}}
-valor: {{VALUE:valorFinal}}
 Favorito: false
 Avaliação: 0
-imagem: "{{VALUE:imagemFinal}}"
-Tipo: Manga
 Última Leitura: 
+Status de Leitura: Não Iniciado
+Processado em: {{VALUE:dataFinal}}
+Data de Entrega: 
+Chegou: false
 Data de Publicação: 
-Universo: Manga
-Planejo pegar em:
+Colecao: 
+Formato:
+Editora:
+valor:
+Páginas:
+Vezes que Li: 0
+Roteiro: []
+Arte: []
+Cores: []
+imagem: "{{VALUE:imagemFinal}}"
+tags:
+  - Manga
+
 ---
 
 > [!bookbox]

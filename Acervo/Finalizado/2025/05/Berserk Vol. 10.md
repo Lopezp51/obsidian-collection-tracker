@@ -1,24 +1,30 @@
 ---
-Processado em: 2025-05-21
 Situação: Finalizado
-Data de Entrega:
-Chegou: true
-Status de Leitura: Lido
-Vezes que Li: 1
-Páginas: 232
-valor: 29.7
 Favorito: false
 Avaliação: 4
-imagem: Banco de Imagens/Mangas/Berserk Vol. 10.webp
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
 Última Leitura: 2025-06-21
+Status de Leitura: Lido
+Processado em: 2025-05-21
+Data de Entrega: null
+Chegou: true
 Data de Publicação: 2016-02-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 29.7
+Páginas: 232
+Vezes que Li: 1
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 10.webp
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

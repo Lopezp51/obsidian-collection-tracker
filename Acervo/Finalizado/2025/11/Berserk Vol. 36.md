@@ -1,24 +1,30 @@
 ---
-Processado em: 2025-11-12
 Situação: Finalizado
-Data de Entrega:
-Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 216
-valor: 44.9
 Favorito: false
-Avaliação:
-imagem: Banco de Imagens/Mangas/Berserk Vol. 36.png
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
-Última Leitura:
+Avaliação: 0
+Última Leitura: null
+Status de Leitura: Não Iniciado
+Processado em: 2025-11-12
+Data de Entrega: null
+Chegou: true
 Data de Publicação: 2020-06-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 44.9
+Páginas: 216
+Vezes que Li: 0
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 36.png
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

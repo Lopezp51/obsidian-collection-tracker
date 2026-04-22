@@ -1,24 +1,30 @@
 ---
-Processado em: 2024-10-01
 Situação: Finalizado
-Data de Entrega:
-Chegou: true
-Status de Leitura: Lido
-Vezes que Li: 1
-Páginas: 244
-valor: 29.67
 Favorito: false
 Avaliação: 4.5
-imagem: Banco de Imagens/Mangas/Berserk Vol. 5.jpg
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
 Última Leitura: 2024-11-01
+Status de Leitura: Lido
+Processado em: 2024-10-01
+Data de Entrega: null
+Chegou: true
 Data de Publicação: 2015-04-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 29.67
+Páginas: 244
+Vezes que Li: 1
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 5.jpg
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

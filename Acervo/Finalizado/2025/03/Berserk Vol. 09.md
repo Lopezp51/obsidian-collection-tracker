@@ -1,24 +1,30 @@
 ---
-Processado em: 2025-03-04
 Situação: Finalizado
-Data de Entrega:
-Chegou: true
-Status de Leitura: Lido
-Vezes que Li: 1
-Páginas: 232
-valor: 49.9
 Favorito: false
 Avaliação: 4
-imagem: Banco de Imagens/Mangas/Berserk Vol. 9.webp
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
 Última Leitura: 2025-04-04
+Status de Leitura: Lido
+Processado em: 2025-03-04
+Data de Entrega: null
+Chegou: true
 Data de Publicação: 2015-12-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 49.9
+Páginas: 232
+Vezes que Li: 1
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 9.webp
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

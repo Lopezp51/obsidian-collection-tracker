@@ -1,24 +1,30 @@
 ---
-Processado em: 2026-01-08
-Situação: Faturado
-Data de Entrega: 2026-01-17
-Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 169
-valor: 230.83
+Situação: Finalizado
 Favorito: false
 Avaliação: 0
-imagem: Banco de Imagens/Mangas/Berserk Vol. 41 (Variante).webp
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
 Última Leitura:
+Status de Leitura: Não Iniciado
+Processado em: 2026-01-08
+Data de Entrega: 2026-01-17
+Chegou: true
 Data de Publicação: 2023-07-01
-Universo: Manga
+Coleção:
+  - Berserk
+Formato: Manga
+Editora:
+  - Panini
+valor: 230.83
+Páginas: 169
+Vezes que Li: 0
+Roteiro:
+  - Kouji Mori
+Arte:
+  - Studio Gaga
+Cores:
+imagem: Banco de Imagens/Mangas/Berserk Vol. 41 (Variante).webp
+tags:
+  - Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

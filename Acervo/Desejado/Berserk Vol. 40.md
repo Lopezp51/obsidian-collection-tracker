@@ -1,22 +1,29 @@
 ---
-Processado em: null
 Situação: Desejado
+Favorito: false
+Avaliação: 0
+Última Leitura: null
+Status de Leitura: null
+Processado em: null
 Data de Entrega: null
 Chegou: false
-Status de Leitura: null
-Vezes que Li: null
-Páginas: null
-valor: 0.0
-Favorito: false
-Avaliação: null
-imagem: Banco de Imagens/Mangas/Berserk Vol. 40.webp
-Nexo:
-- Manga
-- Berserk
-- Panini
-Última Leitura: null
 Data de Publicação: 2021-02-18
-Universo: null
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 0.0
+Páginas: null
+Vezes que Li: null
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 40.webp
+tags:
+- Manga
 ---
 > [!bookbox]
 > ```meta-bind

@@ -1,24 +1,34 @@
 ---
-Processado em: 2026-03-19
 Situação: Desejado
-Data de Entrega: null
-Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 144
-valor: 0.0
 Favorito: false
 Avaliação: 0
-imagem: Banco de Imagens/HQ's/A Saga da Mulher-Maravilha Vol. 13.webp
-Nexo:
-- Quadrinho
-- DC
-- Panini
-- Mulher-Maravilha
 Última Leitura: null
+Status de Leitura: Não Iniciado
+Processado em: 2026-03-19
+Data de Entrega: null
+Chegou: false
 Data de Publicação: 2026-05-26
-Universo: DC
-Planejo pegar em: null
+Coleção:
+  - Mulher-Maravilha
+  - Sagas Panini
+Formato:
+  - Capa Cartão
+Editora:
+  - Panini
+  - DC
+valor: 0.0
+Páginas: 144
+Vezes que Li: 0
+Roteiro:
+  - Greg Rucka
+Arte:
+  - Cliff Richards
+  - Ron Randall
+Cores:
+  - Richard e Tanya Horie
+imagem: Banco de Imagens/HQ's/A Saga da Mulher-Maravilha Vol. 13.webp
+tags:
+  - Quadrinho
 ---
 
 > [!bookbox]

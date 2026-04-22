@@ -1,23 +1,36 @@
 ---
-Processado em: 2025-12-23
 Situação: Faturado
-Data de Entrega: 2025-12-27
-Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 144
-valor: 17.9
 Favorito: false
 Avaliação: 0
-imagem: Banco de Imagens/HQ's/A Saga Da Mulher-Maravilha Vol. 09.webp
-Nexo:
-  - Quadrinho
-  - DC
-  - Mulher-Maravilha
-  - Panini
-Última Leitura:
+Última Leitura: 
+Status de Leitura: Não Iniciado
+Processado em: 2025-12-23
+Data de Entrega: 2025-12-27
+Chegou: true
 Data de Publicação: 2025-10-14
-Universo: DC
+Coleção:
+  - Mulher-Maravilha
+  - Sagas Panini
+Formato:
+  - Capa Cartão
+Editora:
+  - Panini
+  - DC
+valor: 17.9
+Páginas: 144
+Vezes que Li: 0
+Roteiro:
+  - Greg Rucka
+Arte:
+  - Drew Johnson
+  - Shane Davis
+  - Stephen Sadowski
+Cores:
+  - Richard Horie
+  - Tanya Horie
+imagem: Banco de Imagens/HQ's/A Saga Da Mulher-Maravilha Vol. 09.webp
+tags:
+  - Quadrinho
 ---
 
 > [!bookbox]

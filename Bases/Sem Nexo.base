@@ -3,7 +3,7 @@ views:
     name: Tabela
     filters:
       and:
-        - Nexo.isEmpty()
+        - Roteiro.isEmpty()
         - file.ext == "md"
     sort:
       - property: file.name

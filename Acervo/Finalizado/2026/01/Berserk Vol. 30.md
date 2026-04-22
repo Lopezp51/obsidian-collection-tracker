@@ -1,24 +1,30 @@
 ---
-Processado em: 2026-01-08
 Situação: Finalizado
-Data de Entrega: 2026-01-23
-Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 224
-valor: 36.65
 Favorito: false
 Avaliação: 0
-imagem: Banco de Imagens/Mangas/Berserk Vol. 30.webp
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
-Última Leitura:
+Última Leitura: null
+Status de Leitura: Não Iniciado
+Processado em: 2026-01-08
+Data de Entrega: 2026-01-23
+Chegou: true
 Data de Publicação: 2019-06-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 36.65
+Páginas: 224
+Vezes que Li: 0
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 30.webp
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

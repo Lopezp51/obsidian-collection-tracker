@@ -1,23 +1,35 @@
 ---
-Processado em: 2025-12-01
 Situação: Finalizado
-Data de Entrega:
-Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 144
-valor: 56.99
 Favorito: false
-Avaliação:
-imagem: Banco de Imagens/HQ's/A Saga da Mulher-Maravilha Vol. 5.webp
-Nexo:
-  - Quadrinho
-  - Mulher-Maravilha
-  - DC
-  - Panini
-Última Leitura:
+Avaliação: 0
+Última Leitura: 
+Status de Leitura: Não Iniciado
+Processado em: 2025-12-01
+Data de Entrega: 
+Chegou: true
 Data de Publicação: 2025-01-01
-Universo: DC
+Coleção:
+  - Mulher-Maravilha
+  - Sagas Panini
+Formato:
+  - Capa Cartão
+Editora:
+  - Panini
+  - DC
+valor: 56.99
+Páginas: 144
+Vezes que Li: 0
+Roteiro:
+  - John Byrne
+Arte:
+  - John Byrne
+  - Dave Cockrum
+Cores:
+  - Trish Mulvihill
+  - Ian Laughlin
+imagem: Banco de Imagens/HQ's/A Saga da Mulher-Maravilha Vol. 5.webp
+tags:
+  - Quadrinho
 ---
 
 > [!bookbox]

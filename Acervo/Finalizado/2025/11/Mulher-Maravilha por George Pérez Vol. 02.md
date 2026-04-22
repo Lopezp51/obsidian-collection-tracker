@@ -3,12 +3,12 @@ Processado em: 2025-11-27
 Situação: Finalizado
 Data de Entrega:
 Chegou: true
-Status de Leitura: Próximo
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 552
 valor: 206.2
-Favorito: false
-Avaliação:
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/Mulher-Maravilha por George Pérez Vol. 2.webp
 Nexo:
   - Quadrinho
@@ -16,7 +16,7 @@ Nexo:
   - Omnibus
   - Panini
   - DC
-Última Leitura: 2026-04-19
+Última Leitura: 2026-04-21
 Data de Publicação: 2024-05-01
 Universo: DC
 ---
@@ -77,4 +77,5 @@ SORT item.data DESC
 > - [data:: 2026-04-14] | [pagina:: 195] | [obs:: Dam, começou meio morno mas parece que o próximo foco vai ser as amazonas do egito, hype demais]
 > - [data:: 2026-04-15] | [pagina:: 218] | [obs:: Caramba plot ta daora ainda, espero que leve um tempo esse arco dessas amazonas ]
 > - [data:: 2026-04-19] | [pagina:: 263] | [obs:: Finalizamos o arco das amazonas do egito, gostei muito no geral, foi muito bom, estou curioso se vamos ver mais da Shim'tar, porque ela pareceu ser identica a Diana, então talvez seja um clone ou algo do tipo, mas deve aparecer mais pra frente ainda.]
-> - [data:: 2026-04-21] | [pagina:: 316] | [obs:: O anual foi muito melhor que o último, focar em como o mundo reagia a Diana foi bem legal, mas em espefico o mundo do marketing que a Mynde criou]
+> - [data:: 2026-04-20] | [pagina:: 316] | [obs:: O anual foi muito melhor que o último, focar em como o mundo reagia a Diana foi bem legal, mas em espefico o mundo do marketing que a Mynde criou]
+> - [data:: 2026-04-21] | [pagina:: 522] | [obs:: Finalizado! Parte da embaixada na ilha foi muito daora, ver a troca cultural e o caos que virou, um arco muito bom, da cisnei foi legal esse desfecho também. Curioso o que nos aguarda no futuro, porque pelo jeito Diana e Pandora dividem o mesmo ser? E na próxima vez que ela retorna ao barro, parece ser quando ela está prestes a morrer e gaia vai morrer também, curioso, tomora que no volume 3 aborde isso e que ele chegue esse ano]

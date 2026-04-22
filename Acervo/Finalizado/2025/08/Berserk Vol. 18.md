@@ -1,24 +1,30 @@
 ---
-Processado em: 2025-08-03
 Situação: Finalizado
-Data de Entrega:
-Chegou: true
-Status de Leitura: Lido
-Vezes que Li: 1
-Páginas: 240
-valor: 64
 Favorito: false
 Avaliação: 4.5
-imagem: Banco de Imagens/Mangas/Berserk Vol. 18.jpg
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
 Última Leitura: 2025-12-20
+Status de Leitura: Lido
+Processado em: 2025-08-03
+Data de Entrega: null
+Chegou: true
 Data de Publicação: 2017-06-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 64
+Páginas: 240
+Vezes que Li: 1
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 18.jpg
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

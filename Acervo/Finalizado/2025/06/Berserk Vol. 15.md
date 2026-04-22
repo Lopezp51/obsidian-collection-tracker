@@ -1,24 +1,30 @@
 ---
-Processado em: 2025-06-19
 Situação: Finalizado
-Data de Entrega:
-Chegou: true
-Status de Leitura: Lido
-Vezes que Li: 1
-Páginas: 232
-valor: 73.5
 Favorito: false
 Avaliação: 4
-imagem: Banco de Imagens/Mangas/Berserk Vol. 15.webp
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
 Última Leitura: 2025-10-15
+Status de Leitura: Lido
+Processado em: 2025-06-19
+Data de Entrega: null
+Chegou: true
 Data de Publicação: 2016-12-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 73.5
+Páginas: 232
+Vezes que Li: 1
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 15.webp
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

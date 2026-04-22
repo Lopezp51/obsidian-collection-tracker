@@ -1,23 +1,34 @@
 ---
-Processado em: 2025-12-07
 Situação: Finalizado
-Data de Entrega:
-Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 144
-valor: 45.4
 Favorito: false
-Avaliação:
-imagem: Banco de Imagens/HQ's/A Saga da Mulher-Maravilha Vol. 8.webp
-Nexo:
-  - Quadrinho
-  - Mulher-Maravilha
-  - DC
-  - Panini
-Última Leitura:
+Avaliação: 0
+Última Leitura: 
+Status de Leitura: Não Iniciado
+Processado em: 2025-12-07
+Data de Entrega: 
+Chegou: true
 Data de Publicação: 2025-06-01
-Universo: DC
+Coleção:
+  - Mulher-Maravilha
+  - Sagas Panini
+Formato:
+  - Capa Cartão
+Editora:
+  - Panini
+  - DC
+valor: 45.4
+Páginas: 144
+Vezes que Li: 0
+Roteiro:
+  - Greg Rucka
+Arte:
+  - Drew Johnson
+Cores:
+  - Richard Horie
+  - Tanya Horie
+imagem: Banco de Imagens/HQ's/A Saga da Mulher-Maravilha Vol. 8.webp
+tags:
+  - Quadrinho
 ---
 
 > [!bookbox]

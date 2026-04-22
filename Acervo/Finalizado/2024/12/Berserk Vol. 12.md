@@ -1,24 +1,30 @@
 ---
-Processado em: 2024-12-08
 Situação: Finalizado
-Data de Entrega:
-Chegou: true
-Status de Leitura: Lido
-Vezes que Li: 1
-Páginas: 232
-valor: 29.7
 Favorito: false
 Avaliação: 4
-imagem: Banco de Imagens/Mangas/Berserk Vol. 12.jpg
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
 Última Leitura: 2025-01-08
+Status de Leitura: Lido
+Processado em: 2024-12-08
+Data de Entrega: null
+Chegou: true
 Data de Publicação: 2016-06-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 29.7
+Páginas: 232
+Vezes que Li: 1
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 12.jpg
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

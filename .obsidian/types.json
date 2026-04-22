@@ -20,6 +20,12 @@
     "Planejo pegar em": "date",
     "teste": "multitext",
     "Colocado no saquinho": "date",
-    "Nexo": "multitext"
+    "Nexo": "multitext",
+    "Coleção": "multitext",
+    "Editora": "multitext",
+    "Roteiro": "multitext",
+    "Arte": "multitext",
+    "Cores": "multitext",
+    "Formato": "multitext"
   }
 }

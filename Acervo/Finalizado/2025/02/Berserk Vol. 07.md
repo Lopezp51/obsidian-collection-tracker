@@ -1,24 +1,30 @@
 ---
-Processado em: 2025-02-09
 Situação: Finalizado
-Data de Entrega:
-Chegou: true
-Status de Leitura: Lido
-Vezes que Li: 1
-Páginas: 224
-valor: 59.9
 Favorito: false
 Avaliação: 4
-imagem: Banco de Imagens/Mangas/Berserk Vol. 7.png
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
 Última Leitura: 2025-03-09
+Status de Leitura: Lido
+Processado em: 2025-02-09
+Data de Entrega: null
+Chegou: true
 Data de Publicação: 2015-08-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 59.9
+Páginas: 224
+Vezes que Li: 1
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 7.png
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

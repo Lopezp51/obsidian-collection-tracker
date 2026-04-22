@@ -11,7 +11,7 @@ module.exports = async (params) => {
         ["Desejado", "Faturado", "Pendente", "Pré Venda", "Finalizado"]
     );
     
-    let folderPath = `Gestão de Compras/${situacao}`;
+    let folderPath = `Acervo/${situacao}`;
     let dataFormatada = new Date().toISOString().split('T')[0];
     let chegouStatus = "false"; // Padrão para os outros
     let imagemSelecionada = "";
@@ -20,33 +20,16 @@ module.exports = async (params) => {
     if (situacao === "Finalizado") {
         chegouStatus = "true"; // Define como true automaticamente
         
-        // 1. Pergunta a Data
-        const ano = await quickAddApi.inputPrompt("ANO:", new Date().getFullYear().toString());
-        const meses = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"];
-        const mes = await quickAddApi.suggester(meses, meses);
-        const dia = await quickAddApi.inputPrompt("DIA:", "01");
+        const agora = new Date();
+        const ano = agora.getFullYear().toString();
+        const mes = (agora.getMonth() + 1).toString().padStart(2, '0');
+        const dia = agora.getDate().toString().padStart(2, '0');
         
         folderPath += `/${ano}/${mes}`;
-        dataFormatada = `${ano}-${mes}-${dia.padStart(2, '0')}`;
+        dataFormatada = `${ano}-${mes}-${dia}`;
 
-        // 2. Seletor de Imagem (Busca na sua pasta de capas)
-        const pastaImagens = "Banco de Imagens/Mangas"; // Caminho da sua pasta
-        const pastaAbstract = app.vault.getAbstractFileByPath(pastaImagens);
-        
-        if (pastaAbstract && pastaAbstract.children) {
-            // Filtra apenas arquivos de imagem comuns
-            const imagens = pastaAbstract.children
-                .filter(f => ["jpg", "jpeg", "png", "webp"].includes(f.extension))
-                .map(f => f.path);
-            
-            if (imagens.length > 0) {
-                // Abre o seletor com os nomes dos arquivos, mas retorna o caminho completo
-                imagemSelecionada = await quickAddApi.suggester(
-                    imagens.map(p => p.split('/').pop()), 
-                    imagens
-                );
-            }
-        }
+        // Imagem fica vazia ou pode ser preenchida manualmente depois
+        imagemSelecionada = "";
     }
 
     // Exporta tudo para o QuickAdd

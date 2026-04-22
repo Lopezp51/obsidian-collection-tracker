@@ -1,24 +1,30 @@
 ---
-Processado em: 2026-01-15
 Situação: Faturado
-Data de Entrega: 2026-01-19
-Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 224
-valor: 85.71
 Favorito: false
 Avaliação: 0
-imagem: Banco de Imagens/Mangas/Berserk Vol. 25.webp
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
-Última Leitura:
+Última Leitura: null
+Status de Leitura: Não Iniciado
+Processado em: 2026-01-15
+Data de Entrega: 2026-01-19
+Chegou: true
 Data de Publicação: 2018-08-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 85.71
+Páginas: 224
+Vezes que Li: 0
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 25.webp
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

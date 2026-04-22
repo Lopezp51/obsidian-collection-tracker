@@ -1,24 +1,30 @@
 ---
-Processado em: 2025-11-12
 Situação: Finalizado
-Data de Entrega:
-Chegou: true
-Status de Leitura: Próximo
-Vezes que Li: 0
-Páginas: 232
-valor: 33.68
 Favorito: false
-Avaliação:
-imagem: Banco de Imagens/Mangas/Berserk Vol. 23.webp
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
-Última Leitura:
+Avaliação: 0
+Última Leitura: null
+Status de Leitura: Próximo
+Processado em: 2025-11-12
+Data de Entrega: null
+Chegou: true
 Data de Publicação: 2018-04-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 33.68
+Páginas: 232
+Vezes que Li: 0
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 23.webp
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

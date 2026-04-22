@@ -1,23 +1,34 @@
 ---
-Processado em: 2025-12-08
 Situação: Finalizado
-Data de Entrega: 2026-01-14
-Chegou: true
-Status de Leitura: Lido
-Vezes que Li: 0
-Páginas: 56
-valor: 14.77
 Favorito: true
 Avaliação: 5
-imagem: Banco de Imagens/HQ's/Absolute Batman Vol. 2.png
-Nexo:
-  - Quadrinho
-  - Batman
-  - DC
-  - Panini
-  - Absolute
 Última Leitura: 2026-01-29
+Status de Leitura: Lido
+Processado em: 2025-12-08
+Data de Entrega: 2026-01-14
+Chegou: true
 Data de Publicação: 2025-11-27
+Coleção:
+  - Universo Absolute
+  - Batman
+Formato:
+  - Grampo
+  - Mensais
+Editora:
+  - Panini
+  - DC
+valor: 14.77
+Páginas: 56
+Vezes que Li: 0
+Roteiro:
+  - Scott Snyder
+Arte:
+  - Nick Dragotta
+Cores:
+  - Frank Martin
+imagem: Banco de Imagens/HQ's/Absolute Batman Vol. 2.png
+tags:
+  - Quadrinho
 Universo: DC
 Tempo até entrega: "37"
 ---

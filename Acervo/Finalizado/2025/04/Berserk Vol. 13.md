@@ -1,24 +1,30 @@
 ---
-Processado em: 2025-04-09
 Situação: Finalizado
-Data de Entrega:
-Chegou: true
-Status de Leitura: Lido
-Vezes que Li: 1
-Páginas: 240
-valor: 59.9
 Favorito: false
 Avaliação: 4
-imagem: Banco de Imagens/Mangas/Berserk Vol. 13.png
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
 Última Leitura: 2025-05-09
+Status de Leitura: Lido
+Processado em: 2025-04-09
+Data de Entrega: null
+Chegou: true
 Data de Publicação: 2016-08-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 59.9
+Páginas: 240
+Vezes que Li: 1
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 13.png
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

@@ -1,23 +1,34 @@
 ---
-Processado em: 2025-07-23
 Situação: Finalizado
-Data de Entrega:
-Chegou: true
-Status de Leitura: Lido
-Vezes que Li: 1
-Páginas: 64
-valor: 17.9
 Favorito: true
 Avaliação: 5
-imagem: Banco de Imagens/HQ's/Absolute Batman Vol. 1.webp
-Nexo:
-  - Quadrinho
-  - Absolute
-  - DC
-  - Panini
-  - Batman
 Última Leitura: 2025-11-08
+Status de Leitura: Lido
+Processado em: 2025-07-23
+Data de Entrega:
+Chegou: true
 Data de Publicação: 2025-10-20
+Coleção:
+  - Universo Absolute
+  - Batman
+Formato:
+  - Grampo
+  - Mensais
+Editora:
+  - Panini
+  - DC
+valor: 17.9
+Páginas: 64
+Vezes que Li: 1
+Roteiro:
+  - Scott Snyder
+Arte:
+  - Nick Dragotta
+Cores:
+  - Frank Martin
+imagem: Banco de Imagens/HQ's/Absolute Batman Vol. 1.webp
+tags:
+  - Quadrinho
 Universo: DC
 ---
 

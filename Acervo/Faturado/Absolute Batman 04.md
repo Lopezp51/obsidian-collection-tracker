@@ -1,22 +1,34 @@
 ---
-Processado em: 2026-04-16
 Situação: Faturado
-Data de Entrega:
-Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 48
-valor: 14.77
 Favorito: false
 Avaliação: 0
-imagem: Banco de Imagens/HQ's/Absolute Batman 04.jpg
 Última Leitura:
+Status de Leitura: Não Iniciado
+Processado em: 2026-04-16
+Data de Entrega:
+Chegou: false
 Data de Publicação: 2026-04-16
-Nexo:
-  - Quadrinho
-  - Absolute
+Coleção:
+  - Universo Absolute
   - Batman
+Formato:
+  - Grampo
+  - Mensais
+Editora:
   - Panini
+  - DC
+valor: 14.77
+Páginas: 48
+Vezes que Li: 0
+Roteiro:
+  - Scott Snyder
+Arte:
+  - Nick Dragotta
+Cores:
+  - Frank Martin
+imagem: Banco de Imagens/HQ's/Absolute Batman 04.jpg
+tags:
+  - Quadrinho
 ---
 
 

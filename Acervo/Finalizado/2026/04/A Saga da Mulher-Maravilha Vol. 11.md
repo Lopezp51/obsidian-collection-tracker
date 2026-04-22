@@ -1,24 +1,39 @@
 ---
-Processado em: 2026-03-17
 Situação: Finalizado
-Data de Entrega: 2026-04-07
-Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 144
-valor: 41.31
 Favorito: false
 Avaliação: 0
-imagem: Banco de Imagens/HQ's/A Saga da Mulher-Maravilha Vol. 11.webp
-Nexo:
-  - Quadrinho
-  - DC
-  - Mulher-Maravilha
-  - Panini
-Última Leitura:
+Última Leitura: 
+Status de Leitura: Não Iniciado
+Processado em: 2026-03-17
+Data de Entrega: 2026-04-07
+Chegou: true
 Data de Publicação: 2026-03-17
-Universo: DC
-Planejo pegar em:
+Coleção:
+  - Mulher-Maravilha
+  - Sagas Panini
+Formato:
+  - Capa Cartão
+Editora:
+  - Panini
+  - DC
+valor: 41.31
+Páginas: 144
+Vezes que Li: 0
+Roteiro:
+  - Greg Rucka
+  - Geoff Johns
+Arte:
+  - Drew Johnson
+  - James Raiz
+  - Justiniano
+  - Rags Morales
+Cores:
+  - Richard Horie
+  - Tanya Horie
+  - James Sinclair
+imagem: Banco de Imagens/HQ's/A Saga da Mulher-Maravilha Vol. 11.webp
+tags:
+  - Quadrinho
 ---
 
 > [!bookbox]

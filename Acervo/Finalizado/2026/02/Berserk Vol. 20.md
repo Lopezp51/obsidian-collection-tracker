@@ -1,24 +1,30 @@
 ---
-Processado em: 2026-01-23
 Situação: Finalizado
-Data de Entrega: 2026-01-31
-Chegou: true
-Status de Leitura: Lido
-Vezes que Li: 1
-Páginas: 232
-valor: 35.92
 Favorito: false
 Avaliação: 5
-imagem: Banco de Imagens/Mangas/Berserk Vol. 20.png
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
 Última Leitura: 2026-03-15
+Status de Leitura: Lido
+Processado em: 2026-01-23
+Data de Entrega: 2026-01-31
+Chegou: true
 Data de Publicação: 2017-10-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 35.92
+Páginas: 232
+Vezes que Li: 1
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 20.png
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

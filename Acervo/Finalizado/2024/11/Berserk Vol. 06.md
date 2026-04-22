@@ -1,24 +1,30 @@
 ---
-Processado em: 2024-11-07
 Situação: Finalizado
-Data de Entrega:
-Chegou: true
-Status de Leitura: Lido
-Vezes que Li: 1
-Páginas: 224
-valor: 20.94
 Favorito: false
 Avaliação: 4
-imagem: Banco de Imagens/Mangas/Berserk Vol. 6.webp
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
 Última Leitura: 2024-12-07
+Status de Leitura: Lido
+Processado em: 2024-11-07
+Data de Entrega: null
+Chegou: true
 Data de Publicação: 2015-06-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 20.94
+Páginas: 224
+Vezes que Li: 1
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 6.webp
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

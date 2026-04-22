@@ -1,23 +1,36 @@
 ---
-Processado em: 2026-01-07
 Situação: Finalizado
+Favorito: false
+Avaliação: 0
+Última Leitura: 
+Status de Leitura: Não Iniciado
+Processado em: 2026-01-07
 Data de Entrega: 2026-02-12
 Chegou: true
-Status de Leitura:
-Vezes que Li:
-Páginas: 144
-valor: 41.31
-Favorito: false
-Avaliação:
-imagem: Banco de Imagens/HQ's/A Saga da Mulher-Maravilha Vol. 10.webp
-Nexo:
-  - DC
-  - Mulher-Maravilha
-  - Panini
-  - Quadrinho
-Última Leitura:
 Data de Publicação: 2026-01-01
-Universo: DC
+Coleção:
+  - Mulher-Maravilha
+  - Sagas Panini
+Formato:
+  - Capa Cartão
+Editora:
+  - Panini
+  - DC
+valor: 41.31
+Páginas: 144
+Vezes que Li: 0
+Roteiro:
+  - Greg Rucka
+Arte:
+  - Drew Johnson
+  - James Raiz
+  - Sean Phillips
+Cores:
+  - Richard Horie
+  - Tanya Horie
+imagem: Banco de Imagens/HQ's/A Saga da Mulher-Maravilha Vol. 10.webp
+tags:
+  - Quadrinho
 ---
 
 > [!bookbox]

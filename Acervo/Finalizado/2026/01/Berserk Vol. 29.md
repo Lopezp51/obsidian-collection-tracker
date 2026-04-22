@@ -1,24 +1,30 @@
 ---
-Processado em: 2026-01-08
 Situação: Finalizado
-Data de Entrega: 2026-01-15
-Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 224
-valor: 34.8
 Favorito: false
 Avaliação: 0
-imagem: Banco de Imagens/Mangas/Berserk Vol. 29.webp
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
-Última Leitura:
+Última Leitura: null
+Status de Leitura: Não Iniciado
+Processado em: 2026-01-08
+Data de Entrega: 2026-01-15
+Chegou: true
 Data de Publicação: 2019-04-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 34.8
+Páginas: 224
+Vezes que Li: 0
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 29.webp
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

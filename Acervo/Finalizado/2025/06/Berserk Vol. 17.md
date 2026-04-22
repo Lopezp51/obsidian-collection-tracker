@@ -1,24 +1,30 @@
 ---
-Processado em: 2025-06-23
 Situação: Finalizado
-Data de Entrega:
-Chegou: true
-Status de Leitura: Lido
-Vezes que Li: 1
-Páginas: 224
-valor: 33.7
 Favorito: false
 Avaliação: 4.5
-imagem: Banco de Imagens/Mangas/Berserk Vol. 17.webp
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
 Última Leitura: 2025-12-13
+Status de Leitura: Lido
+Processado em: 2025-06-23
+Data de Entrega: null
+Chegou: true
 Data de Publicação: 2017-04-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 33.7
+Páginas: 224
+Vezes que Li: 1
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 17.webp
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

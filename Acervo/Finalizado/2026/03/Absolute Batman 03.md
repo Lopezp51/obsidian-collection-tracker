@@ -1,23 +1,34 @@
 ---
-Processado em: 2026-02-26
 Situação: Finalizado
-Data de Entrega: 2026-03-05
-Chegou: true
-Status de Leitura: Lido
-Vezes que Li: 1
-Páginas: 48
-valor: 14.77
 Favorito: true
 Avaliação: 5
-imagem: Banco de Imagens/HQ's/Absolute Batman 03.webp
-Nexo:
-  - Quadrinho
-  - Absolute
-  - Batman
-  - DC
-  - Panini
 Última Leitura: 2026-03-19
+Status de Leitura: Lido
+Processado em: 2026-02-26
+Data de Entrega: 2026-03-05
+Chegou: true
 Data de Publicação: 2026-02-23
+Coleção:
+  - Universo Absolute
+  - Batman
+Formato:
+  - Grampo
+  - Mensais
+Editora:
+  - Panini
+  - DC
+valor: 14.77
+Páginas: 48
+Vezes que Li: 1
+Roteiro:
+  - Scott Snyder
+Arte:
+  - Nick Dragotta
+Cores:
+  - Frank Martin
+imagem: Banco de Imagens/HQ's/Absolute Batman 03.webp
+tags:
+  - Quadrinho
 Universo: DC
 Planejo pegar em:
 Colocado no saquinho: 2026-03-19

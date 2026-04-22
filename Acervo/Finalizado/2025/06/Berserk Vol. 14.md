@@ -1,26 +1,32 @@
 ---
-Processado em: 2025-06-02
 Situação: Finalizado
-Data de Entrega: null
-Chegou: true
-Status de Leitura: Lido
-Vezes que Li: 1
-Páginas: 232
-valor: 34.9
 Favorito: false
 Avaliação: 4
-imagem: Banco de Imagens/Mangas/Berserk Vol. 14.webp
-Nexo:
-- Manga
-- Berserk
-- Panini
 Última Leitura: 2025-09-23
+Status de Leitura: Lido
+Processado em: 2025-06-02
+Data de Entrega: null
+Chegou: true
 Data de Publicação: 2016-10-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 34.9
+Páginas: 232
+Vezes que Li: 1
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 14.webp
+tags:
+- Manga
 Equipe Criativa Geral:
 - Kentaro Miura (Criador)
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

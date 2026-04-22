@@ -1,24 +1,30 @@
 ---
-Processado em: 2026-01-08
 Situação: Finalizado
-Data de Entrega: 2026-01-12
-Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 224
-valor: 42.58
 Favorito: false
 Avaliação: 0
-imagem: Banco de Imagens/Mangas/Berserk Vol. 28.webp
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
-Última Leitura:
+Última Leitura: null
+Status de Leitura: Não Iniciado
+Processado em: 2026-01-08
+Data de Entrega: 2026-01-12
+Chegou: true
 Data de Publicação: 2019-02-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 42.58
+Páginas: 224
+Vezes que Li: 0
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 28.webp
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]

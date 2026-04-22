@@ -1,24 +1,35 @@
 ---
-Processado em:
 Situação: Pendente
-Data de Entrega:
-Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 144
-valor: 41.31
 Favorito: false
 Avaliação: 0
-imagem:
-Nexo:
-  - Quadrinho
-  - DC
-  - Panini
-  - Mulher-Maravilha
 Última Leitura:
+Status de Leitura: Não Iniciado
+Processado em:
+Data de Entrega:
+Chegou: false
 Data de Publicação:
-Universo: DC
-Planejo pegar em:
+Coleção:
+  - Mulher-Maravilha
+  - Sagas Panini
+Formato:
+  - Capa Cartão
+Editora:
+  - Panini
+  - DC
+valor: 41.31
+Páginas: 144
+Vezes que Li: 0
+Roteiro:
+  - Greg Rucka
+Arte:
+  - Cliff Richards
+  - David Lopez
+  - Rags Morales
+Cores:
+  - Richard e Tanya Horie
+imagem: Banco de Imagens/HQ's/A Saga da Mulher-Maravilha Vol. 12.webp
+tags:
+  - Quadrinho
 ---
 
 > [!bookbox]

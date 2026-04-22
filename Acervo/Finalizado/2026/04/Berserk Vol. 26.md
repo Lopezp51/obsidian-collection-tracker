@@ -1,24 +1,30 @@
 ---
-Processado em: 2026-04-06
 Situação: Finalizado
-Data de Entrega: 2026-04-10
-Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 224
-valor: 47.9
 Favorito: false
 Avaliação: 0
-imagem: Banco de Imagens/Mangas/Berserk Vol. 26.png
-Nexo:
-  - Manga
-  - Berserk
-  - Panini
-Última Leitura:
+Última Leitura: null
+Status de Leitura: Não Iniciado
+Processado em: 2026-04-06
+Data de Entrega: 2026-04-10
+Chegou: true
 Data de Publicação: 2018-10-01
-Universo: Manga
+Coleção:
+- Berserk
+Formato: Manga
+Editora:
+- Panini
+valor: 47.9
+Páginas: 224
+Vezes que Li: 0
+Roteiro:
+- Kentaro Miura
+Arte:
+- Kentaro Miura
+Cores: null
+imagem: Banco de Imagens/Mangas/Berserk Vol. 26.png
+tags:
+- Manga
 ---
-
 > [!bookbox]
 > ```meta-bind
 > INPUT[imageSuggester(optionQuery("")):imagem]
