@@ -3,21 +3,21 @@ Processado em: 2026-02-02
 Situação: Finalizado
 Data de Entrega: 2026-02-13
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 128
 valor: 91.19
 Favorito: false
-Avaliação: 0
+Avaliação: 3
 imagem: Banco de Imagens/HQ's/Quarteto Fantástico - Moléculas Instáveis.jpg
 Tipo: Quadrinho
-Última Leitura: null
+Última Leitura: 2026-06-07
 Data de Publicação: 2024-07-15
 Universo: Marvel
 Nexo:
-- Quadrinho
-- Quarteto Fantástico
-- Panini
+  - Quadrinho
+  - Quarteto Fantástico
+  - Panini
 ---
 
 > [!bookbox]
@@ -69,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-06-07] | [pagina:: 128] | [obs:: Achei okay, vi muita gente falando dessa HQ, mas acho que só não era pra mim. É interessante ver os personagens mais humanos, mais falhos, mas a conclusão é um tanto quanto triste, todo mundo acaba indo pra um lado diferente e ainda quebrado.]

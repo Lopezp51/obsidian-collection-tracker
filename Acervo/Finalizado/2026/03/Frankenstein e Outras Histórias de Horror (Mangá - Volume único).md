@@ -3,22 +3,21 @@ Processado em: 2026-03-12
 Situação: Finalizado
 Data de Entrega: 2026-03-16
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 412
 valor: 71.17
 Favorito: false
-Avaliação: 0
-imagem: Banco de Imagens/HQ's/Frankenstein e Outras Histórias de Horror (Mangá - Volume
-  único).jpg
+Avaliação: 3
+imagem: Banco de Imagens/HQ's/Frankenstein e Outras Histórias de Horror (Mangá - Volume único).jpg
 Tipo: Quadrinho
-Última Leitura: null
+Última Leitura: 2026-05-27
 Data de Publicação: 2025-06-27
 Universo: Indie
 Planejo pegar em: 2026-08-01
 Nexo:
-- Quadrinho
-- Panini
+  - Quadrinho
+  - Panini
 ---
 
 > [!bookbox]
@@ -70,3 +69,5 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-05-26] | [pagina:: 198] | [obs:: Meu eu to com cagasso e intrigado kkkkk vamos lá, pra mim as "piores" histórias foi a primeira, terceira e quarta, que me deixou paranoico lendo kkkkk elas me deram um desconforto real e ainda estou um tanto, ainda não cheguei no Frasnkstein. O Toru e suas diversas versões é tão interessante e o que mais achei daora, que a primeira história do pescoço longo, tem uma justificativa se vc ver os exrpiementos que outra versão dele está fazendo.]
+> - [data:: 2026-05-27] | [pagina:: 412] | [obs:: Caramba do Fraskenstein foi a história mais fraca de todas elas, teve muitas páginas mas não curti muito o densenvolvimento que se seguiu, os contos form muito melhores]

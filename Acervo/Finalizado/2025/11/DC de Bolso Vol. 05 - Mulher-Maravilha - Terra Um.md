@@ -1,21 +1,21 @@
 ---
 Processado em: 2025-11-18
 Situação: Finalizado
-Data de Entrega: null
+Data de Entrega:
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 384
 valor: 73.08
 Favorito: false
-Avaliação: null
+Avaliação: 0.5
 imagem: Banco de Imagens/HQ's/Mulher-Maravilha Terra Um (DC de Bolso).jpg
 Tipo: Quadrinho
-Última Leitura: null
+Última Leitura: 2026-05-28
 Data de Publicação: 2024-04-01
 Universo: DC
 Nexo:
-- Manga
+  - Manga
 ---
 
 > [!bookbox]
@@ -67,3 +67,5 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-05-27] | [pagina:: 126] | [obs:: Não curti muito a primeira história, achei a personalidade da Diana meio estranha, além que o design dela geral não gostei. Ela ser filha de Hércules não curti também, prefiro sempre quando ela veem do barro]
+> - [data:: 2026-05-28] | [pagina:: 384] | [obs:: Umas das piores coisas que li até agora, isso me deixa triste. Volume 1 foi mais ou menos, o 2 eu não gostei e o 3 eu odiei, o final é horrível, é um ditadura benevolentem as contradições das Amazonas não são resolvidas, elas são apenas enfiadas goela abaixo do resto do planeta, não tem diálogo nenhum é apenas "nosso modo de viver é melhor e vocês são obrigados a adotar ele agora", a Diana não tem nada haver com a qual eu conheço, essa é mimada, fria e arrogante, além do desenho objetificar muito ela em vários momentos. Podia ter espaço para muitos debates, mas ficou algo extremamente raso.]

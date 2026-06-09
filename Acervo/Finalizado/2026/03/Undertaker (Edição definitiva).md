@@ -3,15 +3,15 @@ Processado em: 2026-03-12
 Situação: Finalizado
 Data de Entrega: 2026-03-16
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lido
 Vezes que Li: 0
 Páginas: 332
 valor: 94.5
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/Undertaker (Edição definitiva).jpg
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-05-09
 Data de Publicação: 2024-10-31
 Universo: Indie
 Planejo pegar em:
@@ -66,3 +66,7 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-05-03] | [pagina:: 114] | [obs:: Que história boa, primeiro wester que li na vida. Jonas, Rose e Lin me ganhram muito, gostei da dinamica dos três, as passagem da biblia de tempo em tempo curti muito, me inspirou pra cirar um personagem de RPG pra usar. Mal posso esperar para continuar lendo, só é bem longo, levei cerca de 40 minutos para ler cada história.]
+> - [data:: 2026-05-04] | [pagina:: 164] | [obs:: Cara que vilão o Ogro, muito foda demais essa cara, um verdadeiro desgraçado. O que ele faz com a Rose é uma filha da putagem imensa, curioso para o que vai acontecer no próximo e espero que ela fique bem.]
+> - [data:: 2026-05-06] | [pagina:: 214] | [obs:: Po muito bom o final com com o Ogro, você entende o quão perigoso e maluco é o cara, eu temi pela Rose na leitura, e também trazer que ele mata alguma pessoa, mas cura dez, já o Jonas machuca ou mata as pessoas e não consegue curar ninguém.]
+> - [data:: 2026-05-09] | [pagina:: 332] | [obs:: Po muito bom, e a Salvaje que personagem meus deus, espero que ela apareça de novo no futuro. O arco foi muito bom e quero ver quando sair o próximo, se veremos a Rose de novo.]

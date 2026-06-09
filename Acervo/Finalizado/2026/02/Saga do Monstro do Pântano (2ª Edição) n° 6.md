@@ -3,15 +3,15 @@ Processado em: 2026-02-01
 Situação: Finalizado
 Data de Entrega: 2026-01-30
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 212
 valor: 50.33
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/Saga do Monstro do Pântano (2ª Edição) n° 6.jpeg
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-05-01
 Data de Publicação: 2019-03-12
 Universo: Vertigo
 ---
@@ -65,3 +65,5 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-04-30] | [pagina:: 82] | [obs:: Curioso como o monstro vai voltar pra casa e chorei na parte da abby e do pai dela, muito triste e bonito ]
+> - [data:: 2026-05-01] | [pagina:: 212] | [obs:: Incrível, que final magnifico, uma das melhores obras que já li. Toda parte do espaço achei fascinante, ainda mais que penso em histórias meio que nesse estilo, o mais confuso e bizarro foi aquele "planeta" meio vivo. Quero ler de novo tudo em algum momento.]

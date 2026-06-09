@@ -9,7 +9,7 @@ Páginas: 144
 valor: 47.9
 Favorito: false
 Avaliação: 0
-imagem: Banco de Imagens/Mangas/Supergirl (2026) Vol. 01.jpg
+imagem: Banco de Imagens/HQ's/Supergirl (2026) Vol. 01.webp
 Última Leitura:
 Data de Publicação: 2026-06-26
 Nexo:

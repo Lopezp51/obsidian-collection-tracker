@@ -3,12 +3,12 @@ Processado em: 2026-03-12
 Situação: Finalizado
 Data de Entrega: 2026-03-16
 Chegou: true
-Status de Leitura: Próximo
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 100
 valor: 37.7
 Favorito: false
-Avaliação: 0
+Avaliação: 1
 imagem: Banco de Imagens/HQ's/O Monstro Debaixo da Minha Cama.jpg
 Tipo: Quadrinho
 Última Leitura:
@@ -66,3 +66,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-04-27] | [pagina:: 100] | [obs:: Comprei pela capa essa HQ, achei incrível a arte, mas a história é extremamente desconfortável, não teria comprado se soubessse o que é. ]

@@ -7,5 +7,6 @@
   "newFileFolderPath": "Gestão de Compras",
   "showInlineTitle": true,
   "readableLineLength": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true
 }

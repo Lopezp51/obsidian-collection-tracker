@@ -3,15 +3,15 @@ Processado em: 2026-01-19
 Situação: Finalizado
 Data de Entrega: 2026-01-23
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 184
 valor: 54.47
 Favorito: false
-Avaliação: 0
+Avaliação: 4
 imagem: Banco de Imagens/HQ's/Homem De Ferro - O Demônio Na Garrafa (Marvel Essenciais).webp
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-05-21
 Data de Publicação: 2025-10-15
 Universo: Marvel
 ---
@@ -70,3 +70,7 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+
+> - [data:: 2026-05-17] | [pagina:: 64] | [obs:: Traço ta daora, e não sinto tão datado assim, claro que da pra ver o pessoal descrevendo bem o que ta acontecendo, mas ta legal]
+> - [data:: 2026-05-17] | [pagina:: 100] | [obs:: Dam, bem daora como acabou a última história, se eles tivessem adaptado isso pro cinema seria irado]
+> - [data:: 2026-05-21] | [pagina:: 184] | [obs:: Foi daora pegar essa HQ mais antiga pra ler, ver o absurdo dos vilões foi interessante e também a relação do Tony com a bebida foi muito boa, seria legal ter visto isso no cinema]

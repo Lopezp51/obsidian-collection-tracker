@@ -34,7 +34,7 @@ module.exports = async (params) => {
 
     // Exporta tudo para o QuickAdd
     params.variables["titulo"] = titulo;
-    params.variables["valorFinal"] = valorTratado;
+    params.variables["valor"] = valorTratado;
     params.variables["dynamicPath"] = folderPath;
     params.variables["situacao"] = situacao;
     params.variables["dataFinal"] = dataFormatada;

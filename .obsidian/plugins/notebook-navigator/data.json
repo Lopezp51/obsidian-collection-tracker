@@ -103,10 +103,12 @@
   "showInfoButtons": true,
   "homepage": {
     "source": "none",
-    "file": null
+    "file": null,
+    "createMissingPeriodicNote": true
   },
   "showTooltips": false,
   "showTooltipPath": true,
+  "showTooltipWordCount": false,
   "desktopBackground": "separate",
   "useFloatingToolbars": true,
   "interfaceIcons": {},
@@ -176,7 +178,6 @@
   "filterPinnedByFolder": false,
   "showPinnedGroupHeader": true,
   "showPinnedIcon": true,
-  "optimizeNoteHeight": true,
   "showQuickActions": true,
   "quickActionRevealInFolder": false,
   "quickActionAddTag": true,
@@ -462,7 +463,7 @@
     "#404040",
     "#404040"
   ],
-  "lastShownVersion": "2.5.7",
+  "lastShownVersion": "2.6.4",
   "rootFolderOrder": [],
   "rootTagOrder": [],
   "rootPropertyOrder": [],

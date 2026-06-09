@@ -4,11 +4,11 @@ Favorito: false
 Avaliação: 0
 Última Leitura: 
 Status de Leitura: Não Iniciado
-Processado em: {{VALUE:dataFinal}}
+Processado em: 
 Data de Entrega: 
 Chegou: false
 Data de Publicação: 
-Colecao: 
+Coleção: 
 Formato:
 Editora:
 valor:
@@ -17,7 +17,7 @@ Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
-imagem: "{{VALUE:imagemFinal}}"
+imagem: "Banco de Imagens/Mangas/<% tp.file.title %>.webp"
 tags:
   - Manga
 

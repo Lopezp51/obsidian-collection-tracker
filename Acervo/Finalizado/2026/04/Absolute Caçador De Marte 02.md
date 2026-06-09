@@ -3,19 +3,19 @@ Processado em: 2026-03-23
 Situação: Finalizado
 Data de Entrega: 2026-04-13
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 48
 valor: 8.66
 Favorito: false
-Avaliação: 0
+Avaliação: 4
 imagem: Banco de Imagens/HQ's/Absolute Caçador De Marte 02.webp
 Nexo:
   - Quadrinho
   - Absolute
   - DC
   - Panini
-Última Leitura:
+Última Leitura: 2026-04-30
 Data de Publicação: 2026-03-23
 Universo: DC
 Planejo pegar em: 2026-04-01
@@ -70,3 +70,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-04-30] | [pagina:: 48] | [obs:: Cores lindas demais, vamos ver qual rumo a história vai tomar, relação pessoal do john ta indo de mal a pior. E qual é a pira do marciano branco]

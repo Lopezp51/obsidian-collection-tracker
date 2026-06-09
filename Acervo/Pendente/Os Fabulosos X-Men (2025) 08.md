@@ -3,22 +3,23 @@ Processado em: 2026-03-09
 Situação: Finalizado
 Data de Entrega: 2026-03-30
 Chegou: true
-Status de Leitura: Próximo
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 96
 valor: 11.94
 Favorito: false
-Avaliação: 0
+Avaliação: 2
 imagem: Banco de Imagens/HQ's/Os Fabulosos X-Men (2025) 08.webp
 Nexo:
   - Quadrinho
   - X-Men
   - Panini
   - Marvel
-Última Leitura:
+Última Leitura: 2026-04-26
 Data de Publicação: 2026-03-09
 Universo: Marvel
 Planejo pegar em:
+Colocado no saquinho: 2026-04-26
 ---
 
 > [!bookbox]
@@ -70,3 +71,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-04-26] | [pagina:: 96] | [obs:: Devo dizer que o começo foi muito legal, as artes tavam muito legais, ver ambos os times serem desenhados diferentes foi muito legal e até o conflito mais okay, mas o final nossa achei muito ruim, parece que esse arco não serviu de nada. Ainda não sabemos quem é o dentento X, o Xavier continua preso. Daria pra ter bolado algo melhor]

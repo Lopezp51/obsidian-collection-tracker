@@ -1,23 +1,23 @@
 ---
 Processado em: 2026-06-01
 Situação: Desejado
-Data de Entrega: null
+Data de Entrega:
 Chegou: false
-Status de Leitura: null
-Vezes que Li: null
-Páginas: null
-valor: 0.0
+Status de Leitura:
+Vezes que Li:
+Páginas:
+valor: 64.9
 Favorito: false
-Avaliação: null
+Avaliação:
 imagem: Banco de Imagens/Mangas/The Ghost in the Shell Human Error Processer - Vol.1.5.jpg
-Tipo: null
-Última Leitura: null
+Tipo:
+Última Leitura:
 Data de Publicação: 2019-12-19
-Universo: null
+Universo:
 Nexo:
-- Manga
-- The Ghost in the Shell Human Error Processer -
-- Panini
+  - Manga
+  - The Ghost in the Shell Human Error Processer -
+  - Panini
 ---
 
 > [!bookbox]

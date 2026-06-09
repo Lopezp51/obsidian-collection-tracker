@@ -1,17 +1,17 @@
 ---
 Processado em: 2026-02-01
-Situação: Faturado
+Situação: Finalizado
 Data de Entrega: 2026-01-30
 Chegou: true
-Status de Leitura: Próximo
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 172
 valor: 50.33
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/Saga do Monstro do Pântano (2ª Edição) n° 5.jpeg
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-04-25
 Data de Publicação: 2018-10-10
 Universo: Vertigo
 ---
@@ -65,3 +65,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-04-25] | [pagina:: 172] | [obs:: Cara sensaional esse quinta edição, estou curioso para ver sobre o Azul, não sabia o rumo que ia tormar a história e engraçado ver a o arco antigo foi algo mais vibe lovecraft e esse foi mais pé no chão, apesar de ter dado mais merda.]

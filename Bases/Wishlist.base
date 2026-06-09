@@ -16,6 +16,8 @@ properties:
     displayName: Título
   formula.Sem título:
     displayName: Já  lançou
+  note.valor:
+    displayName: Preço
 views:
   - type: cards
     name: Lançados até agora
@@ -26,6 +28,7 @@ views:
     order:
       - file.name
       - Data de Publicação
+      - valor
     sort:
       - property: Data de Publicação
         direction: ASC
@@ -79,3 +82,4 @@ views:
       note.Chegou: 134
     image: note.imagem
     imageAspectRatio: 1.45
+    cardSize: 140

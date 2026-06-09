@@ -1,6 +1,6 @@
 ---
-Processado em: 2026-04-02
-Situação: Pendente
+Processado em: 2026-05-13
+Situação: Faturado
 Data de Entrega:
 Chegou: false
 Status de Leitura: Não Iniciado
@@ -16,7 +16,7 @@ Nexo:
   - Panini
   - Absolute
 Última Leitura:
-Data de Publicação: 2026-04-27
+Data de Publicação: 2026-05-13
 Universo: DC
 Planejo pegar em:
 ---

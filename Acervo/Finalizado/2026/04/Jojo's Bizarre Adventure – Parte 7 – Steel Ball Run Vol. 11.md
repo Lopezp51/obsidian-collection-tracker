@@ -3,18 +3,18 @@ Processado em: 2026-03-03
 Situação: Finalizado
 Data de Entrega: 2026-04-06
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lido
 Vezes que Li: 0
 Páginas: 256
 valor: 38.43
 Favorito: false
-Avaliação: 0
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/Jojo's Bizarre Adventure – Parte 7 – Steel Ball Run Vol. 11.webp
 Nexo:
   - Manga
   - Jojo's
   - Panini
-Última Leitura:
+Última Leitura: 2026-05-25
 Data de Publicação: 2026-03-03
 Universo: Manga
 Planejo pegar em:
@@ -69,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-05-25] | [pagina:: 256] | [obs:: Que desconforto a cena da Lucy e do Valentine, e que bizarro, o espírito santo engravidou ela com a cabeça de Jesus? Wtf mano, mas achei daora quem foi um dialogo bem longo entre os dois que passou rápido as páginas, e também a discussão do guardanapo foi legal. Além disso no começo o Jhonny desenvolvendo uma nova habilidade foi daora]

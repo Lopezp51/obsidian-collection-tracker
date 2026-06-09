@@ -3,22 +3,23 @@ Processado em: 2026-03-30
 Situação: Finalizado
 Data de Entrega: 2026-04-07
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 48
 valor: 14.77
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/Absolute Mulher-Maravilha 03.webp
 Nexo:
   - Quadrinho
   - DC
   - Absolute
   - Mulher-Maravilha
-Última Leitura:
+Última Leitura: 2026-04-29
 Data de Publicação: 2026-03-30
 Universo: DC
 Planejo pegar em:
+Colocado no saquinho: 2026-04-29
 ---
 
 > [!bookbox]
@@ -70,3 +71,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-04-29] | [pagina:: 48] | [obs:: Cara a forma de medusa foi irada e ela conversando com Hades muito daora. A melhor da série absolute até agora, curioso pra oq veem a seguir. Steve indo até ela pra trazer ela da forma eu chorei.]

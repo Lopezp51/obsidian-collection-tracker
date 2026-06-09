@@ -2,28 +2,28 @@
 Situação: Desejado
 Favorito: false
 Avaliação: 0
-Última Leitura: null
-Status de Leitura: null
-Processado em: null
-Data de Entrega: null
+Última Leitura:
+Status de Leitura:
+Processado em:
+Data de Entrega:
 Chegou: false
 Data de Publicação: 2020-12-28
 Coleção:
-- Berserk
+  - Berserk
 Formato: Manga
 Editora:
-- Panini
-valor: 0.0
-Páginas: null
-Vezes que Li: null
+  - Panini
+valor: 45
+Páginas:
+Vezes que Li:
 Roteiro:
-- Kentaro Miura
+  - Kentaro Miura
 Arte:
-- Kentaro Miura
-Cores: null
+  - Kentaro Miura
+Cores:
 imagem: Banco de Imagens/Mangas/Berserk Vol. 39.webp
 tags:
-- Manga
+  - Manga
 ---
 > [!bookbox]
 > ```meta-bind

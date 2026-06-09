@@ -1,13 +1,13 @@
 ---
-Situação: Pendente
+Situação: Faturado
 Favorito: false
 Avaliação: 0
 Última Leitura:
 Status de Leitura: Não Iniciado
-Processado em:
+Processado em: 2026-05-13
 Data de Entrega:
 Chegou: false
-Data de Publicação:
+Data de Publicação: 2026-05-13
 Coleção:
   - Mulher-Maravilha
   - Sagas Panini

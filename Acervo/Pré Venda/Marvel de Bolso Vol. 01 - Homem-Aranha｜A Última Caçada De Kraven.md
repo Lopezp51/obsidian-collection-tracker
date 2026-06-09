@@ -3,19 +3,19 @@ Processado em: 2026-03-25
 Situação: Finalizado
 Data de Entrega: 2026-03-30
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 160
 valor: 39.9
 Favorito: false
-Avaliação: 0
+Avaliação: 4
 imagem: Banco de Imagens/HQ's/Marvel de Bolso Vol. 01 - Homem-Aranha｜A Última Caçada De Kraven.webp
 Nexo:
   - Quadrinho
   - Homem-Aranha
   - Panini
   - Marvel
-Última Leitura:
+Última Leitura: 2026-05-02
 Data de Publicação: 2026-03-23
 Universo: Marvel
 ---
@@ -69,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-05-02] | [pagina:: 160] | [obs:: Sinto que se eu tivesse uma carga das histórias antigas teria gostado mais, mas foi legal ler e entendi pq falam tão bem dessa história]

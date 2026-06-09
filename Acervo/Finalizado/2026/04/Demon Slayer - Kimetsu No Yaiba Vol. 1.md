@@ -1,18 +1,17 @@
 ---
 Equipe Criativa Geral: Koyoharu Gotouge
-
 Processado em: 2026-04-02
 Situação: Finalizado
 Data de Entrega: 2026-04-18
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 192
 valor: 23.03
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/Mangas/Demon Slayer - Kimetsu No Yaiba Vol. 1.jpg
-Última Leitura: 
+Última Leitura: 2026-05-01
 Data de Publicação: 2020-03-01
 Nexo:
   - Manga
@@ -70,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-05-01] | [pagina:: 192] | [obs:: Bizarro, eu sabia exatamente o que ia acontecer e mesmo assim me empolguei muito lendo, o manga tem uma vibe diferente do anime, mas a arte achei sensacional. O que da falta é a animação das respirações, mas as artes ajudam muito a não sentir falta dessa parte.]

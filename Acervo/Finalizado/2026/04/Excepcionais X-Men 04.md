@@ -3,19 +3,19 @@ Processado em: 2026-03-09
 Situação: Finalizado
 Data de Entrega: 2026-04-07
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 48
 valor: 11.94
 Favorito: false
-Avaliação: 0
+Avaliação: 3
 imagem: Banco de Imagens/HQ's/Excepcionais X-Men 4.webp
 Nexo:
   - Quadrinho
   - Panini
   - X-Men
   - Marvel
-Última Leitura:
+Última Leitura: 2026-05-01
 Data de Publicação: 2026-03-09
 Universo: Marvel
 Planejo pegar em:
@@ -70,3 +70,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-05-01] | [pagina:: 48] | [obs:: As duas histórias foram melhorzinhas, X factor se resolveu muito rápido só e a excepcionais foi melhor que a última]

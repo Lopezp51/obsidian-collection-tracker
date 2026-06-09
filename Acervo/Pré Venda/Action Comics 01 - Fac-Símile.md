@@ -1,6 +1,6 @@
 ---
-Processado em:
-Situação: Pré Venda
+Processado em: 2026-06-05
+Situação: Faturado
 Data de Entrega:
 Chegou: false
 Status de Leitura: Não Iniciado
@@ -16,7 +16,7 @@ Nexo:
   - Panini
   - DC
 Última Leitura:
-Data de Publicação: 2026-04-27
+Data de Publicação: 2026-05-29
 Universo: DC
 Planejo pegar em: 2026-04-01
 ---

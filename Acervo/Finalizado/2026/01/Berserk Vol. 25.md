@@ -1,29 +1,29 @@
 ---
-Situação: Faturado
-Favorito: false
-Avaliação: 0
-Última Leitura: null
-Status de Leitura: Não Iniciado
+Situação: Finalizado
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-05-22
+Status de Leitura: Lido
 Processado em: 2026-01-15
 Data de Entrega: 2026-01-19
 Chegou: true
 Data de Publicação: 2018-08-01
 Coleção:
-- Berserk
+  - Berserk
 Formato: Manga
 Editora:
-- Panini
+  - Panini
 valor: 85.71
 Páginas: 224
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro:
-- Kentaro Miura
+  - Kentaro Miura
 Arte:
-- Kentaro Miura
-Cores: null
+  - Kentaro Miura
+Cores:
 imagem: Banco de Imagens/Mangas/Berserk Vol. 25.webp
 tags:
-- Manga
+  - Manga
 ---
 > [!bookbox]
 > ```meta-bind
@@ -74,3 +74,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-05-22] | [pagina:: 224] | [obs:: Adorei a parte dos espiritos, meu muito boa essa expansão de mundo, ta incrível e espero que nada de ruim aconteça com nossas meninas, já passaram por muita coisa já ]

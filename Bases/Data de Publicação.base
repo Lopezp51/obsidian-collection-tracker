@@ -23,8 +23,9 @@ views:
   - type: cards
     name: Tabela
     filters:
-      and:
+      or:
         - Chegou == true
+        - Emprestado == true
     groupBy:
       property: formula.Sem título
       direction: DESC

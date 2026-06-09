@@ -1,29 +1,29 @@
 ---
 Situação: Finalizado
-Favorito: false
-Avaliação: 0
-Última Leitura: null
-Status de Leitura: Não Iniciado
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-05-02
+Status de Leitura: Lido
 Processado em: 2025-11-12
-Data de Entrega: null
+Data de Entrega:
 Chegou: true
 Data de Publicação: 2018-06-01
 Coleção:
-- Berserk
+  - Berserk
 Formato: Manga
 Editora:
-- Panini
+  - Panini
 valor: 33.68
 Páginas: 224
 Vezes que Li: 0
 Roteiro:
-- Kentaro Miura
+  - Kentaro Miura
 Arte:
-- Kentaro Miura
-Cores: null
+  - Kentaro Miura
+Cores:
 imagem: Banco de Imagens/Mangas/Berserk Vol. 24.webp
 tags:
-- Manga
+  - Manga
 ---
 > [!bookbox]
 > ```meta-bind
@@ -74,3 +74,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-05-02] | [pagina:: 224] | [obs:: Tão daora a explicação dos planos, foi um volume pesado de lore do mundo, mas tava tão interessante e no próximo vamos com tudo com combate]

@@ -32,12 +32,14 @@ views:
       - Data de Entrega
       - Mês de Aquisição
     sort:
+      - property: formula.Dias aguardando
+        direction: DESC
+      - property: Situação
+        direction: ASC
+      - property: file.name
+        direction: ASC
       - property: Chegou
         direction: ASC
-      - property: Processado em
-        direction: ASC
-      - property: Situação
-        direction: DESC
     columnSize:
       file.name: 439
       note.Data de Entrega: 138

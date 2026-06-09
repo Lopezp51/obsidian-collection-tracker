@@ -1,21 +1,21 @@
 ---
-Processado em: null
+Processado em:
 Situação: Finalizado
-Data de Entrega: null
+Data de Entrega:
 Chegou: false
 Status de Leitura: Lido
 Vezes que Li: 1
 Páginas: 208
-valor: 0.0
+valor: 27.5
 Favorito: true
 Avaliação: 5
 imagem: Banco de Imagens/HQ's/Planetes - 01.webp
 Nexo:
-- Manga
+  - Manga
 Última Leitura: 2026-04-05
 Data de Publicação: 2015-05-05
 Universo: Manga
-Planejo pegar em: null
+Planejo pegar em:
 Emprestado: true
 ---
 

@@ -3,12 +3,12 @@ Processado em: 2026-03-23
 Situação: Finalizado
 Data de Entrega: 2026-04-13
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lido
 Vezes que Li: 0
 Páginas: 48
 valor: 11.94
 Favorito: false
-Avaliação: 0
+Avaliação: 2
 imagem: Banco de Imagens/HQ's/Excepcionais X-Men 05.webp
 Nexo:
   - Quadrinho
@@ -18,6 +18,7 @@ Nexo:
 Data de Publicação: 2026-03-23
 Universo: Marvel
 Planejo pegar em:
+Colocado no saquinho: 2026-05-09
 ---
 
 > [!bookbox]
@@ -69,3 +70,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-05-09] | [pagina:: 48] | [obs:: Não tem muito o que falar da história principal, achei bem mais ou menso, mais pro menos. X factor que trama mais boba, só o design da Frenesi mesmo pra me fazer querer ler isso ainda.]

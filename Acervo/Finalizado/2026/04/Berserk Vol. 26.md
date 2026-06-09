@@ -1,29 +1,29 @@
 ---
 Situação: Finalizado
-Favorito: false
-Avaliação: 0
-Última Leitura: null
-Status de Leitura: Não Iniciado
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-06-07
+Status de Leitura: Lido
 Processado em: 2026-04-06
 Data de Entrega: 2026-04-10
 Chegou: true
 Data de Publicação: 2018-10-01
 Coleção:
-- Berserk
+  - Berserk
 Formato: Manga
 Editora:
-- Panini
+  - Panini
 valor: 47.9
 Páginas: 224
 Vezes que Li: 0
 Roteiro:
-- Kentaro Miura
+  - Kentaro Miura
 Arte:
-- Kentaro Miura
-Cores: null
+  - Kentaro Miura
+Cores:
 imagem: Banco de Imagens/Mangas/Berserk Vol. 26.png
 tags:
-- Manga
+  - Manga
 ---
 > [!bookbox]
 > ```meta-bind
@@ -74,3 +74,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-06-07] | [pagina:: 224] | [obs:: Finalmente a amrdaura berserk, que irado e tipo não é um power up, ele só não tem a noção do limite do seu corpo, o ferindo no processo, irado esse volume, e sempre bom ver o Skull Knight.]

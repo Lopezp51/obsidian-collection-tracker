@@ -3,15 +3,15 @@ Processado em: 2026-01-19
 Situação: Finalizado
 Data de Entrega: 2026-01-23
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 464
 valor: 128.15
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/Universo DC Por Alan Moore.webp
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-05-31
 Data de Publicação: 2025-06-17
 Universo: DC
 ---
@@ -65,3 +65,5 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-05-29] | [pagina:: 163] | [obs:: Melhor história até agora foi dos dois gigantes que o tempo passa de forma diferente para os seres e do lanterna verde, o antecessor do Hal, que ele fica paranoico parece e isso acaba selando o destino dele.]
+> - [data:: 2026-05-31] | [pagina:: 464] | [obs:: Po as melhores histórias sem dúvidas foi wildstorm spotlight , ver o fim do universo foi irado nessa história, do Superman foi interessante e dark, da Voodoo a primeira edição não curti que tava muito apelativo, mas a 2, 3 e 4 me ganharam e Deathblow foi super interessante. Amei ler todas]

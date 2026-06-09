@@ -3,21 +3,21 @@ Processado em: 2026-02-04
 Situação: Finalizado
 Data de Entrega: 2026-02-10
 Chegou: true
-Status de Leitura: Próximo
+Status de Leitura: Lido
 Vezes que Li: 0
-Páginas: 32
+Páginas: 248
 valor: 38.32
 Favorito: false
-Avaliação: null
+Avaliação: 3.5
 imagem: Banco de Imagens/Mangas/Cyberpunk Edgerunners Madness Vol. 01.webp
 Tipo: Manga
-Última Leitura: null
+Última Leitura: 2026-04-23
 Data de Publicação: 2026-02-04
 Universo: Manga
 Nexo:
-- Manga
-- Cyberpunk - Edgerunners Madness
-- Panini
+  - Manga
+  - Panini
+  - Cyberpunk
 ---
 
 > [!bookbox]
@@ -69,3 +69,5 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-04-21] | [pagina:: 112] | [obs:: Divertido o começo e claro sempre bom rever a Rebecca em outra mídia]
+> - [data:: 2026-04-23] | [pagina:: 248] | [obs:: Na de outro mundo, mas é divertido estar em nigh city de novo, e é claro que o volume acaba com um cliffhanger, vai saber quando vai sair o 2 agora]

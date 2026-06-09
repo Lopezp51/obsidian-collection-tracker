@@ -2,28 +2,28 @@
 Situação: Finalizado
 Favorito: false
 Avaliação: 0
-Última Leitura: 2025-01-10
+Última Leitura:
 Status de Leitura: Não Iniciado
 Processado em: 2024-12-10
-Data de Entrega: null
+Data de Entrega:
 Chegou: true
 Data de Publicação: 2024-06-01
 Coleção:
-- Berserk
+  - Berserk
 Formato: Manga
 Editora:
-- Panini
+  - Panini
 valor: 199.9
 Páginas: 184
 Vezes que Li: 0
 Roteiro:
-- Kouji Mori
+  - Kouji Mori
 Arte:
-- Studio Gaga
-Cores: null
+  - Studio Gaga
+Cores:
 imagem: Banco de Imagens/Mangas/Berserk Vol. 42.jpg
 tags:
-- Manga
+  - Manga
 ---
 > [!bookbox]
 > ```meta-bind
