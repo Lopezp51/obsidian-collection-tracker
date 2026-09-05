@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
+Avaliação: 3.5
+Última Leitura: 2026-07-01
+Status de Leitura: Lido
 Processado em: 2026-04-24
 Data de Entrega: 2026-05-25
 Chegou: true
@@ -17,7 +17,7 @@ Editora:
   - Marvel
 valor: 11.94
 Páginas: 48
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro: []
 Arte: []
 Cores: []
@@ -75,3 +75,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-01] | [pagina:: 48] | [obs:: Foi mais legal essa, tanto para os dois times, e fiquei surpreso que o pai do Ciclopes é um cara do espaço kkkk então beleza né]

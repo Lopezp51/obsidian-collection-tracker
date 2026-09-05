@@ -1,24 +1,24 @@
 ---
-Processado em: 2026-03-12
+Processado em:
 Situação: Desejado
-Data de Entrega: null
+Data de Entrega:
 Chegou: false
 Status de Leitura: Não Iniciado
 Vezes que Li: 0
-Páginas: null
-valor: 0.0
+Páginas:
+valor: 0
 Favorito: false
 Avaliação: 0
 imagem: Banco de Imagens/HQ's/Sargento Kirk Vol. 01.png
 Tipo: Quadrinho
-Última Leitura: null
-Data de Publicação: 2026-09-01
+Última Leitura:
+Data de Publicação: 2026-09-11
 Universo: Indie
-Planejo pegar em: null
+Planejo pegar em:
 Nexo:
-- Manga
-- Sargento Kirk
-- Panini
+  - Manga
+  - Sargento Kirk
+  - Panini
 ---
 
 > [!bookbox]

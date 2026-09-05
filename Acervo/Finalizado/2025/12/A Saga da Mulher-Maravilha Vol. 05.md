@@ -1,11 +1,11 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura: 
-Status de Leitura: Não Iniciado
+Avaliação: 1.5
+Última Leitura: 2026-07-01
+Status de Leitura: Lido
 Processado em: 2025-12-01
-Data de Entrega: 
+Data de Entrega:
 Chegou: true
 Data de Publicação: 2025-01-01
 Coleção:
@@ -18,7 +18,7 @@ Editora:
   - DC
 valor: 56.99
 Páginas: 144
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro:
   - John Byrne
 Arte:
@@ -81,3 +81,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-01] | [pagina:: 144] | [obs:: Achei bem sem sentido, Diana passou metade dessa HQ morta, vimos parte de uma grande saga, que não detalhada nada. Tem muitos plots acontecendo, o do Jason Blood estou achando uma merda. Fazem um autoposia no corpo da Diana e após a mãe dela rezar, os deuses trazem ela de volta e ela vira a deusa da verdade e vai morar no Olimpo, com Hipolita provavelmente virando a nova mulher maravilha. Mas foi muito dado essa divindade, que da pra ver que tem data de expiração, no começo da run do Perez a diana já era uma mortal, e agora ela vai pra deusa, nossa não gostei.]

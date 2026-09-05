@@ -1,11 +1,11 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura: 
-Status de Leitura: Não Iniciado
+Avaliação: 1
+Última Leitura: 2026-07-08
+Status de Leitura: Lido
 Processado em: 2025-12-01
-Data de Entrega: 
+Data de Entrega:
 Chegou: true
 Data de Publicação: 2025-02-01
 Coleção:
@@ -16,9 +16,9 @@ Formato:
 Editora:
   - Panini
   - DC
-valor: 38.80
+valor: 38.8
 Páginas: 144
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro:
   - John Byrne
 Arte:
@@ -79,3 +79,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-08] | [pagina:: 144] | [obs:: O que posso dizer, ruim, O byrne não fazendo cenários as vezes só tem um quadro branco sem nada diversas vezes, a mulher maravilha tanto Diana e Hipólita serem só coadjuvantes na revista da mulher maravilha, tem 3 subtramas rolando ao mesma tempo em cada revista, tem a Diana como deusa no mundo dos deuses, a Donna Troy, Artemis e Cassandra num mistério e mais a mae da cassandra com a trama com o jason blood e merlim, que completa zona, ah e além disso a viagem pro passado da Hipolita onde parece que só o lanterna verde e gaviao fazem algo, deixando ela de lado, até mesmo na última história é o relampago que derrota a anja negra ou algo assim o nome dela]

@@ -3,12 +3,12 @@ Processado em: 2026-04-07
 Situação: Finalizado
 Data de Entrega: 2026-04-09
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lido
 Vezes que Li: 0
 Páginas: 48
 valor: 13.4
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/DC X Sonic 02.webp
 Nexo:
   - Quadrinho
@@ -16,7 +16,7 @@ Nexo:
   - Panini
   - DC
   - Crossover
-Última Leitura:
+Última Leitura: 2026-07-21
 Data de Publicação: 2026-02-01
 Universo: DC
 Planejo pegar em:
@@ -71,3 +71,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-21] | [pagina:: 48] | [obs:: Interações ótimas, muito legal ver o time do Sonic cuidando da terra]

@@ -1,15 +1,16 @@
 ---
 Situação: Finalizado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-07-06
+Status de Leitura: Lido
 Processado em: 2026-05-06
 Data de Entrega: 2026-05-09
 Chegou: true
 Data de Publicação: 2024-06-20
 Coleção:
 Formato:
+  - Tankobon
 Editora:
   - NewPOP
 valor: 31.92
@@ -72,3 +73,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-06] | [pagina:: 184] | [obs:: Isso é bom demais, tudo que adoro, ta uma relação muito boa sendo contruída devegar e ler ouvindo música que as personagem estão escutando melhora muito a experiencia, amei demais]

@@ -1,29 +1,29 @@
 ---
 Situação: Finalizado
-Favorito: false
-Avaliação: 0
-Última Leitura: null
-Status de Leitura: Não Iniciado
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-07-07
+Status de Leitura: Lido
 Processado em: 2026-01-08
 Data de Entrega: 2026-01-15
 Chegou: true
 Data de Publicação: 2019-04-01
 Coleção:
-- Berserk
+  - Berserk
 Formato: Manga
 Editora:
-- Panini
+  - Panini
 valor: 34.8
 Páginas: 224
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro:
-- Kentaro Miura
+  - Kentaro Miura
 Arte:
-- Kentaro Miura
-Cores: null
+  - Kentaro Miura
+Cores:
 imagem: Banco de Imagens/Mangas/Berserk Vol. 29.webp
 tags:
-- Manga
+  - Manga
 ---
 > [!bookbox]
 > ```meta-bind
@@ -74,3 +74,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-07] | [pagina:: 224] | [obs:: Muito bom, grupo se dividiu um pouco e quero ver o que vai acontecer no conflito do final do capitulo. E a parte que o Guts fala que eles são uma familia me pegou muito]

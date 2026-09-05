@@ -1,18 +1,17 @@
 ---
 Equipe Criativa Geral: Koyoharu Gotouge
-
 Processado em: 2026-04-02
 Situação: Finalizado
 Data de Entrega: 2026-04-18
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lido
 Vezes que Li: 0
 Páginas: 192
 valor: 23.03
 Favorito: false
-Avaliação: 0
+Avaliação: 3.5
 imagem: Banco de Imagens/Mangas/Demon Slayer - Kimetsu No Yaiba Vol. 4.jpg
-Última Leitura: 
+Última Leitura: 2026-06-17
 Data de Publicação: 2020-05-01
 Nexo:
   - Manga
@@ -70,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-06-17] | [pagina:: 192] | [obs:: Traço segue bom, mas esse volume parece mais servir de setup para o que está por vir, se bem que tem certas habilidades que aparecem aqui que não lembro de ver mais pra frente, como o fio do Tanjiro, a audição do Zenitsu e o sentido de fera do Inosuke]

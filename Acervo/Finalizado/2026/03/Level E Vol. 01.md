@@ -1,12 +1,12 @@
 ---
 Processado em: 2013-01-01
 Situação: Finalizado
-Data de Entrega: null
+Data de Entrega:
 Chegou: false
 Status de Leitura: Lido
-Vezes que Li: 0
+Vezes que Li: 1
 Páginas: 200
-valor: 0.0
+valor: 0
 Favorito: true
 Avaliação: 5
 imagem: Banco de Imagens/HQ's/Level E Vol. 01.jpg
@@ -14,12 +14,12 @@ Tipo: Quadrinho
 Última Leitura: 2026-03-04
 Data de Publicação: 2013-04-01
 Universo: Manga
-Planejo pegar em: null
+Planejo pegar em:
 Emprestado: true
 Nexo:
-- Manga
-- Level E
-- Panini
+  - Manga
+  - Level E
+  - Panini
 ---
 
 > [!bookbox]

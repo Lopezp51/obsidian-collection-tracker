@@ -1,18 +1,17 @@
 ---
 Equipe Criativa Geral: Koyoharu Gotouge
-
 Processado em: 2026-04-02
 Situação: Finalizado
 Data de Entrega: 2026-04-18
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 192
 valor: 23.03
 Favorito: false
-Avaliação: 0
+Avaliação: 3.5
 imagem: Banco de Imagens/Mangas/Demon Slayer - Kimetsu No Yaiba Vol. 12.jpg
-Última Leitura: 
+Última Leitura: 2026-08-13
 Data de Publicação: 2021-01-01
 Nexo:
   - Manga
@@ -70,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-08-13] | [pagina:: 192] | [obs:: E começamos o arco dos ferreiros, Hype, animado pra ver esse arco em manga e provavelmente vai ir até pelo 14 no máximo pelo que imagino]

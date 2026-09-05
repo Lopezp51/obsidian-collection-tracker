@@ -3,15 +3,15 @@ Processado em: 2026-03-12
 Situação: Finalizado
 Data de Entrega: 2026-03-16
 Chegou: true
-Status de Leitura: Próximo
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 388
 valor: 110.2
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/O Quarto Poder e a Conspiração Starr.jpg
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-06-16
 Data de Publicação: 2025-02-21
 Universo: Indie
 Planejo pegar em: 2026-06-01
@@ -66,3 +66,8 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-06-10] | [pagina:: 72] | [obs:: Po eu to de cara que o motivo de eu ter comprado a HQ foi a personagem da capa, e ela morre na primeira história, topzeira hein, segunda vez que meio que quebro a cara por capa do pipoca, próximas vezes vou mais a fundo. Mas vamos ver qualé que é das outras histórias]
+> - [data:: 2026-06-11] | [pagina:: 200] | [obs:: Po....quebrei a cara agora de novo kkkkkk li o tomo 2 e 3 e foram muito bons kkkk não esperava, curti muito a Gal e a J.A.K, me senti traído na primeira história por conta da Mega, achei q ia ser o fim dela ou da QB4, mas eu errei, leitura foi muito boa desses dois tomo de hoje]
+> - [data:: 2026-06-14] | [pagina:: 258] | [obs:: Muito legal a última história, apesar de eu querer ter visto mais da Gal e da J.A.K juntas, focou muito mais num conflito onde Gal foi se esconder, mas achei interessante a torre e fiquei meio triste ao ver que a história da Gal finaliza naquele planeta, por conta que não teve histórias dela a seguir, mas foi um legal final em aberto pro futuro dela.]
+> - [data:: 2026-06-15] | [pagina:: 314] | [obs:: Cospiração Starr foi divertido kkkkk é totalmente comédia e uma aventura no espaço, mas as situações foram interessantes, Leo e Meke formam uma boa dupla]
+> - [data:: 2026-06-16] | [pagina:: 388] | [obs:: Caramba que doideira o último, curti o plot do Leo e do Meke, o Leo eu tinha já gostado na primeira história mas o Meke foi interessante nessa, e a arte durante tudo taba belissima, um dos quadrinhos mais lindos que já li, quero mais do autor.]

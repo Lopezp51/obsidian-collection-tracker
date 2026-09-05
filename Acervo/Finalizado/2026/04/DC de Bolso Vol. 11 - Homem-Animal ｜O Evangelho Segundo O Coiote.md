@@ -3,23 +3,22 @@ Processado em: 2026-03-31
 Situação: Finalizado
 Data de Entrega: 2026-04-08
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 192
 valor: 41.99
-Favorito: false
-Avaliação: 0
-imagem: Banco de Imagens/HQ's/DC de Bolso Vol. 11 - Homem-Animal ｜O Evangelho Segundo
-  O Coiote.webp
+Favorito: true
+Avaliação: 5
+imagem: Banco de Imagens/HQ's/DC de Bolso Vol. 11 - Homem-Animal ｜O Evangelho Segundo O Coiote.webp
 Tipo: Quadrinho
-Última Leitura: null
+Última Leitura: 2026-07-28
 Data de Publicação: 2026-03-23
 Universo: DC
 Planejo pegar em: 2026-05-01
 Nexo:
-- Quadrinho
-- DC de Bolso
-- Panini
+  - Quadrinho
+  - DC de Bolso
+  - Panini
 ---
 
 > [!bookbox]
@@ -71,3 +70,5 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-27] | [pagina:: 87] | [obs:: Nossa que começo bom, não esperava tanto assim, e pesado caramba, mas o ritmo é super bom pra ler ta doido ]
+> - [data:: 2026-07-28] | [pagina:: 192] | [obs:: Isso aqui é muito bom, quanta história boa pra ler, do deus branco, do coiote, do mundo gavião e a última do caveira vermelha, nossa tudo muito bom. É uma história de herói muito diferente, tem tanto peso e a escrita é fenomenal]

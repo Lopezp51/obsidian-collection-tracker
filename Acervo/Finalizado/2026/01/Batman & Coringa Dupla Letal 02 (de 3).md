@@ -3,21 +3,22 @@ Processado em: 2025-12-25
 Situação: Finalizado
 Data de Entrega: 2026-01-29
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 64
 valor: 0
 Favorito: false
-Avaliação: 0
+Avaliação: 2.5
 imagem: Banco de Imagens/HQ's/Batman & Coringa Dupla Letal 02 (de 3).webp
 Tipo: Quadrinho
-Última Leitura: null
+Última Leitura: 2026-07-14
 Data de Publicação: 2024-01-01
 Universo: DC
 Nexo:
-- Quadrinho
-- Batman
-- Panini
+  - Quadrinho
+  - Batman
+  - Panini
+Colocado no saquinho: 2026-07-14
 ---
 
 > [!bookbox]
@@ -69,3 +70,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-14] | [pagina:: 64] | [obs:: Não tanko esse traje do batman, muito feio sem a clássica cueca por cima kkkkkk história segui indo, nada muito impactante até agora]

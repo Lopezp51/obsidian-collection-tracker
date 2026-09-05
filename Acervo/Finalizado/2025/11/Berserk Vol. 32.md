@@ -1,29 +1,29 @@
 ---
 Situação: Finalizado
-Favorito: false
-Avaliação: 0
-Última Leitura: null
-Status de Leitura: Não Iniciado
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-08-16
+Status de Leitura: Lido
 Processado em: 2025-11-12
-Data de Entrega: null
+Data de Entrega:
 Chegou: true
 Data de Publicação: 2019-10-01
 Coleção:
-- Berserk
+  - Berserk
 Formato: Manga
 Editora:
-- Panini
+  - Panini
 valor: 33.68
 Páginas: 216
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro:
-- Kentaro Miura
+  - Kentaro Miura
 Arte:
-- Kentaro Miura
-Cores: null
+  - Kentaro Miura
+Cores:
 imagem: Banco de Imagens/Mangas/Berserk Vol. 32.png
 tags:
-- Manga
+  - Manga
 ---
 > [!bookbox]
 > ```meta-bind
@@ -74,3 +74,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-08-16] | [pagina:: 216] | [obs:: Como pode não ter um volume ruim de Berserk. A guerra dos exercitos foi muito boa, o  Zod e o Guts acertando um golpe no imperador foi massa. O Falcão no campo de batalha e a Farnese finalmente conseguindo ir pro plano éterio foi lindo de ver]

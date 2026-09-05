@@ -1,11 +1,11 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura: 
-Status de Leitura: Não Iniciado
+Avaliação: 0.5
+Última Leitura: 2026-07-19
+Status de Leitura: Lido
 Processado em: 2025-12-01
-Data de Entrega: 
+Data de Entrega:
 Chegou: true
 Data de Publicação: 2025-04-01
 Coleção:
@@ -17,8 +17,8 @@ Editora:
   - Panini
   - DC
 valor: 56.99
-Páginas: 144
-Vezes que Li: 0
+Páginas: 112
+Vezes que Li: 1
 Roteiro:
   - John Byrne
 Arte:
@@ -80,3 +80,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-19] | [pagina:: 112] | [obs:: Simplismente horrível, acho que talvez o pior até agora, que bagunça e cheio de deus ex machina, umas 3 vezes tive vontade de rasgar as páginas, cara muito ruim, o anual li passando o olho meio rápido, um dos piores quadrinhos que já li. É tudo cheio de coincidencia rolando, plots que se ligam se maneira ruim, literalmente a Hipolita e o flash chegam no inferno só guidados pela vontade da Diana, enquanto o outro grupo já tava por lá, os Merlim morrendo eu rachei o bico, mano que coisa horrível, Artemis sendo sexualizada e do nada ela e o policial tem uma quimica???? mano que horrível e dai também o champions que antes era um deus, na verdade ela ta preso no Olimpo, e Hipolita é filha de Ares???? cara que assasinoto de origem que o Byrne faz. A Hipolita e a Diana foram as primeiras mulhres a morreram por mãos de homens, isso ta claro na fase do Perez, por isso Hipolita é a primeira a emergir do lago das almas, e anos depois ela se reune com sua antiga filha, moldando a Diana. Simplismente que horror Byrne, ainda bem que próximo volume é a fase do Greg]

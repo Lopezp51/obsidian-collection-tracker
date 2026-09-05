@@ -3,15 +3,15 @@ Processado em: 2026-05-25
 Situação: Finalizado
 Data de Entrega: 2026-06-03
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 196
 valor: 90.93
 Favorito: false
-Avaliação: 0
+Avaliação: 4.5
 imagem: Banco de Imagens/HQ's/O Desaparecimento de Josef Mengele.jpg
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-07-13
 Data de Publicação: 2026-04-20
 Universo: Indie
 Planejo pegar em: 2026-04-01
@@ -66,3 +66,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-13] | [pagina:: 196] | [obs:: Fiquei uns dias sem ler que tava configurando meu 3DS, mas gostei muito da leitura, foi bem interessante e doentio como Josef até seu último momento foi um nazista desgraçado, não se arrependeu de nada. Os experimentos era absurdos, muito triste ver que isso realmente aconteceu com pessoas, no fim é triste que ele teve uma vida relativamente boa, dado aos crimes que cometeu]

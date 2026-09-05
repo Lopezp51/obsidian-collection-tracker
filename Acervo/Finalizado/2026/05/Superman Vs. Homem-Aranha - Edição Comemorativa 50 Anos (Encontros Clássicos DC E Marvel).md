@@ -3,15 +3,15 @@ Processado em: 2026-05-28
 Situação: Finalizado
 Data de Entrega: 2026-05-30
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 96
 valor: 34.35
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/Superman Vs. Homem-Aranha - Edição Comemorativa 50 Anos (Encontros Clássicos DC E Marvel).webp
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-06-18
 Data de Publicação: 2026-05-28
 Universo: DC
 Planejo pegar em:
@@ -70,3 +70,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-06-18] | [pagina:: 96] | [obs:: Mano que coisa mais divertida kkkkk cada vez mais pegando gosto pelos quadrinhos antigos, o aranha aqui tava sensasional]

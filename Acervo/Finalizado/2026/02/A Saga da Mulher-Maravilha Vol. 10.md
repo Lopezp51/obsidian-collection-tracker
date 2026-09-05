@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
-Favorito: false
-Avaliação: 0
-Última Leitura: 
-Status de Leitura: Não Iniciado
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-08-24
+Status de Leitura: Lido
 Processado em: 2026-01-07
 Data de Entrega: 2026-02-12
 Chegou: true
@@ -18,7 +18,7 @@ Editora:
   - DC
 valor: 41.31
 Páginas: 144
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro:
   - Greg Rucka
 Arte:
@@ -82,3 +82,5 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-08-23] | [pagina:: 52] | [obs:: Dam começou legal, Medusa pelo jeito vai ser uma ameaça tensa, curioso com o jogo que o doutor psycho ta fazendo, toda vez q ele aparece, é um desgraçado mesmo ]
+> - [data:: 2026-08-24] | [pagina:: 144] | [obs:: Irado demais, a luta entre Diana e Medusa foi muito boa, e com consequencias a principio, teve a petrificação do garoto e a Diana ficando cega. Os deuses também só ficam fazendo seus joguinhos, odiei a resposta que Atena deu a diana, dizendo que a morte do garoto foi um pequeno preço a pagar e agora Diana deveria dar essa respota ao pai do garoto. Ela lutando contra a liga foi daora também, pra se provar que ela ainda dá conta do recado.]

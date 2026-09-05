@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Próximo
+Avaliação: 2
+Última Leitura: 2026-06-10
+Status de Leitura: Lido
 Processado em: 2026-04-24
 Data de Entrega: 2026-05-27
 Chegou: true
@@ -17,13 +17,14 @@ Editora:
   - Panini
 valor: 11.94
 Páginas: 48
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro: []
 Arte: []
 Cores: []
 imagem: Banco de Imagens/HQ's/Excepcionais X-Men 06.webp
 tags:
   - Quadrinho
+Colocado no saquinho: 2026-06-10
 ---
 
 > [!bookbox]
@@ -75,3 +76,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-06-10] | [pagina:: 48] | [obs:: Dessa vez X factor levou a melhor,  po a frenesi é daora demais, mas ela teve pouca aparição nesse. Excepcionais ta meia boca ainda, parece que vai ser um plot de traição que já vimos tantas vezes já, não tem surpresa]

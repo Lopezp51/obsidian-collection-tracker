@@ -1,18 +1,17 @@
 ---
 Equipe Criativa Geral: Koyoharu Gotouge
-
 Processado em: 2026-04-02
 Situação: Finalizado
 Data de Entrega: 2026-04-18
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lido
 Vezes que Li: 0
 Páginas: 192
 valor: 23.03
 Favorito: false
-Avaliação: 0
+Avaliação: 4
 imagem: Banco de Imagens/Mangas/Demon Slayer - Kimetsu No Yaiba Vol. 5.jpg
-Última Leitura: 
+Última Leitura: 2026-06-27
 Data de Publicação: 2020-06-01
 Nexo:
   - Manga
@@ -70,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-06-27] | [pagina:: 192] | [obs:: Gosto muito do momento que a mãe da Nezuko fala com ela, fazendo com que ela salve o Tanjiro e mostrar o lado ruim de ser um Oni e que o arrependimento é possível, mas vai ter consequencias.]

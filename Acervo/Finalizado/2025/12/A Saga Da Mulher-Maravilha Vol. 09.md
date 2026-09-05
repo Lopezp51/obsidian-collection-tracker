@@ -1,9 +1,9 @@
 ---
-Situação: Faturado
-Favorito: false
-Avaliação: 0
-Última Leitura: 
-Status de Leitura: Não Iniciado
+Situação: Finalizado
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-08-01
+Status de Leitura: Lido
 Processado em: 2025-12-23
 Data de Entrega: 2025-12-27
 Chegou: true
@@ -18,7 +18,7 @@ Editora:
   - DC
 valor: 17.9
 Páginas: 144
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro:
   - Greg Rucka
 Arte:
@@ -82,3 +82,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-08-01] | [pagina:: 144] | [obs:: E o plot vai melhorando caramba, parece realmente uma progressão organica das coisas, me lembra um pouco absolute wonder woman, onde as coisas não teem pressa de acontecer, vai tudo se contruindo aos poucos. Ver a Vanessa falando com a mãe dela foi muito triste, eu espero que ela fique bem. Psycho é um desgraçado, mas a Verona pelo visto vai ser uma filha da mae maior ainda também, tudo tá muito interessante]

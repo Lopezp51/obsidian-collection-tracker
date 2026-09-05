@@ -3,21 +3,21 @@ Processado em: 2025-12-25
 Situação: Finalizado
 Data de Entrega: 2026-01-29
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lido
 Vezes que Li: 0
 Páginas: 160
 valor: 0
 Favorito: false
-Avaliação: 0
+Avaliação: 4
 imagem: Banco de Imagens/HQ's/Superman Kryptonita.jpg
 Tipo: Quadrinho
-Última Leitura: null
+Última Leitura: 2026-08-15
 Data de Publicação: 2024-02-26
 Universo: DC
 Nexo:
-- Quadrinho
-- Superman
-- Panini
+  - Quadrinho
+  - Superman
+  - Panini
 ---
 
 > [!bookbox]
@@ -69,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-08-15] | [pagina:: 160] | [obs:: Não esperava gostar tanto desse, a capa eu tinha achado meio feia, mas a história é muito boa, me pegou de surpresa o Bridgewater, achei original a história]

@@ -34,9 +34,9 @@ views:
     sort:
       - property: formula.Dias aguardando
         direction: DESC
-      - property: Situação
-        direction: ASC
       - property: file.name
+        direction: DESC
+      - property: Situação
         direction: ASC
       - property: Chegou
         direction: ASC

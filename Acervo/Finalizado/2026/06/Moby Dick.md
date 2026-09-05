@@ -3,17 +3,17 @@ Processado em: 2026-05-25
 Situação: Finalizado
 Data de Entrega: 2026-06-03
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 256
 valor: 104.93
 Favorito: false
-Avaliação: 0
+Avaliação: 4
 imagem: Banco de Imagens/HQ's/Moby Dick.jpg
 Nexo:
   - Quadrinho
   - Pipoca e Nanquuim
-Última Leitura:
+Última Leitura: 2026-06-21
 Data de Publicação: 2017-08-23
 Universo:
 Planejo pegar em: 2026-05-01
@@ -68,3 +68,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-06-21] | [pagina:: 256] | [obs:: Primeiro vez que vi a história de Moby Dick, e jurava que no final a baleia era morta, não esperava que toda triupulação menos um iria sobreviver, com o capitão sendo afundado para o fundo do mar, junto a baleia. A arte desse quadrinho foi surreal]

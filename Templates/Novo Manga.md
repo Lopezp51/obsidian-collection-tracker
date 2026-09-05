@@ -1,23 +1,26 @@
 ---
 Situação: {{VALUE:situacao}}
-Favorito: false
-Avaliação: 0
-Última Leitura: 
-Status de Leitura: Não Iniciado
-Processado em: 
-Data de Entrega: 
-Chegou: false
 Data de Publicação: 
 Coleção: 
+Páginas:
 Formato:
 Editora:
-valor:
-Páginas:
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
-imagem: "Banco de Imagens/Mangas/<% tp.file.title %>.webp"
+valor:
+Processado em: 
+Data de Entrega: 
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura: 
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
+imagem: "Banco de Imagens/HQ's e Mangas/<% tp.file.title %>.webp"
 tags:
   - Manga
 

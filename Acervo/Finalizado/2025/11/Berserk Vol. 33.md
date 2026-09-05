@@ -1,29 +1,29 @@
 ---
 Situação: Finalizado
-Favorito: false
-Avaliação: 0
-Última Leitura: null
-Status de Leitura: Não Iniciado
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-08-30
+Status de Leitura: Lido
 Processado em: 2025-11-12
-Data de Entrega: null
+Data de Entrega:
 Chegou: true
 Data de Publicação: 2020-01-01
 Coleção:
-- Berserk
+  - Berserk
 Formato: Manga
 Editora:
-- Panini
+  - Panini
 valor: 33.68
 Páginas: 240
 Vezes que Li: 0
 Roteiro:
-- Kentaro Miura
+  - Kentaro Miura
 Arte:
-- Kentaro Miura
-Cores: null
+  - Kentaro Miura
+Cores:
 imagem: Banco de Imagens/Mangas/Berserk Vol. 33.png
 tags:
-- Manga
+  - Manga
 ---
 > [!bookbox]
 > ```meta-bind
@@ -74,3 +74,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-08-30] | [pagina:: 240] | [obs:: Que isso o Rodrick é muito brabo na navegação, não dava nada pra ele. A fera dentro do Guts está contida, por enquanto, mas to curioso, como essa fera veio a nascer, seria pelo ódio do Guts? E quero ver como o Griffth vai lidar com o rei demoniaco, o negócio passar as nuvens de grande, e certeza que vai dar merda quando o amanhecer do falcão chegar]

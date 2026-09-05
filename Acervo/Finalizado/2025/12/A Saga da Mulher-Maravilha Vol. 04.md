@@ -1,11 +1,11 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura: 
-Status de Leitura: Não Iniciado
+Avaliação: 1.5
+Última Leitura: 2026-06-20
+Status de Leitura: Lido
 Processado em: 2025-12-01
-Data de Entrega: 
+Data de Entrega:
 Chegou: true
 Data de Publicação: 2024-12-01
 Coleção:
@@ -18,7 +18,7 @@ Editora:
   - DC
 valor: 56.99
 Páginas: 144
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro:
   - John Byrne
 Arte:
@@ -79,3 +79,5 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-06-20] | [pagina:: 56] | [obs:: Eu tive que parar de ler um pouco pra vir fazer essa nota, Wonder Woman 120 foi ruim de ler, nossa senhora, foi só um resumo da história até então de uma forma extremamente resumida]
+> - [data:: 2026-06-20] | [pagina:: 144] | [obs:: Fraco de novo, vamos ver até onde vai essa história, Diana morreu 2 vezes no mesmo volume, caraca que repetição kkkkkk parte do Campeão ser Heracles achei péssimo]

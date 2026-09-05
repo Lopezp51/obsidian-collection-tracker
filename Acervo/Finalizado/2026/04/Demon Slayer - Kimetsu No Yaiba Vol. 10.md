@@ -1,18 +1,17 @@
 ---
 Equipe Criativa Geral: Koyoharu Gotouge
-
 Processado em: 2026-04-02
 Situação: Finalizado
 Data de Entrega: 2026-04-18
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lido
 Vezes que Li: 0
 Páginas: 192
 valor: 23.03
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 4
 imagem: Banco de Imagens/Mangas/Demon Slayer - Kimetsu No Yaiba Vol. 10.webp
-Última Leitura: 
+Última Leitura: 2026-07-23
 Data de Publicação: 2020-11-01
 Nexo:
   - Manga
@@ -70,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-24] | [pagina:: 192] | [obs:: Transformação da Nezuko é irada demais, massa ver o Tanjiro começando usar mais a respiração do sol]

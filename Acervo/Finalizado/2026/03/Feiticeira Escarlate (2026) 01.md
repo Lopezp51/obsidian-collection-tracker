@@ -3,22 +3,22 @@ Processado em: 2026-03-07
 Situação: Finalizado
 Data de Entrega: 2026-03-10
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 128
 valor: 30.53
 Favorito: false
-Avaliação: 0
+Avaliação: 4
 imagem: Banco de Imagens/HQ's/Feiticeira Escarlate (2026) 01.webp
 Tipo: Quadrinho
-Última Leitura: null
+Última Leitura: 2026-07-04
 Data de Publicação: 2026-03-03
 Universo: Marvel
 Planejo pegar em: 2026-03-01
 Nexo:
-- Quadrinho
-- Sem Limites
-- Panini
+  - Quadrinho
+  - Sem Limites
+  - Panini
 ---
 
 > [!bookbox]
@@ -70,3 +70,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-04] | [pagina:: 128] | [obs:: Primeira história que li da Wanda e curti bastante, ela foi criativa nos feitiços e teve interações bem daoras, me deu vontade de ler os outros que não tenho, mas o primeiro passar de 300 reais me desanima kkkkk]

@@ -1,29 +1,29 @@
 ---
 Situação: Finalizado
-Favorito: false
-Avaliação: 0
-Última Leitura: null
-Status de Leitura: Não Iniciado
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-06-18
+Status de Leitura: Lido
 Processado em: 2026-02-01
 Data de Entrega: 2026-02-06
 Chegou: true
 Data de Publicação: 2018-12-01
 Coleção:
-- Berserk
+  - Berserk
 Formato: Manga
 Editora:
-- Panini
+  - Panini
 valor: 100.34
 Páginas: 224
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro:
-- Kentaro Miura
+  - Kentaro Miura
 Arte:
-- Kentaro Miura
-Cores: null
+  - Kentaro Miura
+Cores:
 imagem: Banco de Imagens/Mangas/Berserk Vol. 27.png
 tags:
-- Manga
+  - Manga
 ---
 > [!bookbox]
 > ```meta-bind

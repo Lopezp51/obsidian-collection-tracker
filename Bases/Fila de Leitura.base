@@ -25,7 +25,7 @@ views:
         - note["Status de Leitura"].containsAny("Não Iniciado", "Lendo", "Próximo")
     groupBy:
       property: Status de Leitura
-      direction: DESC
+      direction: ASC
     order:
       - file.name
       - Última Leitura

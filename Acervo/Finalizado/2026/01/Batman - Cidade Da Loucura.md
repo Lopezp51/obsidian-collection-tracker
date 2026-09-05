@@ -3,21 +3,21 @@ Processado em: 2025-12-25
 Situação: Finalizado
 Data de Entrega: 2026-01-29
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lido
 Vezes que Li: 0
 Páginas: 160
 valor: 0
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/Batman Cidade Da Loucura.jpg
 Tipo: Quadrinho
-Última Leitura: null
+Última Leitura: 2026-07-18
 Data de Publicação: 2024-08-23
 Universo: DC
 Nexo:
-- Quadrinho
-- Batman
-- Panini
+  - Quadrinho
+  - Batman
+  - Panini
 ---
 
 > [!bookbox]
@@ -69,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-18] | [pagina:: 160] | [obs:: Gostei muito, arte linda e história de terror cósmico maravilhosa, uma das minhas leituras favoritos do Batman até agora, muito melhor da história do asilo arkhan que deu inspiração a ela na minha opnião, acertou vários pontos que amei e a violencia, apesar de grande, nas me pareceu nenhum pouco gratuita, funcionou tudo muito bem]

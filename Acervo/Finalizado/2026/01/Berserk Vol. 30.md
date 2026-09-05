@@ -1,29 +1,29 @@
 ---
 Situação: Finalizado
-Favorito: false
-Avaliação: 0
-Última Leitura: null
-Status de Leitura: Não Iniciado
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-07-19
+Status de Leitura: Lido
 Processado em: 2026-01-08
 Data de Entrega: 2026-01-23
 Chegou: true
 Data de Publicação: 2019-06-01
 Coleção:
-- Berserk
+  - Berserk
 Formato: Manga
 Editora:
-- Panini
+  - Panini
 valor: 36.65
 Páginas: 224
 Vezes que Li: 0
 Roteiro:
-- Kentaro Miura
+  - Kentaro Miura
 Arte:
-- Kentaro Miura
-Cores: null
+  - Kentaro Miura
+Cores:
 imagem: Banco de Imagens/Mangas/Berserk Vol. 30.webp
 tags:
-- Manga
+  - Manga
 ---
 > [!bookbox]
 > ```meta-bind
@@ -74,3 +74,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-19] | [pagina:: 224] | [obs:: Absolute cinema a batalha no final desse volume, meus deus toda a party em sincronia contra os Kushu, a confiança entre o Guts e a Schierke é muito legal de ver, ele confia que ela vai trazer ele de volta se ele se perder de novo. E muito bom estar todo mundo reunido, ótimo volume]

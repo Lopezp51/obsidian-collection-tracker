@@ -2,28 +2,28 @@
 Situação: Finalizado
 Favorito: false
 Avaliação: 0
-Última Leitura: null
-Status de Leitura: Não Iniciado
+Última Leitura:
+Status de Leitura: Lendo
 Processado em: 2026-01-08
 Data de Entrega: 2026-01-12
 Chegou: true
 Data de Publicação: 2020-04-22
 Coleção:
-- Berserk
+  - Berserk
 Formato: Manga
 Editora:
-- Panini
+  - Panini
 valor: 46.15
 Páginas: 224
 Vezes que Li: 0
 Roteiro:
-- Kentaro Miura
+  - Kentaro Miura
 Arte:
-- Kentaro Miura
-Cores: null
+  - Kentaro Miura
+Cores:
 imagem: Banco de Imagens/Mangas/Berserk Vol. 34.webp
 tags:
-- Manga
+  - Manga
 ---
 > [!bookbox]
 > ```meta-bind

@@ -3,15 +3,15 @@ Processado em: 2026-05-27
 Situação: Finalizado
 Data de Entrega: 2026-06-05
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 32
 valor: 14.49
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/The Flash 123 - Fac-Símile.webp
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-06-17
 Data de Publicação: 2026-05-22
 Universo: DC
 Planejo pegar em:
@@ -19,6 +19,7 @@ Nexo:
   - Quadrinho
   - Flash
   - Panini
+Colocado no saquinho: 2026-06-17
 ---
 
 > [!bookbox]
@@ -70,3 +71,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-06-17] | [pagina:: 32] | [obs:: Muito daora ver o inicio do multiverso e tem algo muito legal em ler quadrinhos da era de prata, fico curioso pra era de ouro, não sei, tem algo que entrete tanto nesses que li, porque eles são tipo divertidos de ler, tem uma vibe diferente dos de hoje]

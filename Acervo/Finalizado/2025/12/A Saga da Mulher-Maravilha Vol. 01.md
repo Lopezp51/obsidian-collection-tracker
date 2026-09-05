@@ -79,5 +79,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
-
 > - [data:: 2026-05-03] | [pagina:: 144] | [obs:: Cara que começo de nova fase legal e agora to super curioso pra ver o que aconteceu na últimas 50 edições, pq Diana abadonaria os deuses e a ilha paraiso. Ver mais da nova lore foi muito legal e a Diana parece menos inocente e mais confiante do que nunca.]

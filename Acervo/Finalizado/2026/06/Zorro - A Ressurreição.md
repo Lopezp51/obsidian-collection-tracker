@@ -3,15 +3,15 @@ Processado em: 2026-05-25
 Situação: Finalizado
 Data de Entrega: 2026-06-03
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 132
 valor: 59.43
 Favorito: false
-Avaliação: 0
+Avaliação: 4
 imagem: Banco de Imagens/HQ's/Zorro - A Ressurreição.jpg
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-07-02
 Data de Publicação: 2026-02-19
 Universo: Indie
 Planejo pegar em: 2026-05-01
@@ -66,3 +66,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-02] | [pagina:: 132] | [obs:: Bem divertido, mas quem rouba a cena pra mim não foi o Zorro (Diego), mas sim a irma dela a Rosa, gostei muito da personagem e queria quase um foco maior nela, mas a história no geral foi muito boa e a arte sensacional também]

@@ -3,22 +3,23 @@ Processado em: 2026-06-03
 Situação: Finalizado
 Data de Entrega: 2026-06-06
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 56
 valor: 19.05
 Favorito: false
-Avaliação: 0
+Avaliação: 4.5
 imagem: Banco de Imagens/HQ's/Absolute Lanterna Verde 02.webp
 Nexo:
   - Quadrinho
   - Absolute
   - DC
   - Panini
-Última Leitura:
+Última Leitura: 2026-06-16
 Data de Publicação: 2026-05-29
 Universo: DC
 Planejo pegar em:
+Colocado no saquinho: 2026-06-16
 ---
 
 > [!bookbox]
@@ -70,3 +71,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-06-16] | [pagina:: 56] | [obs:: Estou muito curioso pra onde vai ir a história, por enquanto ta um grande mistério, tipo o que o Abin Sur ta procurando, e o que aconteceu com a Jo e o Hal, mas to curtindo ]

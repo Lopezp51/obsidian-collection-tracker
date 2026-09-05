@@ -3,19 +3,19 @@ Processado em: 2026-04-07
 Situação: Finalizado
 Data de Entrega: 2026-04-09
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lido
 Vezes que Li: 0
 Páginas: 48
 valor: 13.4
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/DC X Sonic 03.webp
 Nexo:
   - Quadrinho
   - Sonic
   - Panini
   - DC
-Última Leitura:
+Última Leitura: 2026-07-21
 Data de Publicação: 2026-02-02
 Universo: DC
 Planejo pegar em:
@@ -70,3 +70,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-21] | [pagina:: 48] | [obs:: Ver a Blaze foi irado, a reunião entre a Amy e Diana foi muito fofo, conversa do Shadow e Batman foi daora também do batmovel que foi destruido e o Batman "Acontece" kkkkkk e ver o Super Sonic em cena foi irado, que leitura gostosa]

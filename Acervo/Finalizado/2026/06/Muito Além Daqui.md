@@ -3,15 +3,15 @@ Processado em: 2026-05-25
 Situação: Finalizado
 Data de Entrega: 2026-06-03
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 156
 valor: 76.93
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/Muito Além Daqui.jpg
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-07-20
 Data de Publicação: 2026-05-18
 Universo: Indie
 Planejo pegar em:
@@ -66,3 +66,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-21] | [pagina:: 156] | [obs:: É o tipo de leitura que te faz refletir se você está aproveitando a vida mesmo, nossa teve pouco texto, mas o tanto que você consegue sentir das páginas é coisa de outro mundo, leitura deliciosa sobre aproveitar a vida e digo que me impacotou positivo ]

@@ -3,15 +3,15 @@ Processado em: 2026-03-24
 Situação: Finalizado
 Data de Entrega: 2026-03-26
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lido
 Vezes que Li: 0
 Páginas: 528
 valor: 305.93
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/DC -  A Nova Fronteira (Edição Absoluta).webp
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-06-23
 Data de Publicação: 2026-03-19
 Universo: DC
 Planejo pegar em: 2026-07-01
@@ -66,3 +66,6 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-06-21] | [pagina:: 87] | [obs:: Devo dizer que não foi o que eu esperava até então, por enquanto teve mais 3 aparições dos personagens da Liga só, achei que ia ter mais coisa. A arte em si é fenomenal, e adorei o design da Diana]
+> - [data:: 2026-06-22] | [pagina:: 214] | [obs:: Okay nova fronteira ganhou meu interesse kkkk eu tava achando que tudo seria só um antologia de histórias que não se amarram muito, mas nessas páginas tudo ta se conectando com todas as histórias que estão aparecendo. To curtindo ver muito a galera da liga, ver o Flash quebrando a barreira do som foi irado, o Hal ta com um desenvolvimento lento e to amando, aparições do Batman foram poucas até agora mas muito boa, e o caçador de marte ta daora também, tudo ta muito bom. E pelo jeito a Diana vai se desapontar com o jeito americano, pelo andar das coisas]
+> - [data:: 2026-06-23] | [pagina:: 528] | [obs:: Absolute cinema, cara amei de mais isso, toda a história ficando amarradinha, cada personagem pareceu significar de mais pra tudo, pra mim no final mulher maravilha, flash e lanterna verde foram os melhores personagens, mas personagem como o Faraday e Rick Flag me ganharam também, eles tinham bons motivos para fazer oq fizeram. Os extras também amei, cada capa linda, e a ideia do epilogo com o Aquaman e Superman ter ficado de fora pq parecia gay demais rachei com o comentário do autor. História perfeita.]

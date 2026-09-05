@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-07-16
+Status de Leitura: Lido
 Processado em: 2026-05-06
 Data de Entrega: 2026-05-11
 Chegou: true
@@ -72,3 +72,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-16] | [pagina:: 184] | [obs:: Eu sinto que demoro muito lendo isso, mas pq foco muito nas iterações, dialogos e personagens, tudo nessa manga é muito gostoso de ler, é um dia a dia tão interessante com o que cada personagem ta fazendo. E me da uma vibe de ensino médio mesmo, e a relação entre as duas só melhore, amo demais ler isso ahhhhh]

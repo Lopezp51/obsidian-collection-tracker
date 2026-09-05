@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Próximo
+Avaliação: 2
+Última Leitura: 2026-06-09
+Status de Leitura: Lido
 Processado em: 2025-12-01
 Data de Entrega:
 Chegou: true
@@ -79,3 +79,5 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+
+> - [data:: 2026-06-09] | [pagina:: 144] | [obs:: Meu eu não suporto a Cassandra e nem o Campeão, pra mim as 5 histórias dessa HQ foram bem ruins, melhorou um pouco na última com a volta da mulher leopardo só.]

@@ -1,29 +1,29 @@
 ---
 Situação: Finalizado
-Favorito: false
-Avaliação: 0
-Última Leitura: null
-Status de Leitura: Não Iniciado
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-06-29
+Status de Leitura: Lido
 Processado em: 2026-01-08
 Data de Entrega: 2026-01-12
 Chegou: true
 Data de Publicação: 2019-02-01
 Coleção:
-- Berserk
+  - Berserk
 Formato: Manga
 Editora:
-- Panini
+  - Panini
 valor: 42.58
 Páginas: 224
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro:
-- Kentaro Miura
+  - Kentaro Miura
 Arte:
-- Kentaro Miura
-Cores: null
+  - Kentaro Miura
+Cores:
 imagem: Banco de Imagens/Mangas/Berserk Vol. 28.webp
 tags:
-- Manga
+  - Manga
 ---
 > [!bookbox]
 > ```meta-bind
@@ -74,3 +74,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-06-29] | [pagina:: 224] | [obs:: Irado, a conversa entre Guts e a Schi foi legal, eles parecem estar bem próximos e realmente eles parecem carregar a resposabildiade de cuidar do grupo. Curioso com o filho do Guts e da Caska também, ele parece que ajudou o Guts quando ele foi tomado pelo Berserk. E vamos ver aonde vai que pode dar muita merda no próximo volume]

@@ -1,18 +1,17 @@
 ---
 Equipe Criativa Geral: Koyoharu Gotouge
-
 Processado em: 2026-04-02
 Situação: Finalizado
 Data de Entrega: 2026-04-18
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lendo
 Vezes que Li: 0
 Páginas: 192
 valor: 23.03
 Favorito: false
 Avaliação: 0
 imagem: Banco de Imagens/Mangas/Demon Slayer - Kimetsu No Yaiba Vol. 15.jpg
-Última Leitura: 
+Última Leitura:
 Data de Publicação: 2021-04-01
 Nexo:
   - Manga

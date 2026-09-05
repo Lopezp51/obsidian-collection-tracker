@@ -3,21 +3,22 @@ Processado em: 2025-12-25
 Situação: Finalizado
 Data de Entrega: 2026-01-29
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lido
 Vezes que Li: 0
 Páginas: 96
 valor: 0
 Favorito: false
-Avaliação: 0
+Avaliação: 3.5
 imagem: Banco de Imagens/HQ's/Batman & Coringa Dupla Letal 03 (de 3).webp
 Tipo: Quadrinho
-Última Leitura: null
+Última Leitura: 2026-07-15
 Data de Publicação: 2024-04-27
 Universo: DC
 Nexo:
-- Quadrinho
-- Batman
-- Panini
+  - Quadrinho
+  - Batman
+  - Panini
+Colocado no saquinho: 2026-07-15
 ---
 
 > [!bookbox]
@@ -69,3 +70,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-15] | [pagina:: 96] | [obs:: Curti mais esse, talvez pela vila ser uma mulher que volta a vida devido a experimentos? Com certeza, só a motivação dela pra mim é falha ainda, mas deu um bom encerramento, mas a parte que o coringa queria destriuir oq revelasse a identidade do Batman era visto]

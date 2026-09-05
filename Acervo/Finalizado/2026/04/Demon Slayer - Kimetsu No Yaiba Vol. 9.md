@@ -1,18 +1,17 @@
 ---
 Equipe Criativa Geral: Koyoharu Gotouge
-
 Processado em: 2026-04-02
 Situação: Finalizado
 Data de Entrega: 2026-04-18
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 192
 valor: 23.03
 Favorito: false
-Avaliação: 0
+Avaliação: 4
 imagem: Banco de Imagens/Mangas/Demon Slayer - Kimetsu No Yaiba Vol. 9.webp
-Última Leitura: 
+Última Leitura: 2026-07-22
 Data de Publicação: 2020-10-01
 Nexo:
   - Manga
@@ -70,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-22] | [pagina:: 192] | [obs:: Talvez em 1 ou 2 volumes a gente conclua o arco da cidade dos festivais, o design aqui é bem daora, as esposas do Uzui e a Daki são bem daoras, sendo a Makio a mais daora, mas o desenvolviemento delas é quase 0 pelo que lembro, vai ter um backstory só, do pq ele cuida das 3]

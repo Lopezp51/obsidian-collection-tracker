@@ -3,19 +3,19 @@ Processado em: 2026-01-19
 Situação: Finalizado
 Data de Entrega: 2026-01-23
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lido
 Vezes que Li: 0
 Páginas: 144
 valor: 20.27
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/Novíssima Wolverine Vol. 1.webp
 Tipo: Quadrinho
-Última Leitura: null
+Última Leitura: 2026-07-09
 Data de Publicação: 2024-02-07
 Universo: Marvel
 Nexo:
-- Manga
+  - Manga
 ---
 
 > [!bookbox]
@@ -67,3 +67,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-09] | [pagina:: 144] | [obs:: Curti demais, a Laura como Wolverine funciona muito bem, mas ela é mais controlada que o Logan parece, amei demais ela, uma leitura muito boa]

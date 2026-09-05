@@ -3,21 +3,21 @@ Processado em: 2026-01-19
 Situação: Finalizado
 Data de Entrega: 2026-01-23
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 144
 valor: 46.93
 Favorito: false
-Avaliação: 0
+Avaliação: 4
 imagem: Banco de Imagens/HQ's/Novíssima Wolverine Vol. 2.webp
 Tipo: Quadrinho
-Última Leitura: null
+Última Leitura: 2026-07-20
 Data de Publicação: 2025-02-12
 Universo: Marvel
 Nexo:
-- Quadrinho
-- Wolverine
-- Panini
+  - Quadrinho
+  - Wolverine
+  - Panini
 ---
 
 > [!bookbox]
@@ -69,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-20] | [pagina:: 144] | [obs:: Pena que a panini não vai mais publicar dicerto essa fase, foi interessante, o outro encarndeado teve mais desenvolvimento, esse parece mais aventuresco e deu muita raiva da Shield]

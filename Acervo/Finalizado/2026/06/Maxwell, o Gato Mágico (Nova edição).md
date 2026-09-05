@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
+Avaliação: 3
+Última Leitura: 2026-08-09
+Status de Leitura: Lido
 Processado em: 2026-05-25
 Data de Entrega: 2026-06-03
 Chegou: true
@@ -15,7 +15,7 @@ Editora:
   - Pipoca e Nanquim
 valor: 17.97
 Páginas: 132
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro: []
 Arte: []
 Cores: []
@@ -73,3 +73,5 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-08-04] | [pagina:: 30] | [obs:: Assim é mais por conhecimento histórico que to lendo eu acho, por ser um dos primeiros ou o primeiro trabalho do Alan Moore, mas é bem lento pra ler, mas quero ler tudo ]
+> - [data:: 2026-08-09] | [pagina:: 132] | [obs:: Li meio corridão da página 50 até o fim, acho legal de ter na coleção por questão histórica, mas não é algo que me vejo tão cedo voltando a ler]

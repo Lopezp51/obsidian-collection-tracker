@@ -1,11 +1,11 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura: 
-Status de Leitura: Não Iniciado
+Avaliação: 4.5
+Última Leitura: 2026-08-01
+Status de Leitura: Lido
 Processado em: 2025-12-07
-Data de Entrega: 
+Data de Entrega:
 Chegou: true
 Data de Publicação: 2025-06-01
 Coleção:
@@ -18,7 +18,7 @@ Editora:
   - DC
 valor: 45.4
 Páginas: 144
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro:
   - Greg Rucka
 Arte:
@@ -80,3 +80,6 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-29] | [pagina:: 50] | [obs:: Li as primeiras 2 histórias, por enquanto ta legal, nada a reclmar so far, o que é algo bom, pq eu sempre tinha algo pra reclamar em toda história do Perez. Ta um começo lento mas acho que vai dar um build up em algo]
+> - [data:: 2026-07-30] | [pagina:: 99] | [obs:: Que raiva das pessoas distorcendo o que a Diana fala, ainda mais depois da fala que comentam que ela sempre escolhe as palavras com cuidado pra se expressar da melhor forma e os cara vão lá e mudam a mensagem dela. Ver a Vanessa como cisne preateado foi triste demais, queria saber o que rolou pra ela ficar daquele jeito]
+> - [data:: 2026-08-01] | [pagina:: 144] | [obs:: Começou muito bem essa fase nossa senhora, da pra notar que esse conflito que o Ares vai se aproveitar muito do conflito em várias partes da terra e do mundo dos deuses]

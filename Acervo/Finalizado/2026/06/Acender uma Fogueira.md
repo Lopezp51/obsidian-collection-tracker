@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
+Avaliação: 4
+Última Leitura: 2026-07-06
+Status de Leitura: Lido
 Processado em: 2026-05-25
 Data de Entrega: 2026-06-03
 Chegou: true
@@ -15,7 +15,7 @@ Editora:
   - Pipoca e Nanquim
 valor: 62.93
 Páginas: 84
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro:
   - Chabouté
 Arte: []
@@ -74,3 +74,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-06] | [pagina:: 84] | [obs:: Leitura bem rápida, mas a arte ta muito boa, mas é uma boa reflexão, várias pessoas deram conselhos pro cara, e ele achava saber mais que ela, ou que ele era melhor, e no fim acaba morrendo por conta de suas decisões ]

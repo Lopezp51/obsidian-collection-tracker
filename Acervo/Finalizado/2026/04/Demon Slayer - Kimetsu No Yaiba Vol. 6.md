@@ -1,18 +1,17 @@
 ---
 Equipe Criativa Geral: Koyoharu Gotouge
-
 Processado em: 2026-04-02
 Situação: Finalizado
 Data de Entrega: 2026-04-18
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lido
 Vezes que Li: 0
 Páginas: 192
 valor: 23.03
 Favorito: false
-Avaliação: 0
+Avaliação: 4
 imagem: Banco de Imagens/Mangas/Demon Slayer - Kimetsu No Yaiba Vol. 6.webp
-Última Leitura: 
+Última Leitura: 2026-07-03
 Data de Publicação: 2020-07-01
 Nexo:
   - Manga
@@ -70,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-07-03] | [pagina:: 192] | [obs:: Muito baum, to hype pro próximo que vamos ver mais do Rengoku, e queria que o Muzan mulher aparecesse mais, não lembro se vamos ver essa versão dele mais uma vez ou não. Unica parte que me incomodou é o Zenitsu muito exagerado, mas que com o tempo da uma diminuida]

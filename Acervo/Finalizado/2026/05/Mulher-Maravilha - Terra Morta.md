@@ -3,15 +3,15 @@ Processado em: 2026-05-06
 Situação: Finalizado
 Data de Entrega: 2026-05-18
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 200
 valor: 255.44
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 4
 imagem: Banco de Imagens/HQ's/Mulher-Maravilha - Terra Morta.webp
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-06-21
 Data de Publicação: 2021-04-01
 Universo: DC
 Planejo pegar em:
@@ -70,3 +70,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-06-21] | [pagina:: 200] | [obs:: Caramba, tenso pra caramba, não esperava esse plot, quem causou o grande fogo na terra foi a luta da Diana contra o Clark, eu meio que entendi a motivação dela ir contra ele, ela viu na sua frente a humanidade derrubar bombas nas amazonas, a fúrias de Zeus tomou conta dela. Mas ela ainda assim desejou reparar seus erros, e a versão dessa Hipólita é bem mais fria, no geral curti bastante a história como um todo, queria ver mais do mundo]

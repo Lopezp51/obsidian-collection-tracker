@@ -1,5 +1,5 @@
 ---
-Processado em: 2026-06-29
+Processado em: 2026-09-18
 Situação: Pré Venda
 Data de Entrega:
 Chegou: false
@@ -11,7 +11,7 @@ Favorito: false
 Avaliação: 0
 imagem: Banco de Imagens/Mangas/Grandes Heróis DC Os Novos 52 Vol. 44 - Mulher-Maravilha Pele.jpg
 Última Leitura:
-Data de Publicação: 2026-06-26
+Data de Publicação: 2026-07-28
 Nexo:
   - Panini
   - Mulher-Maravilha
