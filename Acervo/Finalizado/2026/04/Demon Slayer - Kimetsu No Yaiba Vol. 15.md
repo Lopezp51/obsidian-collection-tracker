@@ -4,14 +4,14 @@ Processado em: 2026-04-02
 Situação: Finalizado
 Data de Entrega: 2026-04-18
 Chegou: true
-Status de Leitura: Lendo
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 192
 valor: 23.03
 Favorito: false
-Avaliação: 0
+Avaliação: 3
 imagem: Banco de Imagens/Mangas/Demon Slayer - Kimetsu No Yaiba Vol. 15.jpg
-Última Leitura:
+Última Leitura: 2026-09-07
 Data de Publicação: 2021-04-01
 Nexo:
   - Manga
@@ -69,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-08] | [pagina:: 192] | [obs:: Imagina que ia ser mais morno pelo prepara do treinamento dos Hashira, mas a cena da Nezuko é muito melhor no anime, da pra sentir a augustia do Tanjiro, mas aqui foi boa tbm]

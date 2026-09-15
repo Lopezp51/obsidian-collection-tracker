@@ -1,24 +1,35 @@
 ---
-Processado em: null
 Situação: Desejado
-Data de Entrega: null
-Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 232
-valor: 0.0
-Favorito: false
-Avaliação: 0
-imagem: Banco de Imagens/HQ's/Marvel de Bolso Vol. 03 - Homem-Aranha｜ Um Novo Dia.webp
-Nexo:
-- Quadrinho
-- Panini
-- Homem-Aranha
-- Marvel
-Última Leitura: null
 Data de Publicação: 2026-06-23
+Coleção:
+Páginas: 232
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor: 0
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: true
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's/Marvel de Bolso Vol. 03 - Homem-Aranha｜ Um Novo Dia.webp
+tags:
+  - Quadrinho
+Nexo:
+  - Quadrinho
+  - Panini
+  - Homem-Aranha
+  - Marvel
 Universo: Marvel
-Planejo pegar em: null
+Planejo pegar em:
 ---
 
 > [!bookbox]

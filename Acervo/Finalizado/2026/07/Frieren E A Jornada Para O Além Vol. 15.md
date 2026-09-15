@@ -2,7 +2,7 @@
 Processado em: 2026-06-25
 Situação: Finalizado
 Data de Entrega: 2026-07-01
-Chegou: false
+Chegou: true
 Status de Leitura: Não Iniciado
 Vezes que Li: 0
 Páginas: 194

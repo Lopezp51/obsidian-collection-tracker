@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Lendo
+Avaliação: 3
+Última Leitura: 2026-09-06
+Status de Leitura: Lido
 Processado em: 2026-07-29
 Data de Entrega: 2026-08-19
 Chegou: true
@@ -17,13 +17,14 @@ Editora:
   - Panini
 valor: 11.94
 Páginas: 48
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro: []
 Arte: []
 Cores: []
 imagem: Banco de Imagens/HQ's/Excepcionais X-Men 08.webp
 tags:
   - Quadrinho
+Colocado no saquinho: 2026-09-06
 ---
 
 > [!bookbox]
@@ -75,3 +76,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-06] | [pagina:: 48] | [obs:: Melhor que a os fabulosos dessa vez, trama da X-Factor foi daora, sempre bom ver a Frenesi, adoro ela. E os mutantes adolecentes vamos ver o que vai dar, achei que a Kitty ia ser capturada pela capa, mas só fake news kkkkkk]

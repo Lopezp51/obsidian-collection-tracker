@@ -1,26 +1,29 @@
 ---
 Situação: Desejado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em:
-Data de Entrega:
-Chegou: false
 Data de Publicação: 2026-09-30
 Coleção:
   - Universo Absolute
+Páginas: 48
 Formato:
   - Grampo
 Editora:
   - DC
   - Panini
-valor:
-Páginas: 48
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
+valor:
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: true
+Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/Absolute Caçador De Marte 05.webp
 tags:
   - Quadrinho

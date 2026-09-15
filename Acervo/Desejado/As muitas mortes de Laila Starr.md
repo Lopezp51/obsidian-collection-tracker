@@ -1,18 +1,30 @@
 ---
-Processado em: 2026-03-01
 Situação: Desejado
+Data de Publicação: 2024-11-12
+Coleção: 
+Páginas: null
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor: 0.0
+Processado em: 2026-03-01
 Data de Entrega: null
 Chegou: false
-Status de Leitura: null
-Vezes que Li: null
-Páginas: null
-valor: 0.0
 Favorito: false
-Avaliação: null
-imagem: Banco de Imagens/HQ's/As muitas mortes de Laila Starr.jpg
-Tipo: null
+Status de Leitura: null
 Última Leitura: null
-Data de Publicação: 2024-11-12
+Avaliação: null
+Vezes que Li: null
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's/As muitas mortes de Laila Starr.jpg
+tags:
+  - Quadrinho
+
+Tipo: null
 Universo: null
 ---
 

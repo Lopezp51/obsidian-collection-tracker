@@ -1,26 +1,29 @@
 ---
 Situação: Desejado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em:
-Data de Entrega:
-Chegou: false
 Data de Publicação: 2026-08-31
 Coleção:
   - Crise Nas Infinitas Terras
+Páginas: 224
 Formato:
   - Capa Cartão
 Editora:
   - DC
   - Panini
-valor: 59.78
-Páginas: 224
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
+valor: 59.78
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: true
+Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/Crise Nas Infinitas Terras Vol. 04.webp
 tags:
   - Quadrinho

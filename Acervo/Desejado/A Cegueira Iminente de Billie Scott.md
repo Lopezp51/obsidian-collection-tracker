@@ -1,23 +1,26 @@
 ---
 Situação: Desejado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em:
-Data de Entrega:
-Chegou: false
 Data de Publicação: 2023-03-17
 Coleção:
+Páginas: 160
 Formato:
 Editora:
   - Conrad
-valor:
-Páginas: 160
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
+valor:
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/A Cegueira Iminente de Billie Scott.jpg
 tags:
   - Quadrinho

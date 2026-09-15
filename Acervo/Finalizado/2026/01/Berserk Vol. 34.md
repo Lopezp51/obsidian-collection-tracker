@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Lendo
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-09-12
+Status de Leitura: Lido
 Processado em: 2026-01-08
 Data de Entrega: 2026-01-12
 Chegou: true
@@ -74,3 +74,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-12] | [pagina:: 224] | [obs:: Meu deus a arte aqui foi surreal pra variar, mas nunca vi tanta batalha continua asssim tão detalhada. Quero o que vai ser do mundo agora, para que a barreira que separava o mundo humano do espirital se foi]

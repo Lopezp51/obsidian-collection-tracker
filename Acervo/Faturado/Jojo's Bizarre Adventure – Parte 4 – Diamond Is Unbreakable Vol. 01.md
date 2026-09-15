@@ -1,28 +1,29 @@
 ---
-Situação: Desejado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em:
-Data de Entrega:
-Chegou: false
-Data de Publicação: 2026-08-31
-Coleção:
-  - Universo Energon
+Situação: Faturado
+Data de Publicação: 
+Coleção: 
+Páginas:
 Formato:
-  - Capa Cartão
 Editora:
-  - Panini
-valor:
-Páginas: 136
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
-imagem: Banco de Imagens/HQ's/Universo Energon 06 ∣ Transformers Vol. 02 - Transporte para Destruição.webp
+valor:
+Processado em: 
+Data de Entrega: 
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura: 
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
+imagem: "Banco de Imagens/HQ's e Mangas/Jojo's Bizarre Adventure – Parte 4 – Diamond Is Unbreakable Vol. 01.webp"
 tags:
   - Quadrinho
+
 ---
 
 > [!bookbox]

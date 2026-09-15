@@ -1,24 +1,35 @@
 ---
-Processado em: 2026-01-27
 Situação: Desejado
+Data de Publicação: 2022-09-09
+Coleção: 
+Páginas: 64
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor: 0
+Processado em: 2026-01-27
 Data de Entrega:
 Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 64
-valor: 0
 Favorito: false
-Avaliação: 0
-imagem: Banco de Imagens/HQ's/Quarteto Fantástico - Ciclos.jpg
-Tipo: Quadrinho
+Status de Leitura: Não Iniciado
 Última Leitura:
-Data de Publicação: 2022-09-09
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's/Quarteto Fantástico - Ciclos.jpg
+tags:
+  - Quadrinho
+
+Tipo: Quadrinho
 Universo: Marvel
 Nexo:
   - Quadrinho
   - Quarteto Fantástico
   - Panini
-Colocado no saquinho:
 ---
 
 > [!bookbox]

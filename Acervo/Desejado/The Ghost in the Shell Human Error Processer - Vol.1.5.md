@@ -1,18 +1,30 @@
 ---
-Processado em: 2026-06-01
 Situação: Desejado
+Data de Publicação: 2019-12-19
+Coleção: 
+Páginas:
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor: 64.9
+Processado em: 2026-06-01
 Data de Entrega:
 Chegou: false
-Status de Leitura:
-Vezes que Li:
-Páginas:
-valor: 64.9
 Favorito: false
-Avaliação:
-imagem: Banco de Imagens/Mangas/The Ghost in the Shell Human Error Processer - Vol.1.5.jpg
-Tipo:
+Status de Leitura:
 Última Leitura:
-Data de Publicação: 2019-12-19
+Avaliação:
+Vezes que Li:
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/Mangas/The Ghost in the Shell Human Error Processer - Vol.1.5.jpg
+tags:
+  - Quadrinho
+
+Tipo:
 Universo:
 Nexo:
   - Manga

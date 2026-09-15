@@ -1,18 +1,30 @@
 ---
-Processado em: 2026-03-16
 Situação: Desejado
+Data de Publicação: null
+Coleção: 
+Páginas: null
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor: 0.0
+Processado em: 2026-03-16
 Data de Entrega: null
 Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: null
-valor: 0.0
 Favorito: false
-Avaliação: 0
-imagem: null
-Tipo: Quadrinho
+Status de Leitura: Não Iniciado
 Última Leitura: null
-Data de Publicação: null
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
+imagem: null
+tags:
+  - Quadrinho
+
+Tipo: Quadrinho
 Universo: Indie
 Planejo pegar em: null
 ---

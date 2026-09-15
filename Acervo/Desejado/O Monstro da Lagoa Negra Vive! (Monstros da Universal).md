@@ -1,20 +1,31 @@
 ---
+Situação: Desejado
+Data de Publicação: 2025-06-16
+Coleção:
+  - Monstros da Universal
+Páginas: 128
+Formato:
+  - Edições de luxo
+Editora:
+  - Darkside
+Roteiro: []
+Arte: []
+Cores: []
+valor:
 Processado em:
-Situação: Faturado
 Data de Entrega:
 Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 188
-valor: 0
 Favorito: false
-Avaliação: 0
-imagem: Banco de Imagens/HQ's/Timm Smoke Cinzas de Silício.jpg
-Tipo: Quadrinho
+Status de Leitura: Não Iniciado
 Última Leitura:
-Data de Publicação: 2026-09-07
-Universo: Indie
-Planejo pegar em:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: true
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's e Mangas/O Monstro da Lagoa Negra Vive! (Monstros da Universal).jpg
+tags:
+  - Quadrinho
 ---
 
 > [!bookbox]
@@ -23,11 +34,11 @@ Planejo pegar em:
 > ```
 > <div class="book-metadata">
 >
-> **Avaliação:** `$= const r = dv.current().Avaliação || 0; let s = "<div class='rating-wrapper'>"; for (let i = 1; i <= 5; i++) { if (i <= Math.floor(r)) { s += "<span class='rating-star star-full'>" + obsidian.getIcon("star").outerHTML + "</span>"; } else if (i === Math.ceil(r) && r % 1 >= 0.5) { s += "<span class='rating-star star-half'>" + obsidian.getIcon("star-half").outerHTML + "</span>"; } else { s += "<span class='rating-star star-empty'>" + obsidian.getIcon("star").outerHTML + "</span>"; } } s += "</div>"; dv.span(s)`
+> **Avaliação:** `$= const r = dv.current()?.Avaliação || 0; let s = "<div class='rating-wrapper'>"; for (let i = 1; i <= 5; i++) { if (i <= Math.floor(r)) { s += "<span class='rating-star star-full'>" + obsidian.getIcon("star").outerHTML + "</span>"; } else if (i === Math.ceil(r) && r % 1 >= 0.5) { s += "<span class='rating-star star-half'>" + obsidian.getIcon("star-half").outerHTML + "</span>"; } else { s += "<span class='rating-star star-empty'>" + obsidian.getIcon("star").outerHTML + "</span>"; } } s += "</div>"; dv.span(s)`
 > ```dataviewjs
-> const total = dv.current()["Páginas"] || 1;
-> const listaItens = dv.current().file.lists;
-> const progresso = listaItens.where(i => i.pagina != null).map(i => Number(i.pagina));
+> const total = dv.current()?.["Páginas"] || 1;
+> const listas = dv.current()?.file?.lists || [];
+> const progresso = listas.where ? listas.where(i => i.pagina != null).map(i => Number(i.pagina)) : [];
 > let atual = 0;
 > if (progresso.length > 0) { atual = Math.max(...progresso); }
 > const pct = Math.min(100, Math.round((atual / total) * 100));

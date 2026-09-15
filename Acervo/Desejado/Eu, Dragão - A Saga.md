@@ -1,18 +1,30 @@
 ---
-Processado em: 2026-04-04
 Situação: Desejado
+Data de Publicação: 2025-10-03
+Coleção: 
+Páginas: 192
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor: 0.0
+Processado em: 2026-04-04
 Data de Entrega: null
 Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 192
-valor: 0.0
 Favorito: false
-Avaliação: 0
-imagem: Banco de Imagens/HQ's/Eu, Dragão - A Saga.jpg
-Tipo: Quadrinho
+Status de Leitura: Não Iniciado
 Última Leitura: null
-Data de Publicação: 2025-10-03
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's/Eu, Dragão - A Saga.jpg
+tags:
+  - Quadrinho
+
+Tipo: Quadrinho
 Universo: null
 Planejo pegar em: null
 ---

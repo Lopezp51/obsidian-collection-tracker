@@ -1,26 +1,29 @@
 ---
 Situação: Desejado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em:
-Data de Entrega:
-Chegou: false
 Data de Publicação: 2026-11-30
 Coleção:
   - Batman
+Páginas: 152
 Formato:
   - Capa Cartão
 Editora:
   - DC
   - Panini
-valor:
-Páginas: 152
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
+valor:
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/Batman - Padrões Sombrios Vol. 02.webp
 tags:
   - Quadrinho

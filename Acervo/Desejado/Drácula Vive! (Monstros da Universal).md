@@ -1,27 +1,29 @@
 ---
-Situação: Faturado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em: 2026-09-04
-Data de Entrega:
-Chegou: false
-Data de Publicação: 2026-09-04
+Situação: Desejado
+Data de Publicação: 2025-06-16
 Coleção:
-  - Quarteto Fantástico
+  - Monstros da Universal
+Páginas: 128
 Formato:
-  - Grampo
+  - Edições de luxo
 Editora:
-  - Marvel
-  - Panini
-valor: 15.23
-Páginas: 48
-Vezes que Li: 0
+  - Darkside
 Roteiro: []
 Arte: []
 Cores: []
-imagem: Banco de Imagens/HQ's/Quarteto Fantástico (2026) 02.webp
+valor:
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: true
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's e Mangas/Drácula Vive! (Monstros da Universal).jpg
 tags:
   - Quadrinho
 ---

@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Lendo
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-09-04
+Status de Leitura: Lido
 Processado em: 2026-03-17
 Data de Entrega: 2026-04-07
 Chegou: true
@@ -18,7 +18,7 @@ Editora:
   - DC
 valor: 41.31
 Páginas: 144
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro:
   - Greg Rucka
   - Geoff Johns
@@ -85,3 +85,5 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-04] | [pagina:: 76] | [obs:: Luta da Diana contra o campeão de Zeus foi daora, e fico pensando o que Atena vai fazer no trono de Zeus agora, e o que Zeus, Ares e Poseidom vão fazer. Dinamica do Flash e da Diana foi okay, mas acho que sempre preferi o Barry do que o Wally como Flash, mas Daiana arrasando mesmo cega]
+> - [data:: 2026-09-05] | [pagina:: 144] | [obs:: Que arco incrível, toda a trama no Olimpa, bem como o retorno do filho do Peter, onde Diana prezou pelo próximo do que pela seu próprio ser, sendo recompensada pelo seu sacrificio, muito bom]

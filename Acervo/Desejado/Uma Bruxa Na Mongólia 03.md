@@ -1,24 +1,27 @@
 ---
 Situação: Desejado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em:
-Data de Entrega:
-Chegou: false
 Data de Publicação: 2026-11-30
 Coleção:
+Páginas: 176
 Formato:
   - Tankobon
 Editora:
   - Panini
-valor:
-Páginas: 176
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
+valor:
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
 imagem: Banco de Imagens/Mangas/Uma Bruxa Na Mongólia 03.webp
 tags:
   - Manga

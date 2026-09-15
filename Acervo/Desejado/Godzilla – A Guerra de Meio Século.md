@@ -1,18 +1,30 @@
 ---
-Processado em: null
 Situação: Desejado
+Data de Publicação: 2024-08-29
+Coleção: 
+Páginas: null
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor: 0.0
+Processado em: null
 Data de Entrega: null
 Chegou: false
-Status de Leitura: null
-Vezes que Li: null
-Páginas: null
-valor: 0.0
 Favorito: false
-Avaliação: null
-imagem: Banco de Imagens/HQ's/Godzilla – A Guerra de Meio Século.jpg
-Tipo: null
+Status de Leitura: null
 Última Leitura: null
-Data de Publicação: 2024-08-29
+Avaliação: null
+Vezes que Li: null
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's/Godzilla – A Guerra de Meio Século.jpg
+tags:
+  - Quadrinho
+
+Tipo: null
 Universo: null
 Nexo:
 - Quadrinho

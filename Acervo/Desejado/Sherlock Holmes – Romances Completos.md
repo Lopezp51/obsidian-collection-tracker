@@ -1,27 +1,30 @@
 ---
 Situação: Desejado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em:
-Data de Entrega:
-Chegou: false
 Data de Publicação: 2026-07-17
 Coleção:
   - Coleção Cânone
+Páginas: 624
 Formato:
   - Capa dura
 Editora:
   - Pipoca e Nanquim
-valor:
-Páginas: 624
-Vezes que Li: 0
 Roteiro:
   - Arthur Conan Doyle
 Arte:
   - Jayme Cortez
 Cores: []
+valor:
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: true
+Assinatura: false
+Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/Sherlock Holmes – Romances Completos.jpg
 tags:
   - Quadrinho

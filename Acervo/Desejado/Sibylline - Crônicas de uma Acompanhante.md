@@ -1,20 +1,32 @@
 ---
-Processado em: 2026-04-21
 Situação: Desejado
+Data de Publicação: 2026-04-13
+Coleção: 
+Páginas: 256
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor:
+Processado em: 2026-04-21
 Data de Entrega:
 Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 256
-valor:
 Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
 Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/Sibylline - Crônicas de uma Acompanhante.jpg
+tags:
+  - Quadrinho
+
 Nexo:
   - Quadrinho
   - Comix Zone
-Última Leitura:
-Data de Publicação: 2026-04-13
 Universo: Indie
 Planejo pegar em:
 ---

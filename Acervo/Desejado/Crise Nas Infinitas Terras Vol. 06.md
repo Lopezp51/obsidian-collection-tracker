@@ -1,26 +1,29 @@
 ---
 Situação: Desejado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em:
-Data de Entrega:
-Chegou: false
 Data de Publicação: 2026-10-31
 Coleção:
   - Crise Nas Infinitas Terras
+Páginas: 264
 Formato:
   - Capa Cartão
 Editora:
   - DC
   - Panini
-valor:
-Páginas: 264
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
+valor:
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: true
+Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/Crise Nas Infinitas Terras Vol. 06.webp
 tags:
   - Quadrinho

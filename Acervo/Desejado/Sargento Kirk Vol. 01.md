@@ -1,18 +1,30 @@
 ---
-Processado em:
 Situação: Desejado
+Data de Publicação: 2026-09-11
+Coleção: 
+Páginas:
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor: 0
+Processado em:
 Data de Entrega:
 Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas:
-valor: 0
 Favorito: false
-Avaliação: 0
-imagem: Banco de Imagens/HQ's/Sargento Kirk Vol. 01.png
-Tipo: Quadrinho
+Status de Leitura: Não Iniciado
 Última Leitura:
-Data de Publicação: 2026-09-11
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's/Sargento Kirk Vol. 01.png
+tags:
+  - Quadrinho
+
+Tipo: Quadrinho
 Universo: Indie
 Planejo pegar em:
 Nexo:

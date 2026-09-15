@@ -1,17 +1,28 @@
 ---
-Processado em:
 Situação: Desejado
+Data de Publicação: 2026-06-26
+Coleção:
+Páginas: 192
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor: 105.9
+Processado em:
 Data de Entrega:
 Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 192
-valor: 105.9
 Favorito: false
-Avaliação: 0
-imagem: Banco de Imagens/HQ's/Supergirl O Mundo.jpg
+Status de Leitura: Não Iniciado
 Última Leitura:
-Data de Publicação: 2026-06-26
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: true
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's/Supergirl O Mundo.jpg
+tags:
+  - Quadrinho
 Nexo:
   - Quadrinho
   - Panini

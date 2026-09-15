@@ -1,18 +1,30 @@
 ---
-Processado em: 2026-08-01
 Situação: Desejado
+Data de Publicação: 2025-12-25
+Coleção: 
+Páginas: null
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor: 0.0
+Processado em: 2026-08-01
 Data de Entrega: null
 Chegou: false
-Status de Leitura: null
-Vezes que Li: null
-Páginas: null
-valor: 0.0
 Favorito: false
-Avaliação: null
-imagem: Banco de Imagens/HQ's/Tomb Raider Colossal Collection Volume 2.jpg
-Tipo: null
+Status de Leitura: null
 Última Leitura: null
-Data de Publicação: 2025-12-25
+Avaliação: null
+Vezes que Li: null
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's/Tomb Raider Colossal Collection Volume 2.jpg
+tags:
+  - Quadrinho
+
+Tipo: null
 Universo: null
 Planejo pegar em: 2026-10-01
 Nexo:

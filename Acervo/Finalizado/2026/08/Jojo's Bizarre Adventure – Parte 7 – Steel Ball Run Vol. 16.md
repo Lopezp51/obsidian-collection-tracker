@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
+Avaliação: 5
 Última Leitura:
-Status de Leitura: Lendo
+Status de Leitura: Lido
 Processado em: 2026-07-31
 Data de Entrega: 2026-08-19
 Chegou: true
@@ -74,3 +74,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-05] | [pagina:: 288] | [obs:: Eu esperava uma reviravolta no final, com o Jhonny superando o Dio, mas não, Dio acaba sendo mais habilidoso que o Jhonny, ele acaba perdendo, as coisas só acabem por conta da Lucy. No geral gostei muito da parte 7, preciso digirir melhor pra ver se fica como minha parte favorito ou não, mas a ambientação foi com certeza a minha favorita]

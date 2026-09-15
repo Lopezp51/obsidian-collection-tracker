@@ -1,17 +1,28 @@
 ---
-Processado em:
 Situação: Desejado
+Data de Publicação: 2026-06-26
+Coleção:
+Páginas: 72
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor: 109.9
+Processado em:
 Data de Entrega:
 Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 72
-valor: 109.9
 Favorito: false
-Avaliação: 0
-imagem: Banco de Imagens/HQ's/Batman Guerra Ao Crime.jpg
+Status de Leitura: Não Iniciado
 Última Leitura:
-Data de Publicação: 2026-06-26
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: true
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's/Batman Guerra Ao Crime.jpg
+tags:
+  - Quadrinho
 Nexo:
   - Quadrinho
   - Batman

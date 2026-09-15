@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Lendo
+Avaliação: 2.5
+Última Leitura: 2026-09-07
+Status de Leitura: Lido
 Processado em: 2026-08-21
 Data de Entrega: 2026-08-28
 Chegou: true
@@ -17,7 +17,7 @@ Editora:
   - Panini
 valor: 19.05
 Páginas: 48
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro: []
 Arte: []
 Cores: []
@@ -75,3 +75,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-07] | [pagina:: 48] | [obs:: Bem ruimm senti nada lendo isso aí, parece que era pra ser um negócio emotivo e não senti nada, servei pra repensar minhas compras nos X-Men]

@@ -3,14 +3,14 @@ Processado em: 2026-08-19
 Situação: Finalizado
 Data de Entrega: 2026-08-26
 Chegou: true
-Status de Leitura: Lendo
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 72
 valor: 24.22
 Favorito: false
-Avaliação: 0
+Avaliação: 3.5
 imagem: Banco de Imagens/HQ's/Homem-Aranha∕Superman - Capa Variante 02.webp
-Última Leitura:
+Última Leitura: 2026-09-11
 Data de Publicação: 2026-08-18
 Nexo:
   - Quadrinho
@@ -72,3 +72,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-11] | [pagina:: 72] | [obs:: Primeira história foi muito boa, gostei de ser mais só uma conversa entre o Homem Aranha e o Superman. As outras eu achei okay, da mulher maravilha foi okay tbm, queria algo mais daora pra ela e pra Thor, mas fazer oq. Fazia tempo que eu não via a She Hulk em algum quadrinho, ela apareceu rapidinho aqui e foi muito bom ver ela]

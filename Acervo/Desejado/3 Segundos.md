@@ -1,20 +1,32 @@
 ---
-Processado em:
 Situação: Desejado
+Data de Publicação: 2026-04-20
+Coleção: 
+Páginas: 72
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor:
+Processado em:
 Data de Entrega:
 Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 72
-valor:
 Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
 Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/3 Segundos.jpg
+tags:
+  - Quadrinho
+
 Nexo:
   - Quadrinho
   - Comix Zone
-Última Leitura:
-Data de Publicação: 2026-04-20
 Universo: Indie
 Planejo pegar em:
 ---

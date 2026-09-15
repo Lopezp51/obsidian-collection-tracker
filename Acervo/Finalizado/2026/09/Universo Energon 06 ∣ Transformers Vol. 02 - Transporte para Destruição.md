@@ -1,27 +1,29 @@
 ---
 Situação: Faturado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em:
-Data de Entrega:
-Chegou: false
-Data de Publicação: 2026-08-28
+Data de Publicação: 2026-08-31
 Coleção:
-  - Sem Limites
+  - Universo Energon
+Páginas: 136
 Formato:
   - Capa Cartão
 Editora:
-  - DC
   - Panini
-valor: 22.87
-Páginas: 64
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
-imagem: Banco de Imagens/HQ's/DC K.O. 02.webp
+valor: 24.91
+Processado em: 2026-08-20
+Data de Entrega: 2026-09-09
+Chegou: true
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: true
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's/Universo Energon 06 ∣ Transformers Vol. 02 - Transporte para Destruição.webp
 tags:
   - Quadrinho
 ---

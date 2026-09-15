@@ -1,27 +1,30 @@
 ---
 Situação: Desejado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em:
-Data de Entrega:
-Chegou: false
 Data de Publicação: 2026-09-30
 Coleção:
   - Universo Absolute
   - Batman
+Páginas: 48
 Formato:
   - Grampo
 Editora:
   - DC
   - Panini
-valor: 14.77
-Páginas: 48
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
+valor: 14.77
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: true
+Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/Absolute Batman 07.webp
 tags:
   - Quadrinho

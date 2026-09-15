@@ -1,24 +1,35 @@
 ---
-Processado em: null
 Situação: Desejado
-Data de Entrega: null
-Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 184
-valor: 0.0
-Favorito: false
-Avaliação: 0
-imagem: Banco de Imagens/HQ's/Aquaman Vol. 01.webp
-Nexo:
-- Quadrinho
-- Panini
-- DC
-- Sem Limites
-Última Leitura: null
 Data de Publicação: 2026-04-27
+Coleção:
+Páginas: 184
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor: 0
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: true
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's/Aquaman Vol. 01.webp
+tags:
+  - Quadrinho
+Nexo:
+  - Quadrinho
+  - Panini
+  - DC
+  - Sem Limites
 Universo: DC
-Planejo pegar em: null
+Planejo pegar em:
 ---
 
 > [!bookbox]

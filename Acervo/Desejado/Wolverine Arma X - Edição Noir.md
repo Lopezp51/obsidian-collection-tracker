@@ -1,25 +1,28 @@
 ---
 Situação: Desejado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em:
-Data de Entrega:
-Chegou: false
 Data de Publicação: 2026-08-28
 Coleção:
+Páginas: 152
 Formato:
   - Capa dura
 Editora:
   - Panini
   - Marvel
-valor:
-Páginas: 152
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
+valor:
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: true
+Assinatura: false
+Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/Wolverine Arma X - Edição Noir.webp
 tags:
   - Quadrinho

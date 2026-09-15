@@ -1,18 +1,30 @@
 ---
-Processado em: 2026-01-24
 Situação: Desejado
+Data de Publicação: 2024-12-16
+Coleção: 
+Páginas: 540
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor: 0.0
+Processado em: 2026-01-24
 Data de Entrega: null
 Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 540
-valor: 0.0
 Favorito: false
-Avaliação: 0
-imagem: Banco de Imagens/HQ's/MOONSHADOW.jpg
-Tipo: Quadrinho
+Status de Leitura: Não Iniciado
 Última Leitura: null
-Data de Publicação: 2024-12-16
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's/MOONSHADOW.jpg
+tags:
+  - Quadrinho
+
+Tipo: Quadrinho
 Universo: Indie
 Planejo pegar em: 2026-05-01
 ---

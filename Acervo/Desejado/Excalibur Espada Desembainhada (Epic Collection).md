@@ -1,17 +1,28 @@
 ---
-Processado em:
 Situação: Desejado
+Data de Publicação: 2026-06-26
+Coleção:
+Páginas: 496
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor: 177.9
+Processado em:
 Data de Entrega:
 Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 496
-valor: 177.9
 Favorito: false
-Avaliação: 0
-imagem: Banco de Imagens/HQ's/Excalibur Espada Desembainhada (Epic Collection).jpg
+Status de Leitura: Não Iniciado
 Última Leitura:
-Data de Publicação: 2026-06-26
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: true
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's/Excalibur Espada Desembainhada (Epic Collection).jpg
+tags:
+  - Quadrinho
 Nexo:
   - Quadrinho
   - Panini

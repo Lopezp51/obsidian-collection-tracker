@@ -1,25 +1,29 @@
 ---
-Situação: Desejado
+Situação: Finalizado
 Favorito: false
 Avaliação: 0
 Última Leitura:
 Status de Leitura: Não Iniciado
-Processado em:
-Data de Entrega:
-Chegou: false
-Data de Publicação:
+Processado em: 2026-09-04
+Data de Entrega: 2026-09-10
+Chegou: true
+Data de Publicação: 2026-09-04
 Coleção:
+  - Quarteto Fantástico
 Formato:
+  - Grampo
 Editora:
-valor:
-Páginas:
+  - Marvel
+  - Panini
+valor: 15.23
+Páginas: 48
 Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
-imagem: Banco de Imagens/Mangas/Cat’s Eye Vol. 01.jpg
+imagem: Banco de Imagens/HQ's/Quarteto Fantástico (2026) 02.webp
 tags:
-  - Manga
+  - Quadrinho
 ---
 
 > [!bookbox]

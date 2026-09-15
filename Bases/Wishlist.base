@@ -68,6 +68,81 @@ views:
     filters:
       and:
         - Situação == "Desejado"
+    groupBy:
+      property: Assinatura
+      direction: ASC
+    order:
+      - file.name
+      - Data de Publicação
+    sort:
+      - property: Data de Publicação
+        direction: ASC
+      - property: Chegou
+        direction: ASC
+    columnSize:
+      file.name: 439
+      note.Data de Entrega: 138
+      note.Chegou: 134
+    image: note.imagem
+    imageAspectRatio: 1.45
+    cardSize: 140
+  - type: cards
+    name: Fora de Promoção
+    filters:
+      and:
+        - Situação == "Desejado"
+        - note["Pegar em promoção"] == false
+        - and:
+            - Assinatura == false
+    order:
+      - file.name
+      - Data de Publicação
+      - Pegar em promoção
+    sort:
+      - property: Data de Publicação
+        direction: ASC
+      - property: Chegou
+        direction: ASC
+    columnSize:
+      file.name: 439
+      note.Data de Entrega: 138
+      note.Chegou: 134
+    image: note.imagem
+    imageAspectRatio: 1.45
+    cardSize: 140
+  - type: cards
+    name: Em Promoção
+    filters:
+      and:
+        - Situação == "Desejado"
+        - note["Pegar em promoção"] == true
+    groupBy:
+      property: Assinatura
+      direction: ASC
+    order:
+      - file.name
+      - Data de Publicação
+    sort:
+      - property: Data de Publicação
+        direction: ASC
+      - property: Chegou
+        direction: ASC
+    columnSize:
+      file.name: 439
+      note.Data de Entrega: 138
+      note.Chegou: 134
+    image: note.imagem
+    imageAspectRatio: 1.45
+    cardSize: 140
+  - type: cards
+    name: Assinaturas
+    filters:
+      and:
+        - Situação == "Desejado"
+        - Assinatura == true
+    groupBy:
+      property: Assinatura
+      direction: ASC
     order:
       - file.name
       - Data de Publicação

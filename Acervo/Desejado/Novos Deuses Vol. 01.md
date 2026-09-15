@@ -1,21 +1,32 @@
 ---
-Processado em: null
 Situação: Desejado
-Data de Entrega: null
-Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 144
-valor: 0.0
-Favorito: false
-Avaliação: 0
-imagem: Banco de Imagens/HQ's/Novos Deuses Vol. 01.webp
-Nexo:
-- Quadrinho
-- DC
-- Panini
-Última Leitura: null
 Data de Publicação: 2026-05-25
+Coleção:
+Páginas: 144
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor: 0
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: true
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's/Novos Deuses Vol. 01.webp
+tags:
+  - Quadrinho
+Nexo:
+  - Quadrinho
+  - DC
+  - Panini
 Universo: DC
 Planejo pegar em: 2026-07-01
 ---

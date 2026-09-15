@@ -4,10 +4,10 @@ Favorito: false
 Avaliação: 0
 Última Leitura:
 Status de Leitura: Não Iniciado
-Processado em: 2026-09-03
+Processado em: 2026-09-10
 Data de Entrega:
 Chegou: false
-Data de Publicação: 2026-09-03
+Data de Publicação: 2026-09-10
 Coleção:
   - Sem Limites
 Formato:

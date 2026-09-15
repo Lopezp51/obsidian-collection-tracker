@@ -1,22 +1,23 @@
 ---
-Processado em: null
+Processado em:
 Situação: Desejado
-Data de Entrega: null
+Data de Entrega:
 Chegou: false
 Status de Leitura: Não Iniciado
 Vezes que Li: 0
 Páginas: 1144
-valor: 0.0
+valor: 0
 Favorito: false
 Avaliação: 0
 imagem: Banco de Imagens/HQ's/Tomb Raider Colossal Collection Volume 3.jpg
 Tipo: Quadrinho
-Última Leitura: null
+Última Leitura:
 Data de Publicação: 2026-04-28
 Universo: Vertigo
 Planejo pegar em: 2027-02-01
 Nexo:
-- Manga
+  - Manga
+Assinatura: false
 ---
 
 > [!bookbox]

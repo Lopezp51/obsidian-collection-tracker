@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Lendo
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-09-09
+Status de Leitura: Lido
 Processado em: 2026-08-17
 Data de Entrega: 2026-09-02
 Chegou: true
@@ -16,7 +16,7 @@ Editora:
   - Panini
 valor: 24.91
 Páginas: 144
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro: []
 Arte: []
 Cores: []
@@ -74,3 +74,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-09] | [pagina:: 144] | [obs:: Tenho o sentimento que cedo ou tarde vou ouvir a frase "Until all are one", principalmente se tratando da unidade dos dois povos. Essa construção de mundo ta muito boa, Sollia e Darak são uma dupla muito boa, e o povo deles ter uma passado ligado a cybertron é irado, animado para os próximos]

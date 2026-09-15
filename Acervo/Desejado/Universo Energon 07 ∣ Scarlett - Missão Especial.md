@@ -1,25 +1,28 @@
 ---
 Situação: Desejado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em:
-Data de Entrega:
-Chegou: false
 Data de Publicação: 2026-09-30
 Coleção:
   - Universo Energon
+Páginas: 128
 Formato:
   - Capa Cartão
 Editora:
   - Panini
-valor: 24.91
-Páginas: 128
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
+valor: 24.91
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: true
+Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/Universo Energon 07 ∣ Scarlett - Missão Especial.webp
 tags:
   - Quadrinho

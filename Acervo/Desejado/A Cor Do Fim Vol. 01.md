@@ -1,24 +1,27 @@
 ---
 Situação: Desejado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em:
-Data de Entrega: 2026-10-30
-Chegou: false
-Data de Publicação:
+Data de Publicação: 2026-10-30
 Coleção:
+Páginas: 224
 Formato:
   - Tankobon
 Editora:
   - Panini
-valor:
-Páginas: 224
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
+valor:
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
 imagem: Banco de Imagens/Mangas/A Cor Do Fim Vol. 01.webp
 tags:
   - Manga

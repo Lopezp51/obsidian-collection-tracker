@@ -1,26 +1,29 @@
 ---
 Situação: Desejado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em:
-Data de Entrega:
-Chegou: false
 Data de Publicação: 2026-10-31
 Coleção:
   - Quarteto Fantástico
+Páginas: 448
 Formato:
   - Edições de luxo
 Editora:
   - Marvel
   - Panini
-valor:
-Páginas: 448
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
+valor:
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: true
+Assinatura: false
+Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/Quarteto Fantástico - Edição Definitiva Vol. 04.webp
 tags:
   - Quadrinho

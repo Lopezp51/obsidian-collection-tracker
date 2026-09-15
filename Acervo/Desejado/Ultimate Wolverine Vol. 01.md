@@ -1,22 +1,34 @@
 ---
-Processado em: 2026-03-19
 Situação: Desejado
+Data de Publicação: 2026-05-26
+Coleção: 
+Páginas: 152
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor: 0.0
+Processado em: 2026-03-19
 Data de Entrega: null
 Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 152
-valor: 0.0
 Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura: null
 Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/Ultimate Wolverine Vol. 01.webp
+tags:
+  - Quadrinho
+
 Nexo:
 - Quadrinho
 - Panini
 - Ultimate
 - Marvel
-Última Leitura: null
-Data de Publicação: 2026-05-26
 Universo: Marvel
 Planejo pegar em: 2026-06-01
 ---

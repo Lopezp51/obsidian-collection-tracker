@@ -1,18 +1,30 @@
 ---
-Processado em: 2026-03-15
 Situação: Desejado
+Data de Publicação: 2025-12-01
+Coleção: 
+Páginas: 480
+Formato:
+Editora:
+Roteiro: []
+Arte: []
+Cores: []
+valor: 0.0
+Processado em: 2026-03-15
 Data de Entrega: null
 Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 480
-valor: 0.0
 Favorito: false
-Avaliação: 0
-imagem: Banco de Imagens/Livros/Dados & Dragões - A história épica de Dungeons & Dragons.jpg
-Tipo: Livro
+Status de Leitura: Não Iniciado
 Última Leitura: null
-Data de Publicação: 2025-12-01
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/Livros/Dados & Dragões - A história épica de Dungeons & Dragons.jpg
+tags:
+  - Quadrinho
+
+Tipo: Livro
 Universo: Indie
 Planejo pegar em: null
 Equipe Criativa Geral:

@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Lendo
+Avaliação: 2
+Última Leitura: 2026-09-06
+Status de Leitura: Lido
 Processado em: 2026-07-22
 Data de Entrega: 2026-08-19
 Chegou: true
@@ -17,13 +17,14 @@ Editora:
   - Panini
 valor: 11.94
 Páginas: 48
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro: []
 Arte: []
 Cores: []
 imagem: Banco de Imagens/HQ's/Os Fabulosos X-Men (2025) 12.webp
 tags:
   - Quadrinho
+Colocado no saquinho: 2026-09-06
 ---
 
 > [!bookbox]
@@ -75,3 +76,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-06] | [pagina:: 48] | [obs:: Nada de especial, Tempestade me diperto um interesse de leve, mas só isso, todo conflito entre ela, Xavier contra os X-Men foi qualquer coisa, foi falado que o Xavier tava fazendo as pessoas normais ficarem doidas no conflito, mas nada foi mostrado, extremamente qualquer coisa essa edição]
