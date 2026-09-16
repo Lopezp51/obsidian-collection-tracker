@@ -1,17 +1,19 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-09-30
+Situação: Faturado
+Data de Publicação: 2022-04-18
 Coleção:
-Páginas: 136
+  - Demolidor
+  - Marvel Essenciais
+Páginas: 192
 Formato:
-  - Capa Cartão
+  - Capa dura
 Editora:
-  - DC
+  - Marvel
   - Panini
 Roteiro: []
 Arte: []
 Cores: []
-valor:
+valor: 68.63
 Processado em:
 Data de Entrega:
 Chegou: false
@@ -23,7 +25,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/DC K.O. Especial - Combate 01.webp
+imagem: Banco de Imagens/HQ's e Mangas/Demolidor - A Queda De Murdock.webp
 tags:
   - Quadrinho
 ---

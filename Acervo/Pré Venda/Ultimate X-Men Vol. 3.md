@@ -1,19 +1,22 @@
 ---
-Situação: Desejado
+Situação: Pré Venda
 Data de Publicação: 2026-09-30
 Coleção:
-Páginas: 48
+  - Universo Ultimate
+Páginas: 151
 Formato:
   - Capa Cartão
 Editora:
   - Marvel
-  - DC
   - Panini
-Roteiro: []
-Arte: []
-Cores: []
-valor:
-Processado em:
+Roteiro:
+  - Peach Momoko
+Arte:
+  - Peach Momoko
+Cores:
+  - Peach Momoko
+valor: 36.64
+Processado em: 2026-09-30
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -24,7 +27,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/LJA e Vingadores 01.webp
+imagem: Banco de Imagens/HQ's/Ultimate X-Men Vol. 3.webp
 tags:
   - Quadrinho
 ---

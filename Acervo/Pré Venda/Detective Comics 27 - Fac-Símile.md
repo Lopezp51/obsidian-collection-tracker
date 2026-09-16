@@ -1,20 +1,28 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-10-30
+Situação: Pré Venda
+Data de Publicação: 2026-09-30
 Coleção:
-  - Universo Ultimate
-  - Homem-Aranha
-Páginas: 176
+  - Fac-Símile
+  - Batman
+Páginas: 68
 Formato:
-  - Capa Cartão
+  - Grampo
 Editora:
-  - Marvel
+  - DC
   - Panini
-Roteiro: []
-Arte: []
+Roteiro:
+  - Bill Finger
+  - Jerry Siegel
+  - Homer Fleming
+  - Gardner Fox
+Arte:
+  - Bob Kane
+  - Joe Shuster
+  - Homer Fleming
+  - Fred Guardineer
 Cores: []
-valor:
-Processado em:
+valor: 22.87
+Processado em: 2026-09-30
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -25,7 +33,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Ultimate Homem-Aranha (2024) Vol. 4.webp
+imagem: Banco de Imagens/HQ's/Detective Comics 27 - Fac-Símile.webp
 tags:
   - Quadrinho
 ---

@@ -1,20 +1,25 @@
 ---
 Situação: Faturado
-Data de Publicação: 
-Coleção: 
-Páginas:
+Data de Publicação: 2021-05-20
+Coleção:
+  - Jojo's
+Páginas: 304
 Formato:
+  - Tankobon
 Editora:
-Roteiro: []
-Arte: []
+  - Panini
+Roteiro:
+  - Hirohiko Araki
+Arte:
+  - Hirohiko Araki
 Cores: []
-valor:
-Processado em: 
-Data de Entrega: 
+valor: 37.52
+Processado em:
+Data de Entrega:
 Chegou: false
 Favorito: false
 Status de Leitura: Não Iniciado
-Última Leitura: 
+Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
@@ -22,8 +27,7 @@ Assinatura: false
 Colocado no saquinho:
 imagem: "Banco de Imagens/HQ's e Mangas/Jojo's Bizarre Adventure – Parte 4 – Diamond Is Unbreakable Vol. 01.webp"
 tags:
-  - Quadrinho
-
+  - Manga
 ---
 
 > [!bookbox]

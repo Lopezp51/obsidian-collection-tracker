@@ -1,19 +1,19 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-09-30
+Situação: Faturado
+Data de Publicação: 2022-01-19
 Coleção:
-  - Universo Absolute
-  - Batman
-Páginas: 48
+  - Jojo's
+Páginas: 304
 Formato:
-  - Grampo
+  - Tankobon
 Editora:
-  - DC
   - Panini
-Roteiro: []
-Arte: []
+Roteiro:
+  - Hirohiko Araki
+Arte:
+  - Hirohiko Araki
 Cores: []
-valor:
+valor: 37.52
 Processado em:
 Data de Entrega:
 Chegou: false
@@ -25,9 +25,9 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Absolute Batman 07 - Capa Variante.webp
+imagem: "Banco de Imagens/HQ's e Mangas/Jojo's Bizarre Adventure – Parte 4 – Diamond Is Unbreakable Vol. 05.webp"
 tags:
-  - Quadrinho
+  - Manga
 ---
 
 > [!bookbox]

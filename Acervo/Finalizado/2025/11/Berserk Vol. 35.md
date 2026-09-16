@@ -2,28 +2,28 @@
 Situação: Finalizado
 Favorito: false
 Avaliação: 0
-Última Leitura: null
-Status de Leitura: Não Iniciado
+Última Leitura:
+Status de Leitura: Lendo
 Processado em: 2025-11-12
-Data de Entrega: null
+Data de Entrega:
 Chegou: true
 Data de Publicação: 2020-04-01
 Coleção:
-- Berserk
+  - Berserk
 Formato: Manga
 Editora:
-- Panini
+  - Panini
 valor: 44.9
 Páginas: 216
 Vezes que Li: 0
 Roteiro:
-- Kentaro Miura
+  - Kentaro Miura
 Arte:
-- Kentaro Miura
-Cores: null
+  - Kentaro Miura
+Cores:
 imagem: Banco de Imagens/Mangas/Berserk Vol. 35.png
 tags:
-- Manga
+  - Manga
 ---
 > [!bookbox]
 > ```meta-bind

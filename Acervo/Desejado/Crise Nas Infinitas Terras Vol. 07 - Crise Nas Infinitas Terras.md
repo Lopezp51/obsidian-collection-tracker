@@ -1,14 +1,10 @@
 ---
 Situação: Desejado
-Data de Publicação: 2026-09-30
+Data de Publicação: 2026-11-30
 Coleção:
-  - Universo Absolute
-Páginas: 32
+Páginas:
 Formato:
-  - Capa Cartão
 Editora:
-  - DC
-  - Panini
 Roteiro: []
 Arte: []
 Cores: []
@@ -22,9 +18,9 @@ Status de Leitura: Não Iniciado
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
-Assinatura: false
+Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Absolute Vilania 01.webp
+imagem: Banco de Imagens/HQ's e Mangas/Crise Nas Infinitas Terras Vol. 07 - Crise Nas Infinitas Terras.webp
 tags:
   - Quadrinho
 ---

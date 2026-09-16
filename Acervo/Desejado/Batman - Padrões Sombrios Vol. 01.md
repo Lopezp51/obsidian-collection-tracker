@@ -1,20 +1,20 @@
 ---
 Situação: Desejado
-Data de Publicação: 2026-05-25
-Coleção: 
+Data de Publicação: 2026-11-30
+Coleção:
 Páginas: 144
 Formato:
 Editora:
 Roteiro: []
 Arte: []
 Cores: []
-valor: 0.0
-Processado em: null
-Data de Entrega: null
+valor: 0
+Processado em:
+Data de Entrega:
 Chegou: false
 Favorito: false
 Status de Leitura: Não Iniciado
-Última Leitura: null
+Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
@@ -23,12 +23,11 @@ Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/Batman - Padrões Sombrios Vol. 01.webp
 tags:
   - Quadrinho
-
 Nexo:
-- Quadrinho
-- Batman
-- DC
-- Panini
+  - Quadrinho
+  - Batman
+  - DC
+  - Panini
 Universo: DC
 Planejo pegar em: 2026-08-01
 ---

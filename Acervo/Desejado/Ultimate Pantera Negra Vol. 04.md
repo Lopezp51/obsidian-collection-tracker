@@ -1,32 +1,29 @@
 ---
 Situação: Desejado
 Data de Publicação: 2026-11-30
-Coleção:
-  - Venom
-Páginas: 48
+Coleção: 
+Páginas:
 Formato:
-  - Grampo
 Editora:
-  - Marvel
-  - Panini
 Roteiro: []
 Arte: []
 Cores: []
 valor:
-Processado em:
-Data de Entrega:
+Processado em: 
+Data de Entrega: 
 Chegou: false
 Favorito: false
 Status de Leitura: Não Iniciado
-Última Leitura:
+Última Leitura: 
 Avaliação: 0
 Vezes que Li: 0
-Pegar em promoção: true
+Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Venom (2025) 15.webp
+imagem: "Banco de Imagens/HQ's e Mangas/Ultimate Pantera Negra Vol. 04.webp"
 tags:
   - Quadrinho
+
 ---
 
 > [!bookbox]

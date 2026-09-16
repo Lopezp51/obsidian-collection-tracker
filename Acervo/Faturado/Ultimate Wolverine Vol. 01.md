@@ -1,24 +1,34 @@
 ---
-Equipe Criativa Geral: Koyoharu Gotouge
-Processado em: 2026-04-02
-Situação: Finalizado
-Data de Entrega: 2026-04-18
-Chegou: true
-Status de Leitura: Lendo
-Vezes que Li: 0
-Páginas: 192
-valor: 23.03
-Favorito: false
-Avaliação: 0
-imagem: Banco de Imagens/Mangas/Demon Slayer - Kimetsu No Yaiba Vol. 17.jpg
-Última Leitura:
-Data de Publicação: 2021-06-01
-Nexo:
-  - Manga
+Situação: Faturado
+Data de Publicação: 2026-05-29
+Coleção:
+  - Universo Ultimate
+  - Wolverine
+Páginas: 152
+Formato:
+  - Capa Cartão
+Editora:
+  - Marvel
   - Panini
-  - Demon Slayer - Kimetsu No Yaiba
+Roteiro: []
+Arte: []
+Cores: []
+valor: 24.83
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's e Mangas/Ultimate Wolverine Vol. 01.webp
+tags:
+  - Quadrinho
 ---
-
 
 > [!bookbox]
 > ```meta-bind
@@ -26,11 +36,11 @@ Nexo:
 > ```
 > <div class="book-metadata">
 >
-> **Avaliação:** `$= const r = dv.current().Avaliação || 0; let s = "<div class='rating-wrapper'>"; for (let i = 1; i <= 5; i++) { if (i <= Math.floor(r)) { s += "<span class='rating-star star-full'>" + obsidian.getIcon("star").outerHTML + "</span>"; } else if (i === Math.ceil(r) && r % 1 >= 0.5) { s += "<span class='rating-star star-half'>" + obsidian.getIcon("star-half").outerHTML + "</span>"; } else { s += "<span class='rating-star star-empty'>" + obsidian.getIcon("star").outerHTML + "</span>"; } } s += "</div>"; dv.span(s)`
+> **Avaliação:** `$= const r = dv.current()?.Avaliação || 0; let s = "<div class='rating-wrapper'>"; for (let i = 1; i <= 5; i++) { if (i <= Math.floor(r)) { s += "<span class='rating-star star-full'>" + obsidian.getIcon("star").outerHTML + "</span>"; } else if (i === Math.ceil(r) && r % 1 >= 0.5) { s += "<span class='rating-star star-half'>" + obsidian.getIcon("star-half").outerHTML + "</span>"; } else { s += "<span class='rating-star star-empty'>" + obsidian.getIcon("star").outerHTML + "</span>"; } } s += "</div>"; dv.span(s)`
 > ```dataviewjs
-> const total = dv.current()["Páginas"] || 1;
-> const listaItens = dv.current().file.lists;
-> const progresso = listaItens.where(i => i.pagina != null).map(i => Number(i.pagina));
+> const total = dv.current()?.["Páginas"] || 1;
+> const listas = dv.current()?.file?.lists || [];
+> const progresso = listas.where ? listas.where(i => i.pagina != null).map(i => Number(i.pagina)) : [];
 > let atual = 0;
 > if (progresso.length > 0) { atual = Math.max(...progresso); }
 > const pct = Math.min(100, Math.round((atual / total) * 100));

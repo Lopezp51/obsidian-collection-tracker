@@ -1,18 +1,19 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-09-30
+Situação: Faturado
+Data de Publicação: 2022-03-23
 Coleção:
-  - Venom
-Páginas: 48
+  - Jojo's
+Páginas: 304
 Formato:
-  - Grampo
+  - Tankobon
 Editora:
-  - Marvel
   - Panini
-Roteiro: []
-Arte: []
+Roteiro:
+  - Hirohiko Araki
+Arte:
+  - Hirohiko Araki
 Cores: []
-valor:
+valor: 37.52
 Processado em:
 Data de Entrega:
 Chegou: false
@@ -21,12 +22,12 @@ Status de Leitura: Não Iniciado
 Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
-Pegar em promoção: true
+Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Venom (2025) 13.webp
+imagem: "Banco de Imagens/HQ's e Mangas/Jojo's Bizarre Adventure – Parte 4 – Diamond Is Unbreakable Vol. 06.webp"
 tags:
-  - Quadrinho
+  - Manga
 ---
 
 > [!bookbox]

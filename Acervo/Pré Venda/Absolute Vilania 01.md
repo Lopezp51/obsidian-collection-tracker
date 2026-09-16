@@ -1,18 +1,23 @@
 ---
-Situação: Desejado
+Situação: Pré Venda
 Data de Publicação: 2026-09-30
 Coleção:
-Páginas: 120
+  - Universo Absolute
+Páginas: 32
 Formato:
   - Capa Cartão
 Editora:
-  - Marvel
+  - DC
   - Panini
-Roteiro: []
-Arte: []
-Cores: []
-valor:
-Processado em:
+Roteiro:
+  - Al Ewing
+Arte:
+  - Giuseppe Camuncoli
+  - Stefano Nesi
+Cores:
+  - Rômulo Fajardo Jr.
+valor: 13.7
+Processado em: 2026-09-30
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -20,10 +25,10 @@ Status de Leitura: Não Iniciado
 Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
-Pegar em promoção: true
+Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Laura Kinney - Wolverine (2026) Vol. 01.webp
+imagem: Banco de Imagens/HQ's/Absolute Vilania 01.webp
 tags:
   - Quadrinho
 ---

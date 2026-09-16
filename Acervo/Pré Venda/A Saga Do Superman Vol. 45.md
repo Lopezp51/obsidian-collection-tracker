@@ -1,19 +1,29 @@
 ---
-Situação: Desejado
+Situação: Pré Venda
 Data de Publicação: 2026-09-30
 Coleção:
   - Superman
-Páginas: 160
+Páginas: 144
 Formato:
   - Capa Cartão
 Editora:
   - DC
   - Panini
-Roteiro: []
-Arte: []
-Cores: []
-valor:
-Processado em:
+Roteiro:
+  - Dan Jurgens
+  - Jerry Ordway
+  - Louise Simonson
+  - Roger Stern
+Arte:
+  - Dan Jurgens
+  - Jackson Guice
+  - Jerry Ordway
+  - Jon Bogdanove
+  - Tom Grummett
+Cores:
+  - Glenn Whitmore
+valor: 36.64
+Processado em: 2026-09-30
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -21,10 +31,10 @@ Status de Leitura: Não Iniciado
 Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
-Pegar em promoção: true
+Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Superman Sem Limites 01.webp
+imagem: Banco de Imagens/HQ's/A Saga Do Superman Vol. 45.webp
 tags:
   - Quadrinho
 ---

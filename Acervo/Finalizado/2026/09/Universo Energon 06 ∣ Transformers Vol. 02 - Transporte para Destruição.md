@@ -16,7 +16,7 @@ Processado em: 2026-08-20
 Data de Entrega: 2026-09-09
 Chegou: true
 Favorito: false
-Status de Leitura: Não Iniciado
+Status de Leitura: Lendo
 Última Leitura:
 Avaliação: 0
 Vezes que Li: 0

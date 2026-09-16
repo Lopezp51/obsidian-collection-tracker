@@ -1,20 +1,25 @@
 ---
-Situação: Desejado
+Situação: Pré Venda
 Data de Publicação: 2026-09-30
 Coleção:
-  - Fac-Símile
+  - Universo Absolute
   - Batman
-Páginas: 68
+Páginas: 48
 Formato:
   - Grampo
 Editora:
   - DC
   - Panini
-Roteiro: []
-Arte: []
-Cores: []
-valor:
-Processado em:
+Roteiro:
+  - Scott Snyder
+Arte:
+  - Marcos Martín
+  - Nick Dragotta
+Cores:
+  - Muntsa Vicente
+  - Frank Martin
+valor: 19.05
+Processado em: 2026-09-30
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -25,7 +30,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Detective Comics 27 - Fac-Símile.webp
+imagem: Banco de Imagens/HQ's/Absolute Batman 07 - Capa Variante.webp
 tags:
   - Quadrinho
 ---

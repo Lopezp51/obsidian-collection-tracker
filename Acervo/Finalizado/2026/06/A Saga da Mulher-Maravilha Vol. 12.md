@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Lendo
+Avaliação: 5
+Última Leitura: 2026-09-15
+Status de Leitura: Lido
 Processado em: 2026-05-13
 Data de Entrega: 2026-06-11
 Chegou: true
@@ -81,3 +81,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-15] | [pagina:: 144] | [obs:: Na boa, que ódio do Superman e do Batman, Superman tava sendo controlado, Diana ia morrer, ela matou o cara pra salvar incontáveis vidas, e o Superman e Batman ficam brabinhos com ela? Vão a merda os dois. A amazonas estão sendo exterminadas, a liga não faz nada, superman não faz nada, Diana precisa sair de onde precisa ser alocada até seu julgamento para salvar suas irmas e certeza que vai ser vista com mals olhos, que raiva da humanidade. Dito isso ótimo volume, colocaram a Diana no fundo do poço, com ela nunca negando sua essencia. Parte da Barbara foi muito daora de ver tbm]

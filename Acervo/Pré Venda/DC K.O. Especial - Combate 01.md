@@ -1,19 +1,32 @@
 ---
-Situação: Desejado
+Situação: Pré Venda
 Data de Publicação: 2026-09-30
 Coleção:
-  - Universo Ultimate
-Páginas: 151
+Páginas: 136
 Formato:
   - Capa Cartão
 Editora:
-  - Marvel
+  - DC
   - Panini
-Roteiro: []
-Arte: []
-Cores: []
-valor:
-Processado em:
+Roteiro:
+  - Joshua Williamson
+  - Leah Williams
+  - Scott Snyder
+  - Joëlle Jones
+Arte:
+  - Cary Nord
+  - Daniel Bayliss
+  - Giuseppe Camuncoli
+  - Jason Howard
+  - Mirka Andolfo
+  - Sean Izaakse
+Cores:
+  - Rex Lokus
+  - Adriano Lucas
+  - Ivan Plascencia
+  - Tamra Bonvillain
+valor: 32.05
+Processado em: 2026-09-30
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -24,7 +37,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Ultimate X-Men Vol. 3.webp
+imagem: Banco de Imagens/HQ's/DC K.O. Especial - Combate 01.webp
 tags:
   - Quadrinho
 ---

@@ -1,18 +1,19 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-10-30
+Situação: Faturado
+Data de Publicação: 2021-11-19
 Coleção:
-  - Homem-Aranha
-Páginas: 48
+  - Jojo's
+Páginas: 296
 Formato:
-  - Grampo
+  - Tankobon
 Editora:
-  - Marvel
   - Panini
-Roteiro: []
-Arte: []
+Roteiro:
+  - Hirohiko Araki
+Arte:
+  - Hirohiko Araki
 Cores: []
-valor:
+valor: 37.52
 Processado em:
 Data de Entrega:
 Chegou: false
@@ -21,12 +22,12 @@ Status de Leitura: Não Iniciado
 Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
-Pegar em promoção: true
+Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Venom (2025) 14.webp
+imagem: "Banco de Imagens/HQ's e Mangas/Jojo's Bizarre Adventure – Parte 4 – Diamond Is Unbreakable Vol. 04.webp"
 tags:
-  - Quadrinho
+  - Manga
 ---
 
 > [!bookbox]

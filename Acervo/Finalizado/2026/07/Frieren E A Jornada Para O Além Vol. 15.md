@@ -3,7 +3,7 @@ Processado em: 2026-06-25
 Situação: Finalizado
 Data de Entrega: 2026-07-01
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lendo
 Vezes que Li: 0
 Páginas: 194
 valor: 37.99

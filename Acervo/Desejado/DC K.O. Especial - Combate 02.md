@@ -1,30 +1,29 @@
 ---
 Situação: Desejado
-Data de Publicação: 2026-09-30
-Coleção:
-Páginas: 176
+Data de Publicação: 2026-11-30
+Coleção: 
+Páginas:
 Formato:
-  - Tankobon
 Editora:
-  - Panini
 Roteiro: []
 Arte: []
 Cores: []
 valor:
-Processado em:
-Data de Entrega:
+Processado em: 
+Data de Entrega: 
 Chegou: false
 Favorito: false
 Status de Leitura: Não Iniciado
-Última Leitura:
+Última Leitura: 
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/Mangas/Uma Bruxa Na Mongólia 02.webp
+imagem: "Banco de Imagens/HQ's e Mangas/DC K.O. Especial - Combate 02.webp"
 tags:
-  - Manga
+  - Quadrinho
+
 ---
 
 > [!bookbox]

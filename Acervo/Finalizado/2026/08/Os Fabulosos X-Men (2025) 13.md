@@ -3,10 +3,10 @@ Situação: Finalizado
 Favorito: false
 Avaliação: 0
 Última Leitura:
-Status de Leitura: Não Iniciado
+Status de Leitura: Lendo
 Processado em: 2026-08-04
-Data de Entrega:
-Chegou: false
+Data de Entrega: 2026-09-04
+Chegou: true
 Data de Publicação: 2026-08-04
 Coleção:
   - X-Men

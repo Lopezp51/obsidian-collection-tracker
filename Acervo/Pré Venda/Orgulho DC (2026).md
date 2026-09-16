@@ -1,35 +1,42 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-06-22
-Coleção: 
-Páginas: 192
+Situação: Pré Venda
+Data de Publicação: 2026-09-30
+Coleção:
+  - DC Pride
+Páginas: 96
 Formato:
+  - Capa Cartão
 Editora:
-Roteiro: []
-Arte: []
-Cores: []
-valor: 0.0
-Processado em: null
-Data de Entrega: null
+  - DC
+  - Panini
+Roteiro:
+  - Josh Trujillo
+  - Sina Grace
+  - Tim Sheridan
+Arte:
+  - Don Aguillo
+  - Stephen Byrne
+  - Nicole Goux
+  - Kevin Wada
+Cores:
+  - Rex Lokus
+  - Stephen Byrne
+  - Don Aguillo
+valor: 28.23
+Processado em: 2026-09-30
+Data de Entrega:
 Chegou: false
 Favorito: false
 Status de Leitura: Não Iniciado
-Última Leitura: null
+Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Demolidor - A Queda De Murdock.webp
+imagem: Banco de Imagens/HQ's/Orgulho DC (2026).webp
 tags:
   - Quadrinho
-
-Nexo:
-- Quadrinho
-- Marvel
-- Panini
-Universo: Marvel
-Planejo pegar em: null
 ---
 
 > [!bookbox]
@@ -38,11 +45,11 @@ Planejo pegar em: null
 > ```
 > <div class="book-metadata">
 >
-> **Avaliação:** `$= const r = dv.current().Avaliação || 0; let s = "<div class='rating-wrapper'>"; for (let i = 1; i <= 5; i++) { if (i <= Math.floor(r)) { s += "<span class='rating-star star-full'>" + obsidian.getIcon("star").outerHTML + "</span>"; } else if (i === Math.ceil(r) && r % 1 >= 0.5) { s += "<span class='rating-star star-half'>" + obsidian.getIcon("star-half").outerHTML + "</span>"; } else { s += "<span class='rating-star star-empty'>" + obsidian.getIcon("star").outerHTML + "</span>"; } } s += "</div>"; dv.span(s)`
+> **Avaliação:** `$= const r = dv.current()?.Avaliação || 0; let s = "<div class='rating-wrapper'>"; for (let i = 1; i <= 5; i++) { if (i <= Math.floor(r)) { s += "<span class='rating-star star-full'>" + obsidian.getIcon("star").outerHTML + "</span>"; } else if (i === Math.ceil(r) && r % 1 >= 0.5) { s += "<span class='rating-star star-half'>" + obsidian.getIcon("star-half").outerHTML + "</span>"; } else { s += "<span class='rating-star star-empty'>" + obsidian.getIcon("star").outerHTML + "</span>"; } } s += "</div>"; dv.span(s)`
 > ```dataviewjs
-> const total = dv.current()["Páginas"] || 1;
-> const listaItens = dv.current().file.lists;
-> const progresso = listaItens.where(i => i.pagina != null).map(i => Number(i.pagina));
+> const total = dv.current()?.["Páginas"] || 1;
+> const listas = dv.current()?.file?.lists || [];
+> const progresso = listas.where ? listas.where(i => i.pagina != null).map(i => Number(i.pagina)) : [];
 > let atual = 0;
 > if (progresso.length > 0) { atual = Math.max(...progresso); }
 > const pct = Math.min(100, Math.round((atual / total) * 100));
