@@ -1,35 +1,34 @@
 ---
 Situação: Desejado
 Data de Publicação: 2026-01-23
-Coleção: 
+Coleção:
 Páginas: 128
 Formato:
 Editora:
 Roteiro: []
 Arte: []
 Cores: []
-valor: 0.0
+valor: 0
 Processado em: 2026-01-24
-Data de Entrega: null
+Data de Entrega:
 Chegou: false
 Favorito: false
 Status de Leitura: Não Iniciado
-Última Leitura: null
+Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
-Pegar em promoção: false
+Pegar em promoção: true
 Assinatura: false
 Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/Godzilla -  No Inferno.jpg
 tags:
   - Quadrinho
-
 Tipo: Quadrinho
 Universo: Outros
 Nexo:
-- Quadrinho
-- Godzilla
-- Panini
+  - Quadrinho
+  - Godzilla
+  - Panini
 ---
 
 > [!bookbox]

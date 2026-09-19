@@ -1,7 +1,7 @@
 ---
 Situação: Desejado
 Data de Publicação: 2022-09-09
-Coleção: 
+Coleção:
 Páginas: 64
 Formato:
 Editora:
@@ -17,13 +17,12 @@ Status de Leitura: Não Iniciado
 Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
-Pegar em promoção: false
+Pegar em promoção: true
 Assinatura: false
 Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/Quarteto Fantástico - Ciclos.jpg
 tags:
   - Quadrinho
-
 Tipo: Quadrinho
 Universo: Marvel
 Nexo:

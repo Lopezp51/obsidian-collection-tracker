@@ -21,7 +21,7 @@ Status de Leitura: Não Iniciado
 Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
-Pegar em promoção: false
+Pegar em promoção: true
 Assinatura: false
 Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/Batman - Padrões Sombrios Vol. 02.webp

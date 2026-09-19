@@ -1,36 +1,35 @@
 ---
 Situação: Desejado
 Data de Publicação: 2026-11-01
-Coleção: 
-Páginas: null
+Coleção:
+Páginas:
 Formato:
 Editora:
 Roteiro: []
 Arte: []
 Cores: []
-valor: 0.0
+valor: 0
 Processado em: 2026-03-12
-Data de Entrega: null
+Data de Entrega:
 Chegou: false
 Favorito: false
 Status de Leitura: Não Iniciado
-Última Leitura: null
+Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
-Pegar em promoção: false
+Pegar em promoção: true
 Assinatura: false
 Colocado no saquinho:
-imagem: null
+imagem:
 tags:
   - Quadrinho
-
 Tipo: Quadrinho
 Universo: Indie
-Planejo pegar em: null
+Planejo pegar em:
 Nexo:
-- Manga
-- Thorgal｜ Série Clássica
-- Panini
+  - Manga
+  - Thorgal｜ Série Clássica
+  - Panini
 ---
 
 > [!bookbox]

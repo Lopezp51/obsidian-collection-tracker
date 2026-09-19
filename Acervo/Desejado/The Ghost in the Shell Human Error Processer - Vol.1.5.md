@@ -1,7 +1,7 @@
 ---
 Situação: Desejado
 Data de Publicação: 2019-12-19
-Coleção: 
+Coleção:
 Páginas:
 Formato:
 Editora:
@@ -17,13 +17,12 @@ Status de Leitura:
 Última Leitura:
 Avaliação:
 Vezes que Li:
-Pegar em promoção: false
+Pegar em promoção: true
 Assinatura: false
 Colocado no saquinho:
 imagem: Banco de Imagens/Mangas/The Ghost in the Shell Human Error Processer - Vol.1.5.jpg
 tags:
   - Quadrinho
-
 Tipo:
 Universo:
 Nexo:

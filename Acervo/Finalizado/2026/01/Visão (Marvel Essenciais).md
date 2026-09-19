@@ -3,15 +3,15 @@ Processado em: 2026-01-19
 Situação: Finalizado
 Data de Entrega: 2026-01-23
 Chegou: true
-Status de Leitura: Lendo
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 272
 valor: 81.74
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/Visão (Marvel Essenciais).webp
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-09-19
 Data de Publicação: 2025-09-16
 Universo: Marvel
 ---
@@ -65,3 +65,5 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-18] | [pagina:: 91] | [obs:: Okay isso aqui está muito bom mesmo. Pode ser pela vibe mas a descrição do Tom King ta funcionamento muito bem, talvez por serem máquinas digamos case bem e está deveras interesante toda trama]
+> - [data:: 2026-09-19] | [pagina:: 272] | [obs:: Cara fenomenal isso aqui hein, leitura ótima, personagens ótimos, Virgina pra mim foi a MVP, personagem tão complexo e interessante e a despedida dela foi incrível "Você salvou o mundo 37 vezes, eu salvei uma, foi legal" Visão dai replicando "Não, foi gentil" cara que cena, pena que Tom King perde pelo jeito tão a mão em mulher maravilha. Em Supergirl eu achei os dialogo narrados muito chatos, aqui não senti tanto isso]

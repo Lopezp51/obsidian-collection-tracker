@@ -1,36 +1,35 @@
 ---
 Situação: Desejado
 Data de Publicação: 2025-12-01
-Coleção: 
+Coleção:
 Páginas: 480
 Formato:
 Editora:
 Roteiro: []
 Arte: []
 Cores: []
-valor: 0.0
+valor: 0
 Processado em: 2026-03-15
-Data de Entrega: null
+Data de Entrega:
 Chegou: false
 Favorito: false
 Status de Leitura: Não Iniciado
-Última Leitura: null
+Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
-Pegar em promoção: false
+Pegar em promoção: true
 Assinatura: false
 Colocado no saquinho:
 imagem: Banco de Imagens/Livros/Dados & Dragões - A história épica de Dungeons & Dragons.jpg
 tags:
   - Quadrinho
-
 Tipo: Livro
 Universo: Indie
-Planejo pegar em: null
+Planejo pegar em:
 Equipe Criativa Geral:
-- Premeet Sidhu (Autor)
-- Marcus Carter (Autor)
-- José P. Zagal (Autor)
+  - Premeet Sidhu (Autor)
+  - Marcus Carter (Autor)
+  - José P. Zagal (Autor)
 ---
 
 > [!bookbox]

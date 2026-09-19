@@ -20,12 +20,13 @@ Status de Leitura: Não Iniciado
 Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
-Pegar em promoção: false
+Pegar em promoção: true
 Assinatura: false
 Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/Watchmen - Edição Absoluta.webp
 tags:
   - Quadrinho
+Planejo pegar em: 2027-03-01
 ---
 
 > [!bookbox]

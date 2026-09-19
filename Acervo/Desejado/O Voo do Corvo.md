@@ -1,29 +1,28 @@
 ---
 Situação: Desejado
 Data de Publicação: 2023-11-27
-Coleção: 
-Páginas: null
+Coleção:
+Páginas:
 Formato:
 Editora:
 Roteiro: []
 Arte: []
 Cores: []
-valor: 0.0
+valor: 0
 Processado em: 2026-01-24
-Data de Entrega: null
+Data de Entrega:
 Chegou: false
 Favorito: false
 Status de Leitura: Não Iniciado
-Última Leitura: null
+Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
-Pegar em promoção: false
+Pegar em promoção: true
 Assinatura: false
 Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/O Voo do Corvo.jpg
 tags:
   - Quadrinho
-
 Tipo: Quadrinho
 Universo: Indie
 Planejo pegar em: 2026-04-01

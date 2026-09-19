@@ -1,30 +1,27 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-10-31
+Situação: Finalizado
+Favorito: false
+Avaliação: 0
+Última Leitura:
+Status de Leitura: Não Iniciado
+Processado em: 2026-09-10
+Data de Entrega: 2026-09-16
+Chegou: true
+Data de Publicação: 2026-09-10
 Coleção:
-Páginas: 48
+  - Sem Limites
 Formato:
-  - Capa Cartão
+  - Grampo
 Editora:
-  - Marvel
   - DC
   - Panini
+valor: 11.4
+Páginas: 24
+Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
-valor:
-Processado em:
-Data de Entrega:
-Chegou: false
-Favorito: false
-Status de Leitura: Não Iniciado
-Última Leitura:
-Avaliação: 0
-Vezes que Li: 0
-Pegar em promoção: false
-Assinatura: false
-Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/LJA e Vingadores 02.webp
+imagem: Banco de Imagens/HQ's/Batman∕Superman - Os Melhores Do Mundo (2025) 10.webp
 tags:
   - Quadrinho
 ---

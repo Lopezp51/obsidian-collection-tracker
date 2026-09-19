@@ -1,32 +1,31 @@
 ---
 Situação: Desejado
 Data de Publicação: 2025-07-04
-Coleção: 
+Coleção:
 Páginas: 152
 Formato:
 Editora:
 Roteiro: []
 Arte: []
 Cores: []
-valor: 0.0
+valor: 0
 Processado em: 2026-04-04
-Data de Entrega: null
+Data de Entrega:
 Chegou: false
 Favorito: false
 Status de Leitura: Não Iniciado
-Última Leitura: null
+Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
-Pegar em promoção: false
+Pegar em promoção: true
 Assinatura: false
 Colocado no saquinho:
 imagem: Banco de Imagens/HQ's/Tenebrosa – Graphic Novel.jpg
 tags:
   - Quadrinho
-
 Tipo: Quadrinho
-Universo: null
-Planejo pegar em: null
+Universo:
+Planejo pegar em:
 ---
 
 > [!bookbox]
