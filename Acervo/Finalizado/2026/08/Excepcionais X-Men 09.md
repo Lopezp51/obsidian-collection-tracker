@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Lendo
+Avaliação: 2
+Última Leitura: 2026-09-29
+Status de Leitura: Lido
 Processado em: 2026-08-04
 Data de Entrega: 2026-08-19
 Chegou: true
@@ -17,7 +17,7 @@ Editora:
   - Marvel
 valor: 11.94
 Páginas: 48
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro: []
 Arte: []
 Cores: []
@@ -75,3 +75,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-29] | [pagina:: 48] | [obs:: Mediocre tanto X-Factor como o do time da Kitty, bem fraco e rushado]

@@ -4,14 +4,14 @@ Processado em: 2026-04-02
 Situação: Finalizado
 Data de Entrega: 2026-04-18
 Chegou: true
-Status de Leitura: Lendo
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 192
 valor: 23.03
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/Mangas/Demon Slayer - Kimetsu No Yaiba Vol. 18.jpg
-Última Leitura:
+Última Leitura: 2026-09-27
 Data de Publicação: 2021-07-01
 Nexo:
   - Manga
@@ -69,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-27] | [pagina:: 192] | [obs:: Irado demais ver o final da luta do Akaza no manga e começarmos o conteudo novo que eu não vi, a Kanoa e o Inosuke tão mandando bem demais, e o momento com a mãe do Inosuke foi triste e bonito de ver o amor que ela tinha pelo filho]

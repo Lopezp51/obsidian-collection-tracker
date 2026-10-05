@@ -3,7 +3,7 @@ Situação: Finalizado
 Favorito: false
 Avaliação: 0
 Última Leitura:
-Status de Leitura: Não Iniciado
+Status de Leitura: Lendo
 Processado em: 2026-08-20
 Data de Entrega: 2026-09-04
 Chegou: true

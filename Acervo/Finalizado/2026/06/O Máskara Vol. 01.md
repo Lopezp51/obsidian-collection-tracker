@@ -3,15 +3,15 @@ Processado em: 2026-05-25
 Situação: Finalizado
 Data de Entrega: 2026-06-03
 Chegou: true
-Status de Leitura: Lendo
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 380
 valor: 104.93
 Favorito: false
-Avaliação: 0
+Avaliação: 4
 imagem: Banco de Imagens/HQ's/O Máskara.jpg
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-09-26
 Data de Publicação: 2020-04-13
 Universo: Pipoca e Nanquim
 Planejo pegar em: 2026-04-01
@@ -70,3 +70,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-26] | [pagina:: 380] | [obs:: Bem divertido a leitura e a dinamica das pessoas que acabam usando a máscara e como ela sempre vai comrromper o usuário, apensar do filme ter seu grande charme, é legal ver a origem do Big Head]

@@ -1,21 +1,20 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-09-30
+Situação: Finalizado
+Data de Publicação: 2026-09-09
 Coleção:
-  - X-Men
-Páginas: 48
+  - Universo Energon
+Páginas: 128
 Formato:
-  - Grampo
+  - Capa Cartão
 Editora:
-  - DC
   - Panini
 Roteiro: []
 Arte: []
 Cores: []
-valor:
-Processado em:
-Data de Entrega:
-Chegou: false
+valor: 24.91
+Processado em: 2026-09-09
+Data de Entrega: 2026-10-05
+Chegou: true
 Favorito: false
 Status de Leitura: Não Iniciado
 Última Leitura:
@@ -24,7 +23,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Os Fabulosos X-Men (2025) 15.webp
+imagem: Banco de Imagens/HQ's/Universo Energon 07 ∣ Scarlett - Missão Especial.webp
 tags:
   - Quadrinho
 ---

@@ -14,7 +14,7 @@ Arte:
   - Hirohiko Araki
 Cores: []
 valor: 37.52
-Processado em:
+Processado em: 2026-10-02
 Data de Entrega:
 Chegou: false
 Favorito: false

@@ -4,7 +4,7 @@ Favorito: false
 Avaliação: 0
 Última Leitura:
 Status de Leitura: Não Iniciado
-Processado em: 2026-09-18
+Processado em: 2026-09-28
 Data de Entrega:
 Chegou: false
 Data de Publicação: 2026-09-18

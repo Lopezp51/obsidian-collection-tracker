@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Lendo
+Avaliação: 4
+Última Leitura: 2026-09-29
+Status de Leitura: Lido
 Processado em: 2026-08-04
 Data de Entrega: 2026-09-04
 Chegou: true
@@ -75,3 +75,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-29] | [pagina:: 48] | [obs:: Fazia tempo que eu não gostava de uma edição dos X-Men eu acho, tanto a o time da Vampira quanto do Ciclope foram boas as histórias dessa vez, curti ver um pouco do passado do Gambit, mesmo que pudesse ser aumentado eu acho. E to curioso pra ver o que aconteceu com o Quentin, gosto dele, tomara que não morra.]

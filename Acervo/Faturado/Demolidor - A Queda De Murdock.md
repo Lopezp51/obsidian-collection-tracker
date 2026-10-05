@@ -14,7 +14,7 @@ Roteiro: []
 Arte: []
 Cores: []
 valor: 68.63
-Processado em:
+Processado em: 2026-10-02
 Data de Entrega:
 Chegou: false
 Favorito: false

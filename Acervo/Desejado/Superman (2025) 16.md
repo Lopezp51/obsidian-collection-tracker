@@ -1,9 +1,9 @@
 ---
 Situação: Desejado
-Data de Publicação: 2026-09-30
+Data de Publicação: 2026-12-31
 Coleção:
-  - Universo Absolute
-  - Mulher-Maravilha
+  - Sem Limites
+  - Superman
 Páginas: 48
 Formato:
   - Grampo
@@ -13,7 +13,7 @@ Editora:
 Roteiro: []
 Arte: []
 Cores: []
-valor: 14.77
+valor:
 Processado em:
 Data de Entrega:
 Chegou: false
@@ -25,7 +25,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Absolute Mulher-Maravilha 06.webp
+imagem: Banco de Imagens/HQ's e Mangas/Superman (2025) 16.webp
 tags:
   - Quadrinho
 ---

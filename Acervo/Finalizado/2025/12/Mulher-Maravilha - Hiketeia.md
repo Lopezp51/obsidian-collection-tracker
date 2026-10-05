@@ -3,7 +3,7 @@ Processado em: 2025-12-23
 Situação: Finalizado
 Data de Entrega: 2025-12-27
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lendo
 Vezes que Li: 0
 Páginas: 128
 valor: 47.9
@@ -11,13 +11,13 @@ Favorito: false
 Avaliação: 0
 imagem: Banco de Imagens/HQ's/Mulher-Maravilha - Hiketeia.webp
 Tipo: Quadrinho
-Última Leitura: null
+Última Leitura:
 Data de Publicação: 2025-02-01
 Universo: DC
 Nexo:
-- Quadrinho
-- Mulher-Maravilha
-- Panini
+  - Quadrinho
+  - Mulher-Maravilha
+  - Panini
 ---
 
 > [!bookbox]

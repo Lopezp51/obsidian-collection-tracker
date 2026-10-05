@@ -1,29 +1,27 @@
 ---
-Situação: Pré Venda
+Situação: Finalizado
 Favorito: false
 Avaliação: 0
 Última Leitura:
 Status de Leitura: Não Iniciado
-Processado em: 2026-09-25
-Data de Entrega:
-Chegou: false
-Data de Publicação: 2026-07-27
+Processado em: 2026-08-28
+Data de Entrega: 2026-10-05
+Chegou: true
+Data de Publicação: 2026-08-28
 Coleção:
-  - Superman
-  - Homem-Aranha
+  - Universo Absolute
 Formato:
-  - Capa Cartão
+  - Grampo
 Editora:
   - DC
-  - Marvel
   - Panini
-valor: 26.7
-Páginas: 64
+valor: 14.77
+Páginas: 48
 Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
-imagem: Banco de Imagens/HQ's/Superman E Homem-Aranha (Encontros Clássicos Marvel E DC).webp
+imagem: Banco de Imagens/HQ's/Absolute Superman 06.webp
 tags:
   - Quadrinho
 ---

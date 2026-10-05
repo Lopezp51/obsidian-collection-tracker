@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Lendo
+Avaliação: 3
+Última Leitura: 2026-09-19
+Status de Leitura: Lido
 Processado em: 2026-08-19
 Data de Entrega: 2026-08-26
 Chegou: true
@@ -17,7 +17,7 @@ Editora:
   - Marvel
 valor: 30.53
 Páginas: 112
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro: []
 Arte: []
 Cores: []
@@ -75,3 +75,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-20] | [pagina:: 112] | [obs:: Achei mediano, a aluna da Wanda não me desceu bem, até agora não entendi porque ela foi roubar um fucking cajado pra deter a Gata Negra??? E ainda abandonou a Wanda, arte tbm tava okay, de algumas capas estavam muito boas]

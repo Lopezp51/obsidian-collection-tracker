@@ -1,18 +1,17 @@
 ---
 Equipe Criativa Geral: Koyoharu Gotouge
-
 Processado em: 2026-04-02
 Situação: Finalizado
 Data de Entrega: 2026-04-18
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 192
 valor: 23.03
 Favorito: false
-Avaliação: 0
+Avaliação: 4.5
 imagem: Banco de Imagens/Mangas/Demon Slayer - Kimetsu No Yaiba Vol. 22.jpg
-Última Leitura: 
+Última Leitura: 2026-10-04
 Data de Publicação: 2021-11-01
 Nexo:
   - Manga
@@ -70,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-10-04] | [pagina:: 192] | [obs:: Não tinha me tocado do cabelo branco dele, achei que era pela nova forma só, mas a Tamayo ferrou com ele de um jeito kkkkkk todo mundo ta se ferrando de mais, mas quando vi a lamina do Insosuke na página já me veio a mente "Bem vindo deus da montanha" bom ver ele de volta e sinto que a Nezuko não vai fazer nada relevante, espero estar errado]

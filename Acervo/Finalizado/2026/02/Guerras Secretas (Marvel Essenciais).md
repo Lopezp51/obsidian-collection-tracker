@@ -3,7 +3,7 @@ Processado em: 2026-02-02
 Situação: Finalizado
 Data de Entrega: 2026-02-13
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lendo
 Vezes que Li: 0
 Páginas: 344
 valor: 100.97
@@ -65,3 +65,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-10-04] | [pagina:: 31] | [obs:: Tem algo muito chamativo pra mim em toda essa estética dos quadrinhos antigos, algumas coisas são tão bobas que eu amo demais]

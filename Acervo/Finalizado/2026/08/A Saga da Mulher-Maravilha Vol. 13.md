@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Lendo
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-10-04
+Status de Leitura: Lido
 Processado em: 2026-08-19
 Data de Entrega: 2026-08-26
 Chegou: true
@@ -18,7 +18,7 @@ Editora:
   - DC
 valor: 38.8
 Páginas: 144
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro:
   - Greg Rucka
 Arte:
@@ -80,3 +80,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-10-04] | [pagina:: 144] | [obs:: Terminamos uma fase incrível, e tem um tom triste de fim, Diana falhou em sua missão, perdeu o contato com suas irmãs, seus desuses, mas ela ainda tem a esperança, e essa mesma esperança respinga nas pessoas a sua volta, muito lindo. Também no final teve um pouco da noite mais densa, que fiquei curioso de ler.]

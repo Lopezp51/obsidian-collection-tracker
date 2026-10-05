@@ -1,20 +1,22 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-09-30
+Situação: Finalizado
+Data de Publicação: 2026-09-22
 Coleção:
-  - Universo Energon
-Páginas: 128
+  - Universo Absolute
+  - Mulher-Maravilha
+Páginas: 48
 Formato:
-  - Capa Cartão
+  - Grampo
 Editora:
+  - DC
   - Panini
 Roteiro: []
 Arte: []
 Cores: []
-valor: 24.91
-Processado em:
-Data de Entrega:
-Chegou: false
+valor: 14.77
+Processado em: 2026-09-28
+Data de Entrega: 2026-10-05
+Chegou: true
 Favorito: false
 Status de Leitura: Não Iniciado
 Última Leitura:
@@ -23,7 +25,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Universo Energon 07 ∣ Scarlett - Missão Especial.webp
+imagem: Banco de Imagens/HQ's/Absolute Mulher-Maravilha 06.webp
 tags:
   - Quadrinho
 ---

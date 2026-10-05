@@ -1,6 +1,6 @@
 ---
 Situação: Faturado
-Data de Publicação: 2026-08-31
+Data de Publicação: 2026-09-14
 Coleção:
   - Crise Nas Infinitas Terras
 Páginas: 224
@@ -13,7 +13,7 @@ Roteiro: []
 Arte: []
 Cores: []
 valor: 59.78
-Processado em:
+Processado em: 2026-09-14
 Data de Entrega:
 Chegou: false
 Favorito: false

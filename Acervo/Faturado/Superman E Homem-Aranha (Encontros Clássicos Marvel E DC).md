@@ -1,31 +1,29 @@
 ---
 Situação: Faturado
-Data de Publicação: 2026-05-29
+Favorito: false
+Avaliação: 0
+Última Leitura:
+Status de Leitura: Não Iniciado
+Processado em: 2026-09-30
+Data de Entrega:
+Chegou: false
+Data de Publicação: 2026-09-22
 Coleção:
-  - Universo Ultimate
-  - Wolverine
-Páginas: 152
+  - Superman
+  - Homem-Aranha
 Formato:
   - Capa Cartão
 Editora:
+  - DC
   - Marvel
   - Panini
+valor: 26.7
+Páginas: 64
+Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
-valor: 24.83
-Processado em: 2026-10-02
-Data de Entrega:
-Chegou: false
-Favorito: false
-Status de Leitura: Não Iniciado
-Última Leitura:
-Avaliação: 0
-Vezes que Li: 0
-Pegar em promoção: false
-Assinatura: false
-Colocado no saquinho:
-imagem: Banco de Imagens/HQ's e Mangas/Ultimate Wolverine Vol. 01.webp
+imagem: Banco de Imagens/HQ's/Superman E Homem-Aranha (Encontros Clássicos Marvel E DC).webp
 tags:
   - Quadrinho
 ---

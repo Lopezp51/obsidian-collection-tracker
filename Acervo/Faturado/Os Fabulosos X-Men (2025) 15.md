@@ -1,19 +1,19 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-10-30
+Situação: Faturado
+Data de Publicação: 2026-09-22
 Coleção:
   - X-Men
 Páginas: 48
 Formato:
   - Grampo
 Editora:
-  - Marvel
+  - DC
   - Panini
 Roteiro: []
 Arte: []
 Cores: []
 valor:
-Processado em:
+Processado em: 2026-09-22
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -24,7 +24,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Excepcionais X-Men 12.webp
+imagem: Banco de Imagens/HQ's/Os Fabulosos X-Men (2025) 15.webp
 tags:
   - Quadrinho
 ---

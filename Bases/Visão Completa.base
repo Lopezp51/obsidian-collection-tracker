@@ -23,10 +23,10 @@ views:
       - file.name
       - file.ctime
     sort:
+      - property: file.name
+        direction: DESC
       - property: file.ctime
         direction: DESC
-      - property: file.name
-        direction: ASC
     columnSize:
       file.name: 357
     image: note.imagem

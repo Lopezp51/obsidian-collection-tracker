@@ -1,20 +1,22 @@
 ---
 Situação: Faturado
-Data de Publicação: 2026-05-29
+Data de Publicação: 2026-09-30
 Coleção:
   - Universo Ultimate
-  - Wolverine
-Páginas: 152
+Páginas: 151
 Formato:
   - Capa Cartão
 Editora:
   - Marvel
   - Panini
-Roteiro: []
-Arte: []
-Cores: []
-valor: 24.83
-Processado em: 2026-10-02
+Roteiro:
+  - Peach Momoko
+Arte:
+  - Peach Momoko
+Cores:
+  - Peach Momoko
+valor: 36.64
+Processado em: 2026-09-30
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -25,7 +27,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's e Mangas/Ultimate Wolverine Vol. 01.webp
+imagem: Banco de Imagens/HQ's/Ultimate X-Men Vol. 3.webp
 tags:
   - Quadrinho
 ---

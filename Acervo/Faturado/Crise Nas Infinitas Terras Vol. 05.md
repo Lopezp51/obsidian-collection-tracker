@@ -1,20 +1,19 @@
 ---
 Situação: Faturado
-Data de Publicação: 2026-05-29
+Data de Publicação: 2026-09-22
 Coleção:
-  - Universo Ultimate
-  - Wolverine
-Páginas: 152
+  - Crise Nas Infinitas Terras
+Páginas: 208
 Formato:
   - Capa Cartão
 Editora:
-  - Marvel
+  - DC
   - Panini
 Roteiro: []
 Arte: []
 Cores: []
-valor: 24.83
-Processado em: 2026-10-02
+valor: 59.78
+Processado em: 2026-09-22
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -23,9 +22,9 @@ Status de Leitura: Não Iniciado
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
-Assinatura: false
+Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's e Mangas/Ultimate Wolverine Vol. 01.webp
+imagem: Banco de Imagens/HQ's/Crise Nas Infinitas Terras Vol. 05.webp
 tags:
   - Quadrinho
 ---

@@ -1,28 +1,32 @@
 ---
-Situação: Faturado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em: 2026-09-11
-Data de Entrega:
-Chegou: false
-Data de Publicação: 2026-08-28
+Situação: Desejado
+Data de Publicação: 2026-12-31
 Coleção:
-  - Universo Absolute
-  - Lanterna Verde
+  - Sem Limites
+  - Batman
+  - Superman
+Páginas: 48
 Formato:
   - Grampo
 Editora:
   - DC
   - Panini
-valor: 19.05
-Páginas: 48
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
-imagem: Banco de Imagens/HQ's/Absolute Lanterna Verde 04.webp
+valor:
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: true
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's e Mangas/Batman∕Superman - Os Melhores Do Mundo (2025) 14.webp
 tags:
   - Quadrinho
 ---

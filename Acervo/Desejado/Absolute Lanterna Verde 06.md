@@ -1,8 +1,9 @@
 ---
 Situação: Desejado
-Data de Publicação: 2026-09-30
+Data de Publicação: 2026-12-31
 Coleção:
   - Universo Absolute
+  - Lanterna Verde
 Páginas: 48
 Formato:
   - Grampo
@@ -24,7 +25,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Absolute Caçador De Marte 05.webp
+imagem: Banco de Imagens/HQ's e Mangas/Absolute Lanterna Verde 06.webp
 tags:
   - Quadrinho
 ---

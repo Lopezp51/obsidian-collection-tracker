@@ -1,19 +1,17 @@
 ---
-Situação: Faturado
-Data de Publicação: 2026-09-10
+Situação: Desejado
+Data de Publicação: 2026-12-31
 Coleção:
-  - X-Men
-Páginas: 48
+Páginas: 232
 Formato:
-  - Grampo
+  - Tankobon
 Editora:
-  - Marvel
   - Panini
 Roteiro: []
 Arte: []
 Cores: []
-valor: 11.94
-Processado em: 2026-09-10
+valor:
+Processado em:
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -24,9 +22,9 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Os Fabulosos X-Men (2025) 14.webp
+imagem: Banco de Imagens/HQ's e Mangas/Jojo's Bizarre Adventure – Parte 8 – Jojolion Vol. 01.webp
 tags:
-  - Quadrinho
+  - Manga
 ---
 
 > [!bookbox]

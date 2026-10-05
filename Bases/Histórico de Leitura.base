@@ -1,6 +1,7 @@
 filters:
   and:
     - file.ext == "md"
+    - '!note["Última Leitura"].isEmpty()'
 formulas:
   Dias aguardando: |-
     if(note["Processado em"], 

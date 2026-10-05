@@ -1,18 +1,17 @@
 ---
 Equipe Criativa Geral: Koyoharu Gotouge
-
 Processado em: 2026-04-02
 Situação: Finalizado
 Data de Entrega: 2026-04-18
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 192
 valor: 23.03
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/Mangas/Demon Slayer - Kimetsu No Yaiba Vol. 21.jpg
-Última Leitura: 
+Última Leitura: 2026-10-04
 Data de Publicação: 2021-10-01
 Nexo:
   - Manga
@@ -70,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-10-04] | [pagina:: 192] | [obs:: A cena final com o Yoriichi segurando a ancestral da Tanjiro e chorando foi lindo, ele nunca teve paz em sua vida. Fico feliz que Nezuko finalmente acordou e ta indo em direção do Tanjiro, to curioso pra ver quais dos Hashira vão sobreviver]

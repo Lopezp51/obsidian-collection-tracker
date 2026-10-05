@@ -1,18 +1,17 @@
 ---
 Equipe Criativa Geral: Koyoharu Gotouge
-
 Processado em: 2026-04-02
 Situação: Finalizado
 Data de Entrega: 2026-04-18
 Chegou: true
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 232
 valor: 23.03
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/Mangas/Demon Slayer - Kimetsu No Yaiba Vol. 23.jpg
-Última Leitura: 
+Última Leitura: 2026-10-04
 Data de Publicação: 2021-12-01
 Nexo:
   - Manga
@@ -70,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-10-04] | [pagina:: 232] | [obs:: O plano do Muzon foi completamente parado, foi tão bom ver que a maldade dele não pendurou no mundo. Ver que Tanjiro e Nezuko puderem ter vidas felizes me aquece o coração, e que na reencarnação, as pessoas puderem ser felizes dessa vez, a obra foi maravilhosa e amei sua conclusão]

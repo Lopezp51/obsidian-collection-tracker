@@ -1,9 +1,8 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-09-30
+Situação: Faturado
+Data de Publicação: 2026-09-25
 Coleção:
-  - Sem Limites
-  - Liga da Justiça
+  - Universo Absolute
 Páginas: 48
 Formato:
   - Grampo
@@ -14,7 +13,7 @@ Roteiro: []
 Arte: []
 Cores: []
 valor:
-Processado em:
+Processado em: 2026-09-25
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -25,7 +24,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Liga Da Justiça Sem Limites (2025) 13.webp
+imagem: Banco de Imagens/HQ's/Absolute Caçador De Marte 05.webp
 tags:
   - Quadrinho
 ---

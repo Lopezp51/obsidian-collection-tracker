@@ -1,33 +1,27 @@
 ---
-Situação: Pré Venda
-Data de Publicação: 2026-09-30
-Coleção:
-  - Universo Ultimate
-Páginas: 151
-Formato:
-  - Capa Cartão
-Editora:
-  - Marvel
-  - Panini
-Roteiro:
-  - Peach Momoko
-Arte:
-  - Peach Momoko
-Cores:
-  - Peach Momoko
-valor: 36.64
-Processado em: 2026-09-30
-Data de Entrega:
-Chegou: false
+Situação: Finalizado
 Favorito: false
-Status de Leitura: Não Iniciado
-Última Leitura:
 Avaliação: 0
+Última Leitura:
+Status de Leitura: Não Iniciado
+Processado em: 2026-09-01
+Data de Entrega: 2026-10-05
+Chegou: true
+Data de Publicação: 2026-09-01
+Coleção:
+  - Sem Limites
+Formato:
+  - Grampo
+Editora:
+  - DC
+  - Panini
+valor: 14.02
+Páginas: 48
 Vezes que Li: 0
-Pegar em promoção: false
-Assinatura: false
-Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Ultimate X-Men Vol. 3.webp
+Roteiro: []
+Arte: []
+Cores: []
+imagem: Banco de Imagens/HQ's/Liga Da Justiça Sem Limites (2025) 12.webp
 tags:
   - Quadrinho
 ---

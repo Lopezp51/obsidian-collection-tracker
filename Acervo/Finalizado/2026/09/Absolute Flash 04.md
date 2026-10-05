@@ -1,31 +1,27 @@
 ---
-Situação: Faturado
-Data de Publicação: 2026-05-29
+Situação: Finalizado
+Favorito: false
+Avaliação: 0
+Última Leitura:
+Status de Leitura: Lendo
+Processado em: 2026-09-11
+Data de Entrega: 2026-09-21
+Chegou: true
+Data de Publicação: 2026-08-28
 Coleção:
-  - Universo Ultimate
-  - Wolverine
-Páginas: 152
+  - Universo Absolute
 Formato:
-  - Capa Cartão
+  - Grampo
 Editora:
-  - Marvel
+  - DC
   - Panini
+valor: 19.05
+Páginas: 48
+Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
-valor: 24.83
-Processado em: 2026-10-02
-Data de Entrega:
-Chegou: false
-Favorito: false
-Status de Leitura: Não Iniciado
-Última Leitura:
-Avaliação: 0
-Vezes que Li: 0
-Pegar em promoção: false
-Assinatura: false
-Colocado no saquinho:
-imagem: Banco de Imagens/HQ's e Mangas/Ultimate Wolverine Vol. 01.webp
+imagem: Banco de Imagens/HQ's/Absolute Flash 04.webp
 tags:
   - Quadrinho
 ---

@@ -1,18 +1,19 @@
 ---
 Situação: Desejado
-Data de Publicação: 2026-09-30
+Data de Publicação: 2026-12-31
 Coleção:
-  - Crise Nas Infinitas Terras
-Páginas: 208
+  - Mulher-Maravilha
+  - Sem Limites
+Páginas: 48
 Formato:
-  - Capa Cartão
+  - Grampo
 Editora:
   - DC
   - Panini
 Roteiro: []
 Arte: []
 Cores: []
-valor: 59.78
+valor:
 Processado em:
 Data de Entrega:
 Chegou: false
@@ -24,7 +25,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Crise Nas Infinitas Terras Vol. 05.webp
+imagem: Banco de Imagens/HQ's e Mangas/Mulher-Maravilha∕Flash (2025) 16.webp
 tags:
   - Quadrinho
 ---

@@ -4,14 +4,14 @@ Processado em: 2026-04-02
 Situação: Finalizado
 Data de Entrega: 2026-04-18
 Chegou: true
-Status de Leitura: Lendo
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 192
 valor: 23.03
 Favorito: false
-Avaliação: 0
+Avaliação: 4.5
 imagem: Banco de Imagens/Mangas/Demon Slayer - Kimetsu No Yaiba Vol. 17.jpg
-Última Leitura:
+Última Leitura: 2026-09-26
 Data de Publicação: 2021-06-01
 Nexo:
   - Manga
@@ -69,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-26] | [pagina:: 192] | [obs:: Botar a música do Akaza pra ouvir durante a luta é irado, estou no hype que mais um volume e começa a ver coisas novas hehehe]

@@ -1,20 +1,24 @@
 ---
 Situação: Faturado
-Data de Publicação: 2026-05-29
+Data de Publicação: 2026-10-01
 Coleção:
   - Universo Ultimate
-  - Wolverine
-Páginas: 152
+  - Homem-Aranha
+Páginas: 176
 Formato:
   - Capa Cartão
 Editora:
   - Marvel
   - Panini
-Roteiro: []
-Arte: []
-Cores: []
-valor: 24.83
-Processado em: 2026-10-02
+Roteiro:
+  - Jonathan Hickman
+Arte:
+  - Marco Checchetto
+  - David Messina
+Cores:
+  - Matthew Wilson
+valor: 45.82
+Processado em: 2026-10-01
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -25,7 +29,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's e Mangas/Ultimate Wolverine Vol. 01.webp
+imagem: Banco de Imagens/HQ's/Ultimate Homem-Aranha (2024) Vol. 4.webp
 tags:
   - Quadrinho
 ---

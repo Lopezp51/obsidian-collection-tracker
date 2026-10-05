@@ -1,18 +1,17 @@
 ---
 Equipe Criativa Geral: Koyoharu Gotouge
-
 Processado em: 2026-04-02
 Situação: Finalizado
 Data de Entrega: 2026-04-18
 Chegou: true
-Status de Leitura: Não Iniciado
+Status de Leitura: Lido
 Vezes que Li: 0
 Páginas: 192
 valor: 23.03
 Favorito: false
-Avaliação: 0
+Avaliação: 4
 imagem: Banco de Imagens/Mangas/Demon Slayer - Kimetsu No Yaiba Vol. 20.jpg
-Última Leitura: 
+Última Leitura: 2026-10-04
 Data de Publicação: 2021-09-01
 Nexo:
   - Manga
@@ -70,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-10-04] | [pagina:: 192] | [obs:: Vimos o passado do lua superior um, eu já tinha a noção que ele era o irmão gemeo do primeiro portador que o Gui tinha comentado, a luta dele com os 4 caçadores animada vai ser irada. Eu to curioso com o que vai acontecer ainda, pq n achei que ele fosse morrer já, desse modo acho que só resta a lua superior quatro e o Muzan]

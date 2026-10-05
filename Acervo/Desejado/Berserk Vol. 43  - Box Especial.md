@@ -1,20 +1,17 @@
 ---
-Situação: Faturado
-Data de Publicação: 2026-05-29
+Situação: Desejado
+Data de Publicação: 2026-12-31
 Coleção:
-  - Universo Ultimate
-  - Wolverine
-Páginas: 152
+Páginas: 208
 Formato:
-  - Capa Cartão
+  - Tankobon
 Editora:
-  - Marvel
   - Panini
 Roteiro: []
 Arte: []
 Cores: []
-valor: 24.83
-Processado em: 2026-10-02
+valor:
+Processado em:
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -25,9 +22,9 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's e Mangas/Ultimate Wolverine Vol. 01.webp
+imagem: Banco de Imagens/HQ's e Mangas/Berserk Vol. 43  - Box Especial.webp
 tags:
-  - Quadrinho
+  - Manga
 ---
 
 > [!bookbox]

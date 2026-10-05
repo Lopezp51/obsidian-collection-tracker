@@ -14,7 +14,7 @@ Arte:
   - Hirohiko Araki
 Cores: []
 valor: 37.52
-Processado em:
+Processado em: 2026-10-02
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -25,7 +25,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: "Banco de Imagens/HQ's e Mangas/Jojo's Bizarre Adventure – Parte 3 – Stardust Crusaders Vol. 10.webp"
+imagem: Banco de Imagens/HQ's e Mangas/Jojo's Bizarre Adventure – Parte 3 – Stardust Crusaders Vol. 10.webp
 tags:
   - Manga
 ---

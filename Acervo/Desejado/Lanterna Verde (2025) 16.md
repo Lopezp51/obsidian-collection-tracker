@@ -1,27 +1,31 @@
 ---
-Situação: Faturado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em: 2026-08-28
-Data de Entrega:
-Chegou: false
-Data de Publicação: 2026-08-28
+Situação: Desejado
+Data de Publicação: 2026-12-31
 Coleção:
-  - Universo Absolute
+  - Lanterna Verde
+  - Sem Limites
+Páginas: 48
 Formato:
   - Grampo
 Editora:
   - DC
   - Panini
-valor: 14.77
-Páginas: 48
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
-imagem: Banco de Imagens/HQ's/Absolute Superman 06.webp
+valor:
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: true
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's e Mangas/Lanterna Verde (2025) 16.webp
 tags:
   - Quadrinho
 ---

@@ -1,31 +1,27 @@
 ---
-Situação: Desejado
+Situação: Finalizado
+Favorito: false
+Avaliação: 0
+Última Leitura:
+Status de Leitura: Não Iniciado
+Processado em: 2026-08-31
+Data de Entrega: 2026-10-05
+Chegou: true
 Data de Publicação: 2026-09-30
 Coleção:
-  - Universo Absolute
-  - Batman
-Páginas: 48
+  - X-Men
 Formato:
-  - Grampo
+  - Capa Cartão
 Editora:
-  - DC
+  - Marvel
   - Panini
+valor: 11.94
+Páginas: 56
+Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
-valor: 14.77
-Processado em:
-Data de Entrega:
-Chegou: false
-Favorito: false
-Status de Leitura: Não Iniciado
-Última Leitura:
-Avaliação: 0
-Vezes que Li: 0
-Pegar em promoção: false
-Assinatura: true
-Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Absolute Batman 07.webp
+imagem: Banco de Imagens/HQ's/Excepcionais X-Men 11 (2025).webp
 tags:
   - Quadrinho
 ---

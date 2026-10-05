@@ -3,18 +3,18 @@ Processado em: 2026-06-25
 Situação: Finalizado
 Data de Entrega: 2026-07-01
 Chegou: true
-Status de Leitura: Lendo
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 194
 valor: 37.99
 Favorito: false
-Avaliação: 0
+Avaliação: 4
 imagem: Banco de Imagens/Mangas/Frieren E A Jornada Para O Além Vol. 15.webp
 Nexo:
   - Frieren e a Jornada para o Além
   - Manga
   - Panini
-Última Leitura:
+Última Leitura: 2026-09-24
 Data de Publicação: 2026-06-26
 Universo: Manga
 Planejo pegar em:
@@ -69,3 +69,5 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-21] | [pagina:: 59] | [obs:: Leitura gostosa, mas senti que teve mais texto nesses capitulos, parece que levei uns 30 a 40 minutos e li muito pouco, mas to gostoso a leitura, mas parece que vai dar merda no baile com toda certeza aquela elfa vai morrer]
+> - [data:: 2026-09-24] | [pagina:: 194] | [obs:: Curioso pra ver se a elfa vai morrer mesmo, a Frieren apareceu bem pouco nesse volume, eu diria que o começo dele foi bem gostoso de ler, mas depois começou a ficar sério kkkkkk]

@@ -23,7 +23,7 @@ Arte:
 Cores:
   - Glenn Whitmore
 valor: 36.64
-Processado em: 2026-09-30
+Processado em: 2026-10-09
 Data de Entrega:
 Chegou: false
 Favorito: false

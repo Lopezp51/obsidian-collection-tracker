@@ -1,19 +1,19 @@
 ---
 Situação: Faturado
-Data de Publicação: 2026-05-29
+Data de Publicação: 2026-09-28
 Coleção:
-  - Universo Ultimate
-  - Wolverine
-Páginas: 152
+  - Universo Absolute
+  - Batman
+Páginas: 48
 Formato:
-  - Capa Cartão
+  - Grampo
 Editora:
-  - Marvel
+  - DC
   - Panini
 Roteiro: []
 Arte: []
 Cores: []
-valor: 24.83
+valor: 14.77
 Processado em: 2026-10-02
 Data de Entrega:
 Chegou: false
@@ -23,9 +23,9 @@ Status de Leitura: Não Iniciado
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
-Assinatura: false
+Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's e Mangas/Ultimate Wolverine Vol. 01.webp
+imagem: Banco de Imagens/HQ's/Absolute Batman 07.webp
 tags:
   - Quadrinho
 ---

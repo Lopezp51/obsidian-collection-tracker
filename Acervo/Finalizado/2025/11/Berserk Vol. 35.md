@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Lendo
+Avaliação: 4.5
+Última Leitura: 2026-10-03
+Status de Leitura: Lido
 Processado em: 2025-11-12
 Data de Entrega:
 Chegou: true
@@ -15,7 +15,7 @@ Editora:
   - Panini
 valor: 44.9
 Páginas: 216
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro:
   - Kentaro Miura
 Arte:
@@ -74,3 +74,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-10-03] | [pagina:: 216] | [obs:: Navio pirata foi doideira, mas ta dando pra ver o empacto que Griffth causou no mundo já, e espero que dessa vez o Guts consiga controlar a armadura]

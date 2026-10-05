@@ -4,14 +4,14 @@ Processado em: 2026-04-02
 Situação: Finalizado
 Data de Entrega: 2026-04-18
 Chegou: true
-Status de Leitura: Lendo
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 192
 valor: 23.03
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/Mangas/Demon Slayer - Kimetsu No Yaiba Vol. 19.jpg
-Última Leitura:
+Última Leitura: 2026-09-27
 Data de Publicação: 2021-08-01
 Nexo:
   - Manga
@@ -69,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-09-27] | [pagina:: 192] | [obs:: A quarta lua pelo jeito ta no começo a luta ainda, mas do primeira lua ta todo mundo levando um cacete, mas de questão do segunda, foi gostoso demais ver ele morrendo, e a luta teve seus sacrificios também, Kanao abriu mão do seu olho e Shinobu teve que se sacrificar, e ver ela e a irma dela no paraiso se reunindo com seus pais foi lindo. Luta contra o primeira luta ta insana]

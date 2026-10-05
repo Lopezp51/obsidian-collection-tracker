@@ -1,27 +1,31 @@
 ---
-Situação: Faturado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em: 2026-08-31
-Data de Entrega:
-Chegou: false
-Data de Publicação: 2026-09-30
+Situação: Desejado
+Data de Publicação: 2026-12-31
 Coleção:
-  - X-Men
+  - Sem Limites
+  - Liga da Justiça
+Páginas: 48
 Formato:
-  - Capa Cartão
+  - Grampo
 Editora:
-  - Marvel
+  - DC
   - Panini
-valor: 11.94
-Páginas: 56
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
-imagem: Banco de Imagens/HQ's/Excepcionais X-Men 11 (2025).webp
+valor:
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: true
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's e Mangas/Liga Da Justiça Sem Limites (2025) 16.webp
 tags:
   - Quadrinho
 ---

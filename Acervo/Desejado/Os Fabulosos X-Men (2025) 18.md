@@ -1,27 +1,28 @@
 ---
-Situação: Faturado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em: 2026-09-01
-Data de Entrega:
-Chegou: false
-Data de Publicação: 2026-09-01
+Situação: Desejado
+Data de Publicação: 2026-12-31
 Coleção:
-  - Sem Limites
+  - X-Men
+Páginas: 48
 Formato:
   - Grampo
 Editora:
-  - DC
-  - Panini
-valor: 14.02
-Páginas: 48
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
-imagem: Banco de Imagens/HQ's/Liga Da Justiça Sem Limites (2025) 12.webp
+valor:
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's e Mangas/Os Fabulosos X-Men (2025) 18.webp
 tags:
   - Quadrinho
 ---

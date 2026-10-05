@@ -1,6 +1,6 @@
 ---
-Situação: Pré Venda
-Data de Publicação: 2026-09-30
+Situação: Faturado
+Data de Publicação: 2026-10-01
 Coleção:
   - Universo Absolute
   - Batman
@@ -19,7 +19,7 @@ Cores:
   - Muntsa Vicente
   - Frank Martin
 valor: 19.05
-Processado em: 2026-09-30
+Processado em: 2026-10-01
 Data de Entrega:
 Chegou: false
 Favorito: false

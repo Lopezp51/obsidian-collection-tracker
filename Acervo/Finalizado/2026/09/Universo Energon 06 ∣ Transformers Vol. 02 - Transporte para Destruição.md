@@ -16,9 +16,9 @@ Processado em: 2026-08-20
 Data de Entrega: 2026-09-09
 Chegou: true
 Favorito: false
-Status de Leitura: Lendo
+Status de Leitura: Lido
 Última Leitura:
-Avaliação: 0
+Avaliação: 4.5
 Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
@@ -77,3 +77,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-10-02] | [pagina:: 136] | [obs:: Triste o que aconteceu com Cybertron e filho da mae do Ultra Magunus, mas também compreensível, anos sendo torutado, ele foi totalmente quebrado]

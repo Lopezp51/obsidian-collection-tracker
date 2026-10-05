@@ -1,27 +1,30 @@
 ---
 Situação: Faturado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em: 2026-09-11
-Data de Entrega:
-Chegou: false
-Data de Publicação: 2026-08-28
+Data de Publicação: 2026-09-25
 Coleção:
-  - Universo Absolute
+  - X-Men
+Páginas: 48
 Formato:
   - Grampo
 Editora:
-  - DC
+  - Marvel
   - Panini
-valor: 19.05
-Páginas: 48
-Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
-imagem: Banco de Imagens/HQ's/Absolute Flash 04.webp
+valor:
+Processado em: 2026-09-25
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: true
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's/Excepcionais X-Men 12.webp
 tags:
   - Quadrinho
 ---
