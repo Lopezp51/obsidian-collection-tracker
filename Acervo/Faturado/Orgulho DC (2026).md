@@ -1,19 +1,29 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-12-31
+Situação: Faturado
+Data de Publicação: 2026-09-30
 Coleção:
-  - X-Men
-Páginas: 48
+  - DC Pride
+Páginas: 96
 Formato:
-  - Grampo
+  - Capa Cartão
 Editora:
+  - DC
   - Panini
-  - Marvel
-Roteiro: []
-Arte: []
-Cores: []
-valor:
-Processado em:
+Roteiro:
+  - Josh Trujillo
+  - Sina Grace
+  - Tim Sheridan
+Arte:
+  - Don Aguillo
+  - Stephen Byrne
+  - Nicole Goux
+  - Kevin Wada
+Cores:
+  - Rex Lokus
+  - Stephen Byrne
+  - Don Aguillo
+valor: 28.23
+Processado em: 2026-10-06
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -22,9 +32,9 @@ Status de Leitura: Não Iniciado
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
-Assinatura: true
+Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's e Mangas/Excepcionais X-Men 14.webp
+imagem: Banco de Imagens/HQ's/Orgulho DC (2026).webp
 tags:
   - Quadrinho
 ---

@@ -1,30 +1,28 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-12-31
+Situação: Finalizado
+Favorito: false
+Avaliação: 0
+Última Leitura:
+Status de Leitura: Não Iniciado
+Processado em: 2026-09-28
+Data de Entrega: 2026-10-07
+Chegou: true
+Data de Publicação: 2026-09-18
 Coleção:
-  - X-Men
-Páginas: 48
+  - Sem Limites
+  - Mulher-Maravilha
 Formato:
   - Grampo
 Editora:
+  - DC
   - Panini
-  - Marvel
+valor: 15.22
+Páginas: 48
+Vezes que Li: 0
 Roteiro: []
 Arte: []
 Cores: []
-valor:
-Processado em:
-Data de Entrega:
-Chegou: false
-Favorito: false
-Status de Leitura: Não Iniciado
-Última Leitura:
-Avaliação: 0
-Vezes que Li: 0
-Pegar em promoção: false
-Assinatura: true
-Colocado no saquinho:
-imagem: Banco de Imagens/HQ's e Mangas/Excepcionais X-Men 14.webp
+imagem: Banco de Imagens/HQ's/Mulher-Maravilha∕Flash (2025) 12.webp
 tags:
   - Quadrinho
 ---

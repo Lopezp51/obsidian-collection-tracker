@@ -1,33 +1,25 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-12-31
-Coleção:
-  - X-Men
-Páginas: 48
-Formato:
-  - Grampo
-Editora:
-  - Panini
-  - Marvel
-Roteiro: []
-Arte: []
-Cores: []
-valor:
-Processado em:
+Processado em: 2026-10-09
+Situação: Faturado
 Data de Entrega:
 Chegou: false
-Favorito: false
 Status de Leitura: Não Iniciado
-Última Leitura:
-Avaliação: 0
 Vezes que Li: 0
-Pegar em promoção: false
-Assinatura: true
-Colocado no saquinho:
-imagem: Banco de Imagens/HQ's e Mangas/Excepcionais X-Men 14.webp
-tags:
+Páginas: 160
+valor: 42.85
+Favorito: false
+Avaliação: 0
+imagem: Banco de Imagens/Mangas/Grandes Heróis DC Os Novos 52 Vol. 44 - Mulher-Maravilha Pele.jpg
+Última Leitura:
+Data de Publicação: 2026-10-09
+Nexo:
+  - Panini
+  - Mulher-Maravilha
+  - Os Novos 52
+  - DC
   - Quadrinho
 ---
+
 
 > [!bookbox]
 > ```meta-bind

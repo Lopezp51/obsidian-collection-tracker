@@ -1,7 +1,7 @@
 ---
 Situação: Desejado
-Data de Publicação: 
-Coleção: 
+Data de Publicação:
+Coleção:
 Páginas:
 Formato:
 Editora:
@@ -10,20 +10,19 @@ Arte: []
 Cores: []
 valor:
 Processado em: 2026-04-28
-Data de Entrega: 
+Data de Entrega:
 Chegou: false
 Favorito: false
 Status de Leitura: Não Iniciado
-Última Leitura: 
+Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
-Pegar em promoção: false
+Pegar em promoção: true
 Assinatura: false
 Colocado no saquinho:
 imagem: ""
 tags:
   - Quadrinho
-
 ---
 
 > [!bookbox]

@@ -26,7 +26,7 @@ Cores:
   - Ivan Plascencia
   - Tamra Bonvillain
 valor: 32.05
-Processado em: 2026-10-09
+Processado em: 2026-10-16
 Data de Entrega:
 Chegou: false
 Favorito: false

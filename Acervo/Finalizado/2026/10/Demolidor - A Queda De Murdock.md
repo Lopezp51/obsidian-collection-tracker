@@ -1,30 +1,31 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-12-31
+Situação: Finalizado
+Data de Publicação: 2022-04-18
 Coleção:
-  - X-Men
-Páginas: 48
+  - Demolidor
+  - Marvel Essenciais
+Páginas: 192
 Formato:
-  - Grampo
+  - Capa dura
 Editora:
-  - Panini
   - Marvel
+  - Panini
 Roteiro: []
 Arte: []
 Cores: []
-valor:
-Processado em:
-Data de Entrega:
-Chegou: false
+valor: 68.63
+Processado em: 2026-10-02
+Data de Entrega: 2026-10-08
+Chegou: true
 Favorito: false
 Status de Leitura: Não Iniciado
 Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
-Assinatura: true
+Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's e Mangas/Excepcionais X-Men 14.webp
+imagem: Banco de Imagens/HQ's e Mangas/Demolidor - A Queda De Murdock.webp
 tags:
   - Quadrinho
 ---

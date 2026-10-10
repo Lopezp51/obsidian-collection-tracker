@@ -20,7 +20,7 @@ Status de Leitura: Não Iniciado
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
-Assinatura: false
+Assinatura: true
 Colocado no saquinho:
 imagem: Banco de Imagens/HQ's e Mangas/Os Fabulosos X-Men (2025) 18.webp
 tags:

@@ -1,19 +1,28 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-12-31
+Situação: Faturado
+Data de Publicação: 2026-09-30
 Coleção:
-  - X-Men
-Páginas: 48
+  - Fac-Símile
+  - Batman
+Páginas: 68
 Formato:
   - Grampo
 Editora:
+  - DC
   - Panini
-  - Marvel
-Roteiro: []
-Arte: []
+Roteiro:
+  - Bill Finger
+  - Jerry Siegel
+  - Homer Fleming
+  - Gardner Fox
+Arte:
+  - Bob Kane
+  - Joe Shuster
+  - Homer Fleming
+  - Fred Guardineer
 Cores: []
-valor:
-Processado em:
+valor: 22.87
+Processado em: 2026-10-06
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -22,9 +31,9 @@ Status de Leitura: Não Iniciado
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
-Assinatura: true
+Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's e Mangas/Excepcionais X-Men 14.webp
+imagem: Banco de Imagens/HQ's/Detective Comics 27 - Fac-Símile.webp
 tags:
   - Quadrinho
 ---

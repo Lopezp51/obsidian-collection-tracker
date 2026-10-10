@@ -1,30 +1,35 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-12-31
+Situação: Finalizado
+Data de Publicação: 2026-10-01
 Coleção:
-  - X-Men
-Páginas: 48
+  - Universo Ultimate
+  - Homem-Aranha
+Páginas: 176
 Formato:
-  - Grampo
+  - Capa Cartão
 Editora:
-  - Panini
   - Marvel
-Roteiro: []
-Arte: []
-Cores: []
-valor:
-Processado em:
-Data de Entrega:
-Chegou: false
+  - Panini
+Roteiro:
+  - Jonathan Hickman
+Arte:
+  - Marco Checchetto
+  - David Messina
+Cores:
+  - Matthew Wilson
+valor: 45.82
+Processado em: 2026-10-01
+Data de Entrega: 2026-10-07
+Chegou: true
 Favorito: false
 Status de Leitura: Não Iniciado
 Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
-Assinatura: true
+Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's e Mangas/Excepcionais X-Men 14.webp
+imagem: Banco de Imagens/HQ's/Ultimate Homem-Aranha (2024) Vol. 4.webp
 tags:
   - Quadrinho
 ---

@@ -1,7 +1,7 @@
 ---
 Situação: Desejado
 Data de Publicação: 2026-11-30
-Coleção: 
+Coleção:
 Páginas:
 Formato:
 Editora:
@@ -9,21 +9,20 @@ Roteiro: []
 Arte: []
 Cores: []
 valor:
-Processado em: 
-Data de Entrega: 
+Processado em:
+Data de Entrega:
 Chegou: false
 Favorito: false
 Status de Leitura: Não Iniciado
-Última Leitura: 
+Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
-Assinatura: false
+Assinatura: true
 Colocado no saquinho:
-imagem: "Banco de Imagens/HQ's e Mangas/Meia-Noite - X-Men 01.webp"
+imagem: Banco de Imagens/HQ's e Mangas/Meia-Noite - X-Men 01.webp
 tags:
   - Quadrinho
-
 ---
 
 > [!bookbox]

@@ -11,7 +11,7 @@ Favorito: false
 Avaliação: 0
 imagem: Banco de Imagens/HQ's/Guerras Secretas (Marvel Essenciais).webp
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-10-06
 Data de Publicação: 2025-10-21
 Universo: Marvel
 ---
@@ -66,3 +66,5 @@ SORT item.data DESC
 
 > [!quote]- Dados de Leitura (Clique para expandir)
 > - [data:: 2026-10-04] | [pagina:: 31] | [obs:: Tem algo muito chamativo pra mim em toda essa estética dos quadrinhos antigos, algumas coisas são tão bobas que eu amo demais]
+> - [data:: 2026-10-06] | [pagina:: 55] | [obs:: Ler essa história me da muito o hype de ler as histórias antigas dos X-men Ahhhhhhh muito charmoso]
+> - [data:: 2026-10-08] | [pagina:: 79] | [obs:: Perdi quando vi o Homem de ferro de patins e inimigo das moleculas gritando Yupi! kkkkkkk divertido e pelo jeito eu vi o nascer da Titania, quem diria]

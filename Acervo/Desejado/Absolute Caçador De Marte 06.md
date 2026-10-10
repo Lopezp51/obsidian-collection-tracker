@@ -8,8 +8,8 @@ Editora:
 Roteiro: []
 Arte: []
 Cores: []
-valor:
-Processado em:
+valor: 8.66
+Processado em: 2026-10-06
 Data de Entrega:
 Chegou: false
 Favorito: false

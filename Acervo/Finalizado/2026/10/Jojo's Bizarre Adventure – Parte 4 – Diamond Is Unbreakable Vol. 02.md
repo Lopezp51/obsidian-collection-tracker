@@ -1,32 +1,33 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-12-31
+Situação: Finalizado
+Data de Publicação: 2021-08-17
 Coleção:
-  - X-Men
-Páginas: 48
+  - Jojo's
+Páginas: 288
 Formato:
-  - Grampo
+  - Tankobon
 Editora:
   - Panini
-  - Marvel
-Roteiro: []
-Arte: []
+Roteiro:
+  - Hirohiko Araki
+Arte:
+  - Hirohiko Araki
 Cores: []
-valor:
-Processado em:
-Data de Entrega:
-Chegou: false
+valor: 37.52
+Processado em: 2026-10-02
+Data de Entrega: 2026-10-08
+Chegou: true
 Favorito: false
 Status de Leitura: Não Iniciado
 Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
-Assinatura: true
+Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's e Mangas/Excepcionais X-Men 14.webp
+imagem: Banco de Imagens/HQ's e Mangas/Jojo's Bizarre Adventure – Parte 4 – Diamond Is Unbreakable Vol. 02.webp
 tags:
-  - Quadrinho
+  - Manga
 ---
 
 > [!bookbox]

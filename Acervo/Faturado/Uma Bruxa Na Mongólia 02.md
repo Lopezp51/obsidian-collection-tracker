@@ -1,19 +1,19 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-12-31
+Situação: Faturado
+Data de Publicação: 2026-09-30
 Coleção:
-  - X-Men
-Páginas: 48
+Páginas: 176
 Formato:
-  - Grampo
+  - Tankobon
 Editora:
   - Panini
-  - Marvel
-Roteiro: []
-Arte: []
+Roteiro:
+  - Tomato Soup
+Arte:
+  - Tomato Soup
 Cores: []
-valor:
-Processado em:
+valor: 35.88
+Processado em: 2026-10-06
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -22,11 +22,11 @@ Status de Leitura: Não Iniciado
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
-Assinatura: true
+Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's e Mangas/Excepcionais X-Men 14.webp
+imagem: Banco de Imagens/Mangas/Uma Bruxa Na Mongólia 02.webp
 tags:
-  - Quadrinho
+  - Manga
 ---
 
 > [!bookbox]

@@ -1,19 +1,17 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-12-31
+Situação: Faturado
+Data de Publicação: 2026-10-07
 Coleção:
-  - X-Men
-Páginas: 48
+Páginas: 616
 Formato:
-  - Grampo
+  - Tankobon
 Editora:
   - Panini
-  - Marvel
 Roteiro: []
 Arte: []
 Cores: []
-valor:
-Processado em:
+valor: 53.95
+Processado em: 2026-10-07
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -24,9 +22,9 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's e Mangas/Excepcionais X-Men 14.webp
+imagem: Banco de Imagens/Mangas/Claymore Remix 01.webp
 tags:
-  - Quadrinho
+  - Manga
 ---
 
 > [!bookbox]

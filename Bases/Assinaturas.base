@@ -1,0 +1,54 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.folder == "Assinaturas"
+formulas:
+  valor_mensal: if(note["Valor Mensal"], "R$ " + note["Valor Mensal"].toFixed(2).replace(".", ","), "-")
+  valor_total: if(note["Valor Total"], "R$ " + note["Valor Total"].toFixed(2).replace(".", ","), "-")
+  progresso: if(note["Volume Final Contratado"], (note["Volume Atual Recebido"] || 0) + " / " + note["Volume Final Contratado"], "-")
+properties:
+  file.name:
+    displayName: Assinatura
+  note.Status:
+    displayName: Status
+  note["Status Pagamento"]:
+    displayName: Pagamento
+  note.Editora:
+    displayName: Editora
+  formula.valor_mensal:
+    displayName: Parcela / Mês
+  formula.progresso:
+    displayName: Volumes (Recebido / Total)
+  note.Envio:
+    displayName: Envio
+  note.Início:
+    displayName: Início
+views:
+  - type: table
+    name: Geral
+    order:
+      - file.name
+      - Status
+      - Editora
+      - formula.valor_mensal
+      - formula.progresso
+      - Envio
+      - Início
+    columnSize:
+      file.name: 260
+      note.Status: 100
+      note.Editora: 100
+      formula.valor_mensal: 130
+      formula.progresso: 160
+      note.Envio: 110
+      note.Início: 120
+  - type: cards
+    name: Cards
+    order:
+      - file.name
+      - Status
+      - formula.valor_mensal
+      - formula.progresso
+    image: note.imagem
+    imageAspectRatio: 1.45
+    cardSize: 140

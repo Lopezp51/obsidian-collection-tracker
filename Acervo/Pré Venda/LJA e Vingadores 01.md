@@ -16,7 +16,7 @@ Arte:
 Cores:
   - Tom Smith
 valor: 19.05
-Processado em: 2026-10-09
+Processado em: 2026-10-16
 Data de Entrega:
 Chegou: false
 Favorito: false
