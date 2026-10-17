@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Lendo
+Avaliação: 3
+Última Leitura: 2026-10-11
+Status de Leitura: Lido
 Processado em: 2026-08-20
 Data de Entrega: 2026-09-04
 Chegou: true
@@ -75,3 +75,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-10-11] | [pagina:: 48] | [obs:: Assim nem por um segundo eu achei que a Emma ia morrer, foi meio bobo esse sacrificio, podia ter sido mais elaborado o resgaste dela, foi okay. X-Factor pelo jeito finalizou, vou sentir saudade da Frenesi, essa edição foi okay tbm]

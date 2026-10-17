@@ -1,5 +1,5 @@
 ---
-Título: "Assinatura Super Trio Absolute (Batman) - 2ª Renovação - 12 Meses + 40% Desc."
+Título: Assinatura Super Trio Absolute (Batman) - 2ª Renovação - 12 Meses + 40% Desc.
 Editora:
   - Panini
 Status: Ativa
@@ -14,7 +14,7 @@ Início Pagamento: 2026-09
 Fim Pagamento: 2027-08
 Status Pagamento: Em Pagamento
 Volume Inicial: 6
-Volume Final Contratado: 11
+Volume Final Contratado: 12
 Volume Atual Recebido: 7
 imagem: Banco de Imagens/HQ's/Absolute Batman 06.webp
 tags:

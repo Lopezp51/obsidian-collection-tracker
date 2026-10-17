@@ -10,7 +10,7 @@ Editora:
 Roteiro: []
 Arte: []
 Cores: []
-valor:
+valor: 34.49
 Processado em:
 Data de Entrega:
 Chegou: false
@@ -19,8 +19,8 @@ Status de Leitura: Não Iniciado
 Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
-Pegar em promoção: true
-Assinatura: false
+Pegar em promoção: false
+Assinatura: true
 Colocado no saquinho:
 imagem: Banco de Imagens/Mangas/A Cor Do Fim Vol. 01.webp
 tags:

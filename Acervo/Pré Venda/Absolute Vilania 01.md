@@ -1,6 +1,6 @@
 ---
-Situação: Pré Venda
-Data de Publicação: 2026-09-30
+Situação: Faturado
+Data de Publicação: 2026-10-17
 Coleção:
   - Universo Absolute
 Páginas: 32
@@ -17,7 +17,7 @@ Arte:
 Cores:
   - Rômulo Fajardo Jr.
 valor: 13.7
-Processado em: 2026-10-16
+Processado em:
 Data de Entrega:
 Chegou: false
 Favorito: false

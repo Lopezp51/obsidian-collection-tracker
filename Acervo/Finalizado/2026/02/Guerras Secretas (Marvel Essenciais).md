@@ -3,15 +3,15 @@ Processado em: 2026-02-02
 Situação: Finalizado
 Data de Entrega: 2026-02-13
 Chegou: true
-Status de Leitura: Lendo
+Status de Leitura: Lido
 Vezes que Li: 0
 Páginas: 344
 valor: 100.97
 Favorito: false
-Avaliação: 0
+Avaliação: 4.5
 imagem: Banco de Imagens/HQ's/Guerras Secretas (Marvel Essenciais).webp
 Tipo: Quadrinho
-Última Leitura: 2026-10-06
+Última Leitura: 2026-10-11
 Data de Publicação: 2025-10-21
 Universo: Marvel
 ---
@@ -68,3 +68,5 @@ SORT item.data DESC
 > - [data:: 2026-10-04] | [pagina:: 31] | [obs:: Tem algo muito chamativo pra mim em toda essa estética dos quadrinhos antigos, algumas coisas são tão bobas que eu amo demais]
 > - [data:: 2026-10-06] | [pagina:: 55] | [obs:: Ler essa história me da muito o hype de ler as histórias antigas dos X-men Ahhhhhhh muito charmoso]
 > - [data:: 2026-10-08] | [pagina:: 79] | [obs:: Perdi quando vi o Homem de ferro de patins e inimigo das moleculas gritando Yupi! kkkkkkk divertido e pelo jeito eu vi o nascer da Titania, quem diria]
+> - [data:: 2026-10-10] | [pagina:: 205] | [obs:: Fiquei surpreso ao ver o Rhodes como Homem de Ferro, e sacanagem o que fizeram com a mulher hulk, ta na história pra apanhar só e não fazer nada. Não entendi quais eram os poderes da Vampira aqui, não parece que ela obsorveu os poderes da capitao marvel ainda. E adorei o destino sempre completamente ferrado pelo Galactus e como causalmente o Peter pega o traje preto.]
+> - [data:: 2026-10-11] | [pagina:: 344] | [obs:: Finalizado, devo dizer, foi divertido, ver os heróis todos unidos, ler isso na época deve ter sido irado demais. Os herois que curto tipo mulher hulk e miranha não senti tão presentes, miranha brilhou em alguns momentos, mas a mulher hulk só foi espancada bem dizer quando teve mais foco. E legal ver ela dando join no quarteto]

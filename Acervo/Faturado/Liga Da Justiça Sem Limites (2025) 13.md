@@ -1,5 +1,5 @@
 ---
-Situação: Faturado
+Situação: Finalizado
 Data de Publicação: 2026-09-22
 Coleção:
   - Sem Limites
@@ -13,10 +13,10 @@ Editora:
 Roteiro: []
 Arte: []
 Cores: []
-valor:
+valor: 14.02
 Processado em: 2026-09-22
-Data de Entrega:
-Chegou: false
+Data de Entrega: 2026-10-16
+Chegou: true
 Favorito: false
 Status de Leitura: Não Iniciado
 Última Leitura:
