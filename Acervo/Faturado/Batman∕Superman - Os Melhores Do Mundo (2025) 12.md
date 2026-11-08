@@ -1,6 +1,6 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-10-30
+Situação: Faturado
+Data de Publicação: 2026-11-04
 Coleção:
   - Batman
   - Superman
@@ -13,8 +13,8 @@ Editora:
 Roteiro: []
 Arte: []
 Cores: []
-valor:
-Processado em:
+valor: 9.39
+Processado em: 2026-11-04
 Data de Entrega:
 Chegou: false
 Favorito: false

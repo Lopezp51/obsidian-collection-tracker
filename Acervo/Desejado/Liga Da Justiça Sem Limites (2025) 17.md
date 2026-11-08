@@ -1,19 +1,20 @@
 ---
-Situação: Faturado
-Data de Publicação: 2026-10-15
+Situação: Desejado
+Data de Publicação: 2027-01-31
 Coleção:
-  - Quarteto Fantástico
+  - Liga da Justiça
+  - Sem Limites
 Páginas: 48
 Formato:
   - Grampo
 Editora:
-  - Marvel
+  - DC
   - Panini
 Roteiro: []
 Arte: []
 Cores: []
-valor: 14.32
-Processado em: 2026-10-15
+valor: 12.02
+Processado em:
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -24,7 +25,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Quarteto Fantástico (2026) 03.webp
+imagem: Banco de Imagens/HQ's e Mangas/Liga Da Justiça Sem Limites (2025) 17.webp
 tags:
   - Quadrinho
 ---

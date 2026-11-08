@@ -1,36 +1,30 @@
 ---
-Situação: Faturado
-Data de Publicação: 2026-10-01
+Situação: Finalizado
+Data de Publicação: 2026-10-15
 Coleção:
-  - Universo Absolute
-  - Batman
+  - X-Men
 Páginas: 48
 Formato:
   - Grampo
 Editora:
-  - DC
+  - Marvel
   - Panini
-Roteiro:
-  - Scott Snyder
-Arte:
-  - Marcos Martín
-  - Nick Dragotta
-Cores:
-  - Muntsa Vicente
-  - Frank Martin
-valor: 19.05
-Processado em: 2026-10-01
-Data de Entrega:
-Chegou: false
+Roteiro: []
+Arte: []
+Cores: []
+valor: 12.54
+Processado em: 2026-10-21
+Data de Entrega: 2026-10-30
+Chegou: true
 Favorito: false
 Status de Leitura: Não Iniciado
 Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
-Assinatura: false
+Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Absolute Batman 07 - Capa Variante.webp
+imagem: Banco de Imagens/HQ's/Os Fabulosos X-Men (2025) 16.webp
 tags:
   - Quadrinho
 ---

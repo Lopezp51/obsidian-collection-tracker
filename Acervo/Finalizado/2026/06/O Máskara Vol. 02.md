@@ -3,15 +3,15 @@ Processado em: 2026-05-25
 Situação: Finalizado
 Data de Entrega: 2026-06-03
 Chegou: true
-Status de Leitura: Lendo
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 388
 valor: 104.93
 Favorito: false
-Avaliação: 0
+Avaliação: 3
 imagem: Banco de Imagens/HQ's/O Máskara Vol. 02.jpg
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-10-20
 Data de Publicação: 2026-05-23
 Universo: Indie
 Planejo pegar em: 2026-04-01
@@ -70,3 +70,7 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-10-15] | [pagina:: 29] | [obs:: Consegui ler um pouco no hotel só, queria ter lido mais mas fiquei devendo. Mudamos de protagonistas novamente, quero ver o caos que o cabeção vai fazer agora]
+> - [data:: 2026-10-18] | [pagina:: 96] | [obs:: Po adorei a primeira história, a dinamica da filha e do pai usar a máscara foi daora e terminou com o coração quentinho, diferente das demais]
+> - [data:: 2026-10-19] | [pagina:: 188] | [obs:: Foi mais lokuragem só essa segunda história, pelo jeito a história tava rolando num mundo alternativo, interessante tbm aqueles personagens novos que apareceram, deviam ser da dark horse de mais de antigamente ]
+> - [data:: 2026-10-20] | [pagina:: 388] | [obs:: Queria dar uma nota maior, pq a primeira história foi muito boa, a segunda e terceira curti tbm, a quarta foi um curta. Mas a última foi uma completa bosta, achei ruim demais, odiei o ritmo e o excesso de texto expositivo em toda página, teve uma hora que eu tava só pulando a leitura de uns quadros que tava muito chato. Mas a primeira é realmente muito boa]

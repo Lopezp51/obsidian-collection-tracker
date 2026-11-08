@@ -10,9 +10,12 @@ Formato:
 Editora:
   - Marvel
   - Panini
-Roteiro: []
-Arte: []
-Cores: []
+Roteiro:
+  - Chris Condon
+Arte:
+  - Alessandro Cappuccio
+Cores:
+  - Bryan Valenza
 valor: 24.83
 Processado em: 2026-10-02
 Data de Entrega: 2026-10-08

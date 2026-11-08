@@ -24,8 +24,8 @@ Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
-Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Absolute Lanterna Verde 05.webp
+Colocado no saquinho: 2026-10-21
+imagem: Banco de Imagens/HQ's e Mangas/Absolute Lanterna Verde 05.webp
 tags:
   - Quadrinho
 ---

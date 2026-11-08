@@ -1,31 +1,34 @@
 ---
-Situação: Faturado
-Data de Publicação: 2026-10-15
+Situação: Finalizado
+Data de Publicação: 2026-10-17
 Coleção:
-  - Sem Limites
-  - Lanterna Verde
-Páginas: 48
+  - Universo Absolute
+Páginas: 32
 Formato:
-  - Grampo
+  - Capa Cartão
 Editora:
   - DC
   - Panini
-Roteiro: []
-Arte: []
-Cores: []
-valor:
-Processado em: 2026-10-15
-Data de Entrega:
-Chegou: false
+Roteiro:
+  - Al Ewing
+Arte:
+  - Giuseppe Camuncoli
+  - Stefano Nesi
+Cores:
+  - Rômulo Fajardo Jr.
+valor: 13.7
+Processado em: 2026-10-21
+Data de Entrega: 2026-10-30
+Chegou: true
 Favorito: false
 Status de Leitura: Não Iniciado
 Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
-Assinatura: true
+Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Lanterna Verde (2025) 13.webp
+imagem: Banco de Imagens/HQ's/Absolute Vilania 01.webp
 tags:
   - Quadrinho
 ---

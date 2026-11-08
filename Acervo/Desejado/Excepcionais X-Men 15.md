@@ -1,19 +1,18 @@
 ---
 Situação: Desejado
-Data de Publicação: 2026-10-30
+Data de Publicação: 2027-01-31
 Coleção:
-  - Superman
-  - Universo Absolute
+  - X-Men
 Páginas: 48
 Formato:
   - Grampo
 Editora:
-  - DC
+  - Marvel
   - Panini
 Roteiro: []
 Arte: []
 Cores: []
-valor:
+valor: 12.54
 Processado em:
 Data de Entrega:
 Chegou: false
@@ -25,7 +24,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Absolute Superman 07.webp
+imagem: Banco de Imagens/HQ's e Mangas/Excepcionais X-Men 15.webp
 tags:
   - Quadrinho
 ---

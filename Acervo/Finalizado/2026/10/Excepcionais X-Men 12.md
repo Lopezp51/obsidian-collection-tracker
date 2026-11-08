@@ -12,7 +12,7 @@ Editora:
 Roteiro: []
 Arte: []
 Cores: []
-valor:
+valor: 11.94
 Processado em: 2026-09-25
 Data de Entrega: 2026-10-16
 Chegou: true

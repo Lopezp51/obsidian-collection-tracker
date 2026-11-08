@@ -1,21 +1,17 @@
 ---
-Situação: Faturado
-Data de Publicação: 2026-10-15
+Situação: Desejado
+Data de Publicação: 2027-01-31
 Coleção:
-  - Sem Limites
-  - Mulher-Maravilha
-  - Flash
-Páginas: 56
+Páginas: 744
 Formato:
-  - Grampo
+  - Tankobon
 Editora:
-  - DC
   - Panini
 Roteiro: []
 Arte: []
 Cores: []
-valor: 12.53
-Processado em: 2026-10-15
+valor: 53.95
+Processado em:
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -26,9 +22,9 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Mulher-Maravilha∕Flash (2025) 13.webp
+imagem: Banco de Imagens/HQ's e Mangas/Claymore Remix 03.webp
 tags:
-  - Quadrinho
+  - Manga
 ---
 
 > [!bookbox]

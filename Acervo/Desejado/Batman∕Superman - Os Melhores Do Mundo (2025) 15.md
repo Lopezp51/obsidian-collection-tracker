@@ -1,18 +1,20 @@
 ---
 Situação: Desejado
-Data de Publicação: 2026-11-30
+Data de Publicação: 2027-01-31
 Coleção:
-  - Quarteto Fantástico
-Páginas: 48
+  - Superman
+  - Batman
+  - Sem Limites
+Páginas: 24
 Formato:
   - Grampo
 Editora:
-  - Marvel
+  - DC
   - Panini
 Roteiro: []
 Arte: []
 Cores: []
-valor:
+valor: 9.39
 Processado em:
 Data de Entrega:
 Chegou: false
@@ -24,7 +26,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Quarteto Fantástico (2026) 04.webp
+imagem: Banco de Imagens/HQ's e Mangas/Batman∕Superman - Os Melhores Do Mundo (2025) 15.webp
 tags:
   - Quadrinho
 ---

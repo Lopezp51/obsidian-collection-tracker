@@ -1,6 +1,6 @@
 ---
-Situação: Pré Venda
-Data de Publicação: 2026-10-31
+Situação: Faturado
+Data de Publicação: 2026-10-30
 Coleção:
   - Mulher-Maravilha
 Páginas: 72
@@ -13,7 +13,7 @@ Roteiro: []
 Arte: []
 Cores: []
 valor: 71.47
-Processado em: 2026-10-31
+Processado em: 2026-11-03
 Data de Entrega:
 Chegou: false
 Favorito: false

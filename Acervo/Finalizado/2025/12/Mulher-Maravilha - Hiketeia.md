@@ -3,15 +3,15 @@ Processado em: 2025-12-23
 Situação: Finalizado
 Data de Entrega: 2025-12-27
 Chegou: true
-Status de Leitura: Lendo
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 128
 valor: 47.9
-Favorito: false
-Avaliação: 0
+Favorito: true
+Avaliação: 5
 imagem: Banco de Imagens/HQ's/Mulher-Maravilha - Hiketeia.webp
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-11-03
 Data de Publicação: 2025-02-01
 Universo: DC
 Nexo:
@@ -69,3 +69,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-11-03] | [pagina:: 128] | [obs:: Muito bom, mas triste, como no começo a Diana disse, essas histórias gregas acabam em tragédia, e não foi diferente aqui, Bruce também com seu senso de justiça cego não ajudou, mas eu queria uma real justiiça para a menina da história, o mundo só foi cruel com ela e sua irmã.]

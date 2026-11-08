@@ -1,12 +1,10 @@
 ---
-Situação: Faturado
-Data de Publicação: 2026-09-30
+Situação: Desejado
+Data de Publicação: 2026-12-31
 Coleção:
-  - Sem Limites
-  - Batman
-Páginas: 48
+Páginas: 144
 Formato:
-  - Grampo
+  - Capa Cartão
 Editora:
   - DC
   - Panini
@@ -14,7 +12,7 @@ Roteiro: []
 Arte: []
 Cores: []
 valor:
-Processado em: 2026-10-06
+Processado em:
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -22,10 +20,10 @@ Status de Leitura: Não Iniciado
 Última Leitura:
 Avaliação: 0
 Vezes que Li: 0
-Pegar em promoção: false
-Assinatura: true
+Pegar em promoção: true
+Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Batman (2025) 12.webp
+imagem: Banco de Imagens/HQ's e Mangas/Aquaman Vol. 02.webp
 tags:
   - Quadrinho
 ---

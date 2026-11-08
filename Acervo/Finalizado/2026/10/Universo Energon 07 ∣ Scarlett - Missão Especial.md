@@ -8,9 +8,12 @@ Formato:
   - Capa Cartão
 Editora:
   - Panini
-Roteiro: []
-Arte: []
-Cores: []
+Roteiro:
+  - Kelly Thompson
+Arte:
+  - Marco Ferrari
+Cores:
+  - Lee Loughridge
 valor: 24.91
 Processado em: 2026-09-09
 Data de Entrega: 2026-10-05

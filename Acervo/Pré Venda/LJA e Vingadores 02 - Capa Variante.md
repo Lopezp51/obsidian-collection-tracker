@@ -1,6 +1,6 @@
 ---
 Situação: Pré Venda
-Data de Publicação: 2026-10-31
+Data de Publicação: 2026-11-20
 Coleção:
   - Liga da Justiça
   - Vingadores
@@ -15,7 +15,7 @@ Roteiro: []
 Arte: []
 Cores: []
 valor: 19.05
-Processado em: 2026-10-31
+Processado em: 2026-11-20
 Data de Entrega:
 Chegou: false
 Favorito: false

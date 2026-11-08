@@ -1,18 +1,18 @@
 ---
-Situação: Faturado
-Data de Publicação: 2026-10-30
+Situação: Desejado
+Data de Publicação: 2027-01-31
 Coleção:
-  - Batman
-Páginas: 160
+  - Quarteto Fantástico
+Páginas: 48
 Formato:
-  - Capa Cartão
+  - Grampo
 Editora:
-  - DC
+  - Marvel
   - Panini
 Roteiro: []
 Arte: []
 Cores: []
-valor: 49.41
+valor: 14.32
 Processado em:
 Data de Entrega:
 Chegou: false
@@ -24,7 +24,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: false
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Batman & Robin - Ano Um Vol. 01.webp
+imagem: Banco de Imagens/HQ's e Mangas/Quarteto Fantástico (2026) 05.webp
 tags:
   - Quadrinho
 ---

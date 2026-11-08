@@ -1,8 +1,9 @@
 ---
-Situação: Desejado
-Data de Publicação: 2026-10-30
+Situação: Faturado
+Data de Publicação: 2026-11-04
 Coleção:
-  - Liga da Justiça
+  - Flash
+  - Universo Absolute
 Páginas: 48
 Formato:
   - Grampo
@@ -12,8 +13,8 @@ Editora:
 Roteiro: []
 Arte: []
 Cores: []
-valor:
-Processado em:
+valor: 13.44
+Processado em: 2026-11-04
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -24,7 +25,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Liga Da Justiça Sem Limites (2025) 14.webp
+imagem: Banco de Imagens/HQ's e Mangas/Absolute Flash 05.webp
 tags:
   - Quadrinho
 ---

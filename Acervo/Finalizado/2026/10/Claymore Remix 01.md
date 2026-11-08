@@ -1,25 +1,31 @@
 ---
-Processado em: 2026-10-16
-Situação: Faturado
-Data de Entrega:
-Chegou: false
-Status de Leitura: Não Iniciado
-Vezes que Li: 0
-Páginas: 160
-valor: 42.85
-Favorito: false
-Avaliação: 0
-imagem: Banco de Imagens/Mangas/Grandes Heróis DC Os Novos 52 Vol. 44 - Mulher-Maravilha Pele.jpg
-Última Leitura:
-Data de Publicação: 2026-10-09
-Nexo:
+Situação: Finalizado
+Data de Publicação: 2026-10-07
+Coleção:
+Páginas: 616
+Formato:
+  - Tankobon
+Editora:
   - Panini
-  - Mulher-Maravilha
-  - Os Novos 52
-  - DC
-  - Quadrinho
+Roteiro: []
+Arte: []
+Cores: []
+valor: 53.95
+Processado em: 2026-10-13
+Data de Entrega: 2026-10-19
+Chegou: true
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: true
+Colocado no saquinho:
+imagem: Banco de Imagens/Mangas/Claymore Remix 01.webp
+tags:
+  - Manga
 ---
-
 
 > [!bookbox]
 > ```meta-bind

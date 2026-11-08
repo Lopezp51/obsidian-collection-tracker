@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
+Avaliação: 4.5
+Última Leitura: 2026-11-07
+Status de Leitura: Lido
 Processado em: 2026-08-28
 Data de Entrega: 2026-10-05
 Chegou: true
@@ -17,13 +17,18 @@ Editora:
   - Panini
 valor: 14.77
 Páginas: 48
-Vezes que Li: 0
-Roteiro: []
-Arte: []
-Cores: []
-imagem: Banco de Imagens/HQ's/Absolute Superman 06.webp
+Vezes que Li: 1
+Roteiro:
+  - Jason Aaron
+Arte:
+  - Carmine Di Giandomenico
+  - Rafa Sandoval
+Cores:
+  - Ulises Arreola
+imagem: Banco de Imagens/HQ's e Mangas/Absolute Superman 06.webp
 tags:
   - Quadrinho
+Colocado no saquinho: 2026-11-07
 ---
 
 > [!bookbox]
@@ -75,3 +80,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-11-07] | [pagina:: 48] | [obs:: Curti bastante, Kal-El se mateve firme por vários dias perante a tortura de Brainiac, mas não mudou quem ele é, achei muito rápido a morte do pai da Lois, ele morreu tipo em 2 paíneis e é isso. Segunda história curti digamos o batismo de Sol-El, onde ele é mais que só uma máquina criada pela mãe do Kal, ele é como se fosse seu irmão mais velho, parte da casa El.]

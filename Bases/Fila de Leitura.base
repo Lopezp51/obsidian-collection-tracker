@@ -39,3 +39,26 @@ views:
     image: note.imagem
     imageAspectRatio: 1.5
     cardSize: 140
+  - type: cards
+    name: Grampo
+    filters:
+      and:
+        - Chegou == true
+        - note["Status de Leitura"].containsAny("Não Iniciado", "Lendo", "Próximo")
+        - Formato == ["Grampo"]
+    groupBy:
+      property: Status de Leitura
+      direction: ASC
+    order:
+      - file.name
+      - Última Leitura
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 439
+      note.Data de Entrega: 138
+      note.Chegou: 134
+    image: note.imagem
+    imageAspectRatio: 1.5
+    cardSize: 140

@@ -1,15 +1,16 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Lendo
+Avaliação: 4.5
+Última Leitura: 2026-10-21
+Status de Leitura: Lido
 Processado em: 2026-09-11
 Data de Entrega: 2026-09-21
 Chegou: true
 Data de Publicação: 2026-08-28
 Coleção:
   - Universo Absolute
+  - Flash
 Formato:
   - Grampo
 Editora:
@@ -17,11 +18,16 @@ Editora:
   - Panini
 valor: 19.05
 Páginas: 48
-Vezes que Li: 0
-Roteiro: []
-Arte: []
-Cores: []
-imagem: Banco de Imagens/HQ's/Absolute Flash 04.webp
+Vezes que Li: 1
+Roteiro:
+  - Jeff Lemire
+Arte:
+  - Nick Robles
+  - A.L. Kaplan
+Cores:
+  - Adriano Lucas
+  - Christopher Sotomayor
+imagem: Banco de Imagens/HQ's e Mangas/Absolute Flash 04.webp
 tags:
   - Quadrinho
 ---
@@ -75,3 +81,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-10-21] | [pagina:: 48] | [obs:: Po foi interesssate a edição 8, ver no que o Barry tava trabalhando, fico curioso pra ver no que vai desenrolar tudo isso, ta daora]

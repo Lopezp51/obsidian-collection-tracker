@@ -9,22 +9,25 @@ Formato:
 Editora:
   - DC
   - Panini
-Roteiro: []
-Arte: []
-Cores: []
+Roteiro:
+  - Deniz Camp
+Arte:
+  - Javier Rodríguez
+Cores:
+  - Javier Rodríguez
 valor: 8.66
 Processado em: 2026-09-25
 Data de Entrega: 2026-10-16
 Chegou: true
 Favorito: false
-Status de Leitura: Não Iniciado
-Última Leitura:
-Avaliação: 0
+Status de Leitura: Lido
+Última Leitura: 2026-11-07
+Avaliação: 4.5
 Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
-Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Absolute Caçador De Marte 05.webp
+Colocado no saquinho: 2026-11-07
+imagem: Banco de Imagens/HQ's e Mangas/Absolute Caçador De Marte 05.webp
 tags:
   - Quadrinho
 ---
@@ -78,3 +81,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-11-07] | [pagina:: 48] | [obs:: Que viagem e que dó do Marciano, sofreu pra caramba na tortura e não entendi muito bem como o John chegou no buraco negro kkkkk acho que só aceitamos a viagem das cores e loucura, estou curioso como vai ser o desfecho]

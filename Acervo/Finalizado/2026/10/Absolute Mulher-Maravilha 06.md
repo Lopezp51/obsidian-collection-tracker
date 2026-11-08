@@ -10,22 +10,29 @@ Formato:
 Editora:
   - DC
   - Panini
-Roteiro: []
-Arte: []
-Cores: []
+Roteiro:
+  - Kelly Thompson
+Arte:
+  - Mattia De Iulis
+  - Dustin Nguyen
+  - Hayden Sherman
+Cores:
+  - Mattia De Iulis
+  - Dustin Nguyen
+  - Jordie Bellaire
 valor: 14.77
 Processado em: 2026-09-28
 Data de Entrega: 2026-10-05
 Chegou: true
-Favorito: false
-Status de Leitura: Não Iniciado
-Última Leitura:
-Avaliação: 0
+Favorito: true
+Status de Leitura: Lido
+Última Leitura: 2026-11-04
+Avaliação: 5
 Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
-Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Absolute Mulher-Maravilha 06.webp
+Colocado no saquinho: 2026-11-04
+imagem: Banco de Imagens/HQ's e Mangas/Absolute Mulher-Maravilha 06.webp
 tags:
   - Quadrinho
 ---
@@ -79,3 +86,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-11-04] | [pagina:: 48] | [obs:: Io está de volta, e agora eu sei que Ferdinand é, Diana no passado sempre é lindo de mais de ver, ela usou muitos feitiços nessas edições o que foi muito legal de ver o lado de bruxa dela, e portando o tridente de poseidon foi irado. Também no final quando mostra Hipolita foi lindo, cheguei a chorar quando ela diz que Diana está viva. E no final vemos um olhar para o próximo arco, onde a Zatana vai entrar em cena. ]

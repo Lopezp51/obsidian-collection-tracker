@@ -1,23 +1,21 @@
 ---
-Situação: Faturado
+Situação: Finalizado
 Data de Publicação: 2026-10-15
 Coleção:
-  - Sem Limites
-  - Batman
-  - Superman
-Páginas: 24
+  - Quarteto Fantástico
+Páginas: 48
 Formato:
   - Grampo
 Editora:
-  - DC
+  - Marvel
   - Panini
 Roteiro: []
 Arte: []
 Cores: []
-valor:
-Processado em: 2026-10-15
-Data de Entrega:
-Chegou: false
+valor: 14.32
+Processado em: 2026-10-21
+Data de Entrega: 2026-10-30
+Chegou: true
 Favorito: false
 Status de Leitura: Não Iniciado
 Última Leitura:
@@ -26,7 +24,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Batman∕Superman - Os Melhores Do Mundo (2025) 11.webp
+imagem: Banco de Imagens/HQ's/Quarteto Fantástico (2026) 03.webp
 tags:
   - Quadrinho
 ---

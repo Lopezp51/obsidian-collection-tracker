@@ -1,32 +1,20 @@
 ---
-Situação: Pré Venda
-Data de Publicação: 2026-09-30
+Situação: Faturado
+Data de Publicação: 2026-11-04
 Coleção:
-Páginas: 136
+  - Superman
+  - Universo Absolute
+Páginas: 48
 Formato:
-  - Capa Cartão
+  - Grampo
 Editora:
   - DC
   - Panini
-Roteiro:
-  - Joshua Williamson
-  - Leah Williams
-  - Scott Snyder
-  - Joëlle Jones
-Arte:
-  - Cary Nord
-  - Daniel Bayliss
-  - Giuseppe Camuncoli
-  - Jason Howard
-  - Mirka Andolfo
-  - Sean Izaakse
-Cores:
-  - Rex Lokus
-  - Adriano Lucas
-  - Ivan Plascencia
-  - Tamra Bonvillain
-valor: 32.05
-Processado em: 2026-10-30
+Roteiro: []
+Arte: []
+Cores: []
+valor: 14.78
+Processado em: 2026-11-04
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -35,9 +23,9 @@ Status de Leitura: Não Iniciado
 Avaliação: 0
 Vezes que Li: 0
 Pegar em promoção: false
-Assinatura: false
+Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/DC K.O. Especial - Combate 01.webp
+imagem: Banco de Imagens/HQ's/Absolute Superman 07.webp
 tags:
   - Quadrinho
 ---

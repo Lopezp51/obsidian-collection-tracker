@@ -10,22 +10,27 @@ Formato:
 Editora:
   - DC
   - Panini
-Roteiro: []
-Arte: []
-Cores: []
+Roteiro:
+  - Scott Snyder
+Arte:
+  - Marcos Martín
+  - Nick Dragotta
+Cores:
+  - Muntsa Vicente
+  - Frank Martin
 valor: 14.77
 Processado em: 2026-10-02
 Data de Entrega: 2026-10-16
 Chegou: true
-Favorito: false
-Status de Leitura: Não Iniciado
-Última Leitura:
-Avaliação: 0
+Favorito: true
+Status de Leitura: Lido
+Última Leitura: 2026-11-04
+Avaliação: 5
 Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
-Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Absolute Batman 07.webp
+Colocado no saquinho: 2026-11-04
+imagem: Banco de Imagens/HQ's e Mangas/Absolute Batman 07.webp
 tags:
   - Quadrinho
 ---
@@ -79,3 +84,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-11-04] | [pagina:: 48] | [obs:: Meu deus absolute fucking cinema, as duas edições foram iradas, mas o combate entre o Batman e o Bane foi insano, cara dava pra você sentir a ação saindo das páginas. Curti a arlequina e a mulher gato aqui, e o coriga cortando os laços do Bane com o que restava da sua humanidade foi cruel.]

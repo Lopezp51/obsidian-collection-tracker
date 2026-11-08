@@ -17,14 +17,14 @@ Processado em: 2026-09-10
 Data de Entrega: 2026-10-05
 Chegou: true
 Favorito: false
-Status de Leitura: Não Iniciado
-Última Leitura:
-Avaliação: 0
+Status de Leitura: Lido
+Última Leitura: 2026-11-07
+Avaliação: 3
 Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
-Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Os Fabulosos X-Men (2025) 14.webp
+Colocado no saquinho: 2026-11-07
+imagem: Banco de Imagens/HQ's e Mangas/Os Fabulosos X-Men (2025) 14.webp
 tags:
   - Quadrinho
 ---
@@ -78,3 +78,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-11-07] | [pagina:: 48] | [obs:: Parte do cavalo Ember eu achei jogado do nada, ela fala que não sabe o que é aquele cavalo, que ela perdeu a ember num incendio, mas desde do começo ela se preocupa com o cavalo, só se o cavalo morreu numa história ao longo dessas HQ e não lembro. Parte do Gambit com o dragão foi daora ter uma conversa entre eles, curioso para essa fome que o dragão alertou ele]

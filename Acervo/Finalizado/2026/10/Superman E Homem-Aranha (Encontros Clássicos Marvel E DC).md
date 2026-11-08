@@ -20,9 +20,13 @@ Editora:
 valor: 26.7
 Páginas: 64
 Vezes que Li: 0
-Roteiro: []
-Arte: []
-Cores: []
+Roteiro:
+  - Jim Shooter
+  - Marv Wolfman
+Arte:
+  - John Buscema
+Cores:
+  - Glynis Oliver
 imagem: Banco de Imagens/HQ's/Superman E Homem-Aranha (Encontros Clássicos Marvel E DC).webp
 tags:
   - Quadrinho

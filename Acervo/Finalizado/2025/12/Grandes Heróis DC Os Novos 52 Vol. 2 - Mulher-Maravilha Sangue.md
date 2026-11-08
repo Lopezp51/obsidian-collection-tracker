@@ -1,26 +1,24 @@
 ---
 Processado em: 2025-12-07
 Situação: Finalizado
-Data de Entrega: null
+Data de Entrega:
 Chegou: true
-Status de Leitura:
-- Não Iniciado
+Status de Leitura: Lendo
 Vezes que Li: 0
 Páginas: 160
 valor: 25.27
 Favorito: false
-Avaliação: null
-imagem: Banco de Imagens/HQ's/Grandes Heróis DC Os Novos 52 Vol. 2 - Mulher-Maravilha
-  Sangue.webp
+Avaliação:
+imagem: Banco de Imagens/HQ's/Grandes Heróis DC Os Novos 52 Vol. 2 - Mulher-Maravilha Sangue.webp
 Tipo: Quadrinho
-Última Leitura: null
+Última Leitura:
 Data de Publicação: 2013-01-01
 Universo: DC
 Nexo:
-- Quadrinho
-- Grandes Heróis DC
-- Mulher-Maravilha
-- Panini
+  - Quadrinho
+  - Grandes Heróis DC
+  - Mulher-Maravilha
+  - Panini
 ---
 
 > [!bookbox]

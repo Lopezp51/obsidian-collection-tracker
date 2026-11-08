@@ -1,34 +1,36 @@
 ---
-Situação: Faturado
-Data de Publicação: 2026-10-17
+Situação: Finalizado
+Data de Publicação: 2026-10-01
 Coleção:
   - Universo Absolute
-Páginas: 32
+  - Batman
+Páginas: 48
 Formato:
-  - Capa Cartão
+  - Grampo
 Editora:
   - DC
   - Panini
 Roteiro:
-  - Al Ewing
+  - Scott Snyder
 Arte:
-  - Giuseppe Camuncoli
-  - Stefano Nesi
+  - Marcos Martín
+  - Nick Dragotta
 Cores:
-  - Rômulo Fajardo Jr.
-valor: 13.7
-Processado em:
-Data de Entrega:
-Chegou: false
-Favorito: false
-Status de Leitura: Não Iniciado
-Última Leitura:
-Avaliação: 0
-Vezes que Li: 0
+  - Muntsa Vicente
+  - Frank Martin
+valor: 19.05
+Processado em: 2026-10-01
+Data de Entrega: 2026-10-19
+Chegou: true
+Favorito: true
+Status de Leitura: Lido
+Última Leitura: 2026-11-04
+Avaliação: 5
+Vezes que Li: 1
 Pegar em promoção: false
 Assinatura: false
-Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Absolute Vilania 01.webp
+Colocado no saquinho: 2026-11-04
+imagem: Banco de Imagens/HQ's e Mangas/Absolute Batman 07 - Capa Variante.webp
 tags:
   - Quadrinho
 ---
@@ -82,3 +84,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-11-04] | [pagina:: 48] | [obs:: ]

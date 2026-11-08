@@ -3,15 +3,15 @@ Processado em: 2026-09-11
 Situação: Finalizado
 Data de Entrega: 2026-09-15
 Chegou: true
-Status de Leitura: Lendo
-Vezes que Li: 0
+Status de Leitura: Lido
+Vezes que Li: 1
 Páginas: 188
 valor: 69.93
 Favorito: false
-Avaliação: 0
+Avaliação: 4
 imagem: Banco de Imagens/HQ's/Timm Smoke Cinzas de Silício.jpg
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-11-02
 Data de Publicação: 2026-09-07
 Universo: Indie
 Planejo pegar em:
@@ -66,3 +66,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-11-02] | [pagina:: 188] | [obs:: Parte mais chamativa com toda certeza foi a arte do Ian, muito linda a arte dele, a história achei intrigante, mas no final o confronto final com a IA me perdeu um pouco, mas quero ver mais desse mundo, espero que tenha muitas histórias ainda. Mas a Jenna com certeza roubou a cena, ela é muito daora.]

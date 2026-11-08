@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
 Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
+Avaliação: 3
+Última Leitura: 2026-11-08
+Status de Leitura: Lido
 Processado em: 2026-08-31
 Data de Entrega: 2026-10-05
 Chegou: true
@@ -75,3 +75,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-11-08] | [pagina:: 56] | [obs:: Foi interessante pra ver como está cada núcleo dos mutante, apesar de ser mais pra frente pelo jeito essa história do que onde estou, foi okay]

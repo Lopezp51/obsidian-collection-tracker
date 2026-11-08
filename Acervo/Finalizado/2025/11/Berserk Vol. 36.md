@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Lendo
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-11-02
+Status de Leitura: Lido
 Processado em: 2025-11-12
 Data de Entrega:
 Chegou: true
@@ -15,7 +15,7 @@ Editora:
   - Panini
 valor: 44.9
 Páginas: 216
-Vezes que Li: 0
+Vezes que Li: 1
 Roteiro:
   - Kentaro Miura
 Arte:
@@ -74,3 +74,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-11-02] | [pagina:: 216] | [obs:: Dam irado a batalha contra o deus do mar, ouvir com a OST do black flag melhorou em muito a leitura. A apariação das sereias foi irada, bem como a aparição do que acho que é o filho do Guts e da Cask, to curioso o do pq ele sempre aparece em lua cheia, seria pelo eclipse será?]

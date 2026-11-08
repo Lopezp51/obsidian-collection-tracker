@@ -24,7 +24,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Os Fabulosos X-Men (2025) 15.webp
+imagem: Banco de Imagens/HQ's e Mangas/Os Fabulosos X-Men (2025) 15.webp
 tags:
   - Quadrinho
 ---

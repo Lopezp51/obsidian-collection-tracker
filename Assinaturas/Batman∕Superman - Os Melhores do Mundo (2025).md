@@ -5,7 +5,7 @@ Editora:
 Status: Ativa
 Envio: Mensal
 Parcelas: 12
-Valor Original: 178.80
+Valor Original: 178.8
 Desconto: 37%
 Valor Total: 112.65
 Valor Mensal: 9.39
@@ -15,7 +15,7 @@ Fim Pagamento: 2027-10
 Status Pagamento: Em Pagamento
 Volume Inicial: 11
 Volume Final Contratado: 22
-Volume Atual Recebido: 0
+Volume Atual Recebido: 11
 imagem: Banco de Imagens/HQ's/Batman∕Superman - Os Melhores Do Mundo (2025) 11.webp
 tags:
   - Assinatura

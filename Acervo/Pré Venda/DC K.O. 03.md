@@ -1,6 +1,6 @@
 ---
-Situação: Pré Venda
-Data de Publicação: 2026-10-31
+Situação: Faturado
+Data de Publicação: 2026-11-06
 Coleção:
   - Sem Limites
 Páginas: 64
@@ -13,7 +13,7 @@ Roteiro: []
 Arte: []
 Cores: []
 valor: 22.87
-Processado em: 2026-10-31
+Processado em: 2026-11-06
 Data de Entrega:
 Chegou: false
 Favorito: false

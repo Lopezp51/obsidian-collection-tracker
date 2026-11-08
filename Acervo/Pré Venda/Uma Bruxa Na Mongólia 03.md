@@ -1,6 +1,6 @@
 ---
-Situação: Pré Venda
-Data de Publicação: 2026-11-30
+Situação: Faturado
+Data de Publicação: 2026-11-03
 Coleção:
 Páginas: 176
 Formato:
@@ -11,7 +11,7 @@ Roteiro: []
 Arte: []
 Cores: []
 valor: 35.88
-Processado em: 2026-11-30
+Processado em: 2026-11-03
 Data de Entrega:
 Chegou: false
 Favorito: false

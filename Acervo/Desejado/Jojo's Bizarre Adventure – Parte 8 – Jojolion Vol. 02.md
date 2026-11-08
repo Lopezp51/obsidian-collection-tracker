@@ -1,14 +1,12 @@
 ---
 Situação: Desejado
-Data de Publicação: 2026-10-30
+Data de Publicação: 2027-01-31
 Coleção:
-  - Flash
-  - Universo Absolute
-Páginas: 48
+  - Jojo's
+Páginas: 192
 Formato:
-  - Grampo
+  - Tankobon
 Editora:
-  - DC
   - Panini
 Roteiro: []
 Arte: []
@@ -25,9 +23,9 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Absolute Flash 05.webp
+imagem: Banco de Imagens/HQ's e Mangas/Jojo's Bizarre Adventure – Parte 8 – Jojolion Vol. 02.webp
 tags:
-  - Quadrinho
+  - Manga
 ---
 
 > [!bookbox]

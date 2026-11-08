@@ -1,29 +1,30 @@
 ---
-Situação: Faturado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Não Iniciado
-Processado em: 2026-08-07
-Data de Entrega:
-Chegou: false
-Data de Publicação: 2026-08-07
+Situação: Desejado
+Data de Publicação: 2026-11-10
 Coleção:
-  - Batman
-  - Sem Limites
+Páginas: 216
 Formato:
-  - Grampo
+  - Tankobon
 Editora:
-  - DC
-valor: 13.02
-Páginas: 48
-Vezes que Li: 0
+  - Comix Zone
 Roteiro: []
 Arte: []
 Cores: []
-imagem: Banco de Imagens/HQ's/Batman (2025) 10.webp
+valor:
+Processado em:
+Data de Entrega:
+Chegou: false
+Favorito: false
+Status de Leitura: Não Iniciado
+Última Leitura:
+Avaliação: 0
+Vezes que Li: 0
+Pegar em promoção: false
+Assinatura: false
+Colocado no saquinho:
+imagem: Banco de Imagens/HQ's e Mangas/Shin Zero Vol. 02.jpg
 tags:
-  - Quadrinho
+  - Manga
 ---
 
 > [!bookbox]

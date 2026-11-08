@@ -24,6 +24,7 @@ Cores: []
 imagem: Banco de Imagens/HQ's/Excepcionais X-Men 10.webp
 tags:
   - Quadrinho
+Colocado no saquinho: 2026-10-11
 ---
 
 > [!bookbox]

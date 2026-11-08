@@ -10,9 +10,12 @@ Formato:
 Editora:
   - Marvel
   - Panini
-Roteiro: []
-Arte: []
-Cores: []
+Roteiro:
+  - Frank Miller
+Arte:
+  - David Mazzucchelli
+Cores:
+  - Christie Scheele
 valor: 68.63
 Processado em: 2026-10-02
 Data de Entrega: 2026-10-08

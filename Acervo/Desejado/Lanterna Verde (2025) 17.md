@@ -1,18 +1,19 @@
 ---
 Situação: Desejado
-Data de Publicação: 2026-10-31
+Data de Publicação: 2027-01-31
 Coleção:
-  - Crise Nas Infinitas Terras
-Páginas: 264
+  - Lanterna Verde
+  - Sem Limites
+Páginas: 64
 Formato:
-  - Capa Cartão
+  - Grampo
 Editora:
   - DC
   - Panini
 Roteiro: []
 Arte: []
 Cores: []
-valor:
+valor: 12.54
 Processado em:
 Data de Entrega:
 Chegou: false
@@ -24,7 +25,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Crise Nas Infinitas Terras Vol. 06.webp
+imagem: Banco de Imagens/HQ's e Mangas/Lanterna Verde (2025) 17.webp
 tags:
   - Quadrinho
 ---

@@ -13,7 +13,7 @@ Roteiro: []
 Arte: []
 Cores: []
 valor: 34.4
-Processado em: 2026-10-31
+Processado em: 2026-11-27
 Data de Entrega:
 Chegou: false
 Favorito: false

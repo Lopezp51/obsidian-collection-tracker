@@ -15,7 +15,7 @@ Cores: []
 valor: 59.78
 Processado em: 2026-09-22
 Data de Entrega: 2026-10-16
-Chegou: false
+Chegou: true
 Favorito: false
 Status de Leitura: Não Iniciado
 Última Leitura:

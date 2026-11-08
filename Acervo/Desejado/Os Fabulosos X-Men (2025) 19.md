@@ -1,20 +1,19 @@
 ---
-Situação: Faturado
-Data de Publicação: 2026-10-16
+Situação: Desejado
+Data de Publicação: 2027-01-31
 Coleção:
-  - Sem Limites
-  - Superman
+  - X-Men
 Páginas: 48
 Formato:
-  - Grampo
+  - Capa dura
 Editora:
-  - DC
+  - Marvel
   - Panini
 Roteiro: []
 Arte: []
 Cores: []
-valor: 14.02
-Processado em: 2026-10-16
+valor: 12.54
+Processado em:
 Data de Entrega:
 Chegou: false
 Favorito: false
@@ -25,7 +24,7 @@ Vezes que Li: 0
 Pegar em promoção: false
 Assinatura: true
 Colocado no saquinho:
-imagem: Banco de Imagens/HQ's/Superman (2025) 13.webp
+imagem: Banco de Imagens/HQ's e Mangas/Os Fabulosos X-Men (2025) 19.webp
 tags:
   - Quadrinho
 ---

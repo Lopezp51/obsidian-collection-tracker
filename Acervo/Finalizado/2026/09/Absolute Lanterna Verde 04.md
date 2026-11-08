@@ -1,9 +1,9 @@
 ---
 Situação: Finalizado
-Favorito: false
-Avaliação: 0
-Última Leitura:
-Status de Leitura: Lendo
+Favorito: true
+Avaliação: 5
+Última Leitura: 2026-10-23
+Status de Leitura: Lido
 Processado em: 2026-09-11
 Data de Entrega: 2026-09-21
 Chegou: true
@@ -19,12 +19,16 @@ Editora:
 valor: 19.05
 Páginas: 48
 Vezes que Li: 0
-Roteiro: []
-Arte: []
-Cores: []
-imagem: Banco de Imagens/HQ's/Absolute Lanterna Verde 04.webp
+Roteiro:
+  - Al Ewing
+Arte:
+  - Jahnoy Lindsay
+Cores:
+  - Jahnoy Lindsay
+imagem: Banco de Imagens/HQ's e Mangas/Absolute Lanterna Verde 04.webp
 tags:
   - Quadrinho
+Colocado no saquinho: 2026-10-23
 ---
 
 > [!bookbox]
@@ -76,3 +80,4 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-10-23] | [pagina:: 48] | [obs:: Caramba que irado foi esse volume, teve a parte cosmica na primeira história abordando o Mogo e Sinistro, bem como um lanterna vermelha. E mais da origem da Jo, achei irado, ela não é uma pessoa perfeita, ela é falha, com defeitas, ela erra, mas tenta fazer o certo e acho que vamos ver essa evolução dela]

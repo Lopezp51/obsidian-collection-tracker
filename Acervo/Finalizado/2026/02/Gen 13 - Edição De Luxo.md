@@ -3,15 +3,15 @@ Processado em: 2026-02-02
 Situação: Finalizado
 Data de Entrega: 2026-02-13
 Chegou: true
-Status de Leitura: Lendo
+Status de Leitura: Lido
 Vezes que Li: 0
 Páginas: 352
 valor: 117.27
 Favorito: false
-Avaliação: 0
+Avaliação: 4
 imagem: Banco de Imagens/HQ's/Gen 13 - Edição De Luxo.webp
 Tipo: Quadrinho
-Última Leitura:
+Última Leitura: 2026-11-01
 Data de Publicação: 2025-08-14
 Universo: DC
 Planejo pegar em:
@@ -66,3 +66,6 @@ SORT item.data DESC
 ### Páginas lidas
 
 > [!quote]- Dados de Leitura (Clique para expandir)
+> - [data:: 2026-10-24] | [pagina:: 184] | [obs:: Olha não vou mentir, a uns dias eu pensei que arrpendimento comprar isso, comprei só na emoção na época e realmente tipo ele é bem sexualizado, é um produto da época. Mas achei que ia ser só isso e sinceramente a história está sendo muito boa, achei que ia depender hard  do apelo, mas to achando bem legal a dinamica do grupo, leitura foi boa e ta passando rápido o tempo]
+> - [data:: 2026-10-31] | [pagina:: 261] | [obs:: Segue divertido, mas o apelo muito alto ainda, mas confesso que queria ver mais, mais duas histórias e chegamos ao fim]
+> - [data:: 2026-11-01] | [pagina:: 352] | [obs:: Geral foi legal, fiquei curioso para o que viria depois, quem sabe se ter mais publicações pegarei]

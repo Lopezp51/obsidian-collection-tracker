@@ -1,7 +1,9 @@
 ---
-Situação: Pré Venda
-Data de Publicação: 2026-09-30
+Situação: Faturado
+Data de Publicação: 2026-11-05
 Coleção:
+  - Liga da Justiça
+  - Vingadores
 Páginas: 48
 Formato:
   - Capa Cartão
@@ -16,7 +18,7 @@ Arte:
 Cores:
   - Tom Smith
 valor: 19.05
-Processado em: 2026-10-23
+Processado em: 2026-11-06
 Data de Entrega:
 Chegou: false
 Favorito: false
